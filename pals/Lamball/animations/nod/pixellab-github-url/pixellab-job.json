@@ -1,0 +1,14 @@
+﻿{
+    "action":  "nod",
+    "job_id":  "cb0a4014-9dc1-41b5-84cf-a8593aa4d428",
+    "source_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "last_frame_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "prompt":  "Tiny nod loop for this exact pixel art Lamball sprite. Lamball dips its head/body downward slightly and comes back up as a confirmation gesture. Eyes may blink briefly. Keep horns, ears, wool silhouette, dark face patch, feet, colors, outline, and transparent background consistent. No walking, no turning, no props. Return to original pose by the loop end.",
+    "frame_count_requested":  4,
+    "frames_returned":  5,
+    "size":  "96x96",
+    "transparent":  true,
+    "seed":  43006,
+    "cost":  "1 generation",
+    "note":  "Frame 0 is the PixelLab-returned input frame; remaining frames are generated."
+}

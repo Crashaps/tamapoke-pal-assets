@@ -1,0 +1,13 @@
+﻿{
+    "action":  "walk-left",
+    "job_id":  "1e2fe632-a2fd-4823-a75c-90fe43353ab8",
+    "source_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "prompt":  "Four-frame walk cycle moving left for this exact pixel art Lamball sprite. Lamball stays cute and round, waddles left with tiny feet stepping, wool bobbing gently. Keep horns, ears, wool clumps, dark face patch, colors, outline, and transparent background consistent. No attack effects, no props, no large deformation. Make it a looping walk animation suitable for a 96x96 game sprite.",
+    "frame_count_requested":  4,
+    "frames_returned":  5,
+    "size":  "96x96",
+    "transparent":  true,
+    "seed":  43007,
+    "cost":  "1 generation",
+    "note":  "Frame 0 is the PixelLab-returned input frame; remaining frames are generated."
+}

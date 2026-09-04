@@ -1,0 +1,12 @@
+﻿{
+    "job_id":  "fe3d65c6-f754-44bd-b601-8b8d5f73b1c2",
+    "source_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "action":  "Subtle neutral breathing idle loop for this exact pixel art Lamball sprite. Keep eyes open, keep the mouth and expression neutral, keep horns, ears, wool shape, face markings, feet, proportions, colors, outline, and transparent background unchanged. Only a tiny body expansion and contraction from breathing; no smile, no closed eyes, no walking, no hopping, no turning, no pose change.",
+    "frame_count_requested":  4,
+    "frames_returned":  5,
+    "size":  "96x96",
+    "transparent":  true,
+    "seed":  42816,
+    "cost":  "1 generation",
+    "note":  "Frame 0 is the input frame returned unchanged by PixelLab; frames 1-4 are generated."
+}

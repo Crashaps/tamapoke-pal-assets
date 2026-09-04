@@ -1,0 +1,14 @@
+﻿{
+    "action":  "sit",
+    "job_id":  "14bd33b9-a2d4-48d9-ba47-1701fb2b0b84",
+    "source_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "last_frame_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "prompt":  "Calm sitting rest loop for this exact pixel art Lamball sprite. Lamball settles lower into a seated/resting pose, eyes may gently close and reopen, body breathes slowly, then returns to original standing pose by the loop end. Keep horns, ears, wool shape, dark face patch, colors, outline, and transparent background consistent. No walking, no props, no attack effects.",
+    "frame_count_requested":  6,
+    "frames_returned":  7,
+    "size":  "96x96",
+    "transparent":  true,
+    "seed":  43010,
+    "cost":  "1 generation",
+    "note":  "Frame 0 is the PixelLab-returned input frame; remaining frames are generated."
+}

@@ -1,0 +1,14 @@
+﻿{
+    "action":  "eat",
+    "job_id":  "5d489cf4-674f-47aa-ab03-6b7403aca32e",
+    "source_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "last_frame_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "prompt":  "Small cute eating loop for this exact pixel art Lamball sprite. Lamball does a subtle chew or nibble motion in place; mouth may open and close slightly. Keep horns, ears, wool silhouette, face patch, feet, colors, outline, and transparent background consistent. Do not add a large food prop; no walking, no turning, no big bounce. Return to the original pose by the loop end.",
+    "frame_count_requested":  4,
+    "frames_returned":  5,
+    "size":  "96x96",
+    "transparent":  true,
+    "seed":  43002,
+    "cost":  "1 generation",
+    "note":  "Frame 0 is the PixelLab-returned input frame; remaining frames are generated."
+}

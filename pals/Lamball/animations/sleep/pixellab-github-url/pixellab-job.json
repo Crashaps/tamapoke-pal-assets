@@ -1,0 +1,14 @@
+﻿{
+    "action":  "sleep",
+    "job_id":  "688a9c80-6306-4e27-a002-45eab5ea21e4",
+    "source_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "last_frame_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "prompt":  "Cute sleepy idle loop for this exact pixel art Lamball sprite. Lamball relaxes in place and breathes slowly; eyes gently close for sleeping and reopen or return by the loop end. Keep horns, ears, wool silhouette, dark face patch, feet, colors, outline, and transparent background consistent. No walking, no attack, no props, no large pose change.",
+    "frame_count_requested":  6,
+    "frames_returned":  7,
+    "size":  "96x96",
+    "transparent":  true,
+    "seed":  43001,
+    "cost":  "1 generation",
+    "note":  "Frame 0 is the PixelLab-returned input frame; remaining frames are generated."
+}

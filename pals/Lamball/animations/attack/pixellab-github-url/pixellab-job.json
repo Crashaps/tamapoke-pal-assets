@@ -1,0 +1,14 @@
+﻿{
+    "action":  "attack",
+    "job_id":  "a0c0900c-f4ea-4d86-9072-facef37c786e",
+    "source_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "prompt":  "Short cute attack loop for this exact pixel art Lamball sprite. Lamball winds up by squashing slightly, lunges forward a little like a soft body bump, then returns to the original pose. Keep horns, ears, wool silhouette, dark face patch, feet, colors, outline, and transparent background consistent. No big visual effects, no weapons, no props, no projectile. Suitable for a 96x96 game sprite.",
+    "frame_count_requested":  4,
+    "frames_returned":  5,
+    "size":  "96x96",
+    "transparent":  true,
+    "seed":  43009,
+    "cost":  "1 generation",
+    "note":  "Frame 0 is the PixelLab-returned input frame; remaining frames are generated.",
+    "last_frame_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png"
+}

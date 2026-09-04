@@ -1,0 +1,13 @@
+{
+  "action": "idle",
+  "source": "copied from breathing-idle-github-url-test because user accepted that result as successful",
+  "job_id": "fe3d65c6-f754-44bd-b601-8b8d5f73b1c2",
+  "source_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+  "frame_count_requested": 4,
+  "frames_returned": 5,
+  "size": "96x96",
+  "transparent": true,
+  "seed": 42816,
+  "cost": "1 generation",
+  "note": "Frame 0 is the PixelLab-returned input frame; remaining frames are generated."
+}

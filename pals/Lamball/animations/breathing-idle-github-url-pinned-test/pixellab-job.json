@@ -1,0 +1,13 @@
+﻿{
+    "job_id":  "333f5b02-e2f9-4768-93e9-ebadbc3c15a1",
+    "source_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "last_frame_url":  "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+    "action":  "Looping sprite breathing only. Keep the face completely static: eyes stay open, pupils stay in the same place, mouth stays the same small neutral mouth, no blinking, no smile, no closed eyes, no facial expression change. Keep horns, ears, wool silhouette, dark face patch, feet, colors, outline, and transparent background unchanged. Animate only a one-pixel rise and fall / tiny expansion of the wool body for breathing, returning exactly to the input pose at the end.",
+    "frame_count_requested":  4,
+    "frames_returned":  5,
+    "size":  "96x96",
+    "transparent":  true,
+    "seed":  42817,
+    "cost":  "1 generation",
+    "note":  "Frame 0 is the input frame returned unchanged by PixelLab; frames 1-4 are generated, with the final frame guided by the same source URL."
+}

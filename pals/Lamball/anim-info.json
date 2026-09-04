@@ -1,0 +1,126 @@
+{
+  "pal": "Lamball",
+  "format_version": 1,
+  "source_front_image_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+  "frame_size": {
+    "width": 96,
+    "height": 96
+  },
+  "notes": [
+    "PixelLab animate_image returns the input frame as frame 0, followed by generated frames.",
+    "All listed first-pass PixelLab outputs preserve the returned frame 0 for visual review.",
+    "Walk left/right are front-facing waddles; they are usable for early testing but may need side-view keyframes later."
+  ],
+  "actions": {
+    "PMD_IDLE": {
+      "folder": "animations/idle/pixellab-github-url",
+      "frames": "animations/idle/pixellab-github-url/frames-96",
+      "sheet": "animations/idle/pixellab-github-url/sheet.png",
+      "preview": "animations/idle/pixellab-github-url/preview.gif",
+      "source": "PixelLab GitHub URL test accepted by user",
+      "frames_returned": 5,
+      "status": "accepted_first_pass"
+    },
+    "PMD_WALKL": {
+      "folder": "animations/walk-left/pixellab-github-url",
+      "frames": "animations/walk-left/pixellab-github-url/frames-96",
+      "sheet": "animations/walk-left/pixellab-github-url/sheet.png",
+      "preview": "animations/walk-left/pixellab-github-url/preview.gif",
+      "source": "PixelLab animate_image",
+      "frames_returned": 5,
+      "status": "review_needed",
+      "note": "Front-facing waddle rather than a true side walk."
+    },
+    "PMD_WALKR": {
+      "folder": "animations/walk-right/pixellab-github-url",
+      "frames": "animations/walk-right/pixellab-github-url/frames-96",
+      "sheet": "animations/walk-right/pixellab-github-url/sheet.png",
+      "preview": "animations/walk-right/pixellab-github-url/preview.gif",
+      "source": "PixelLab animate_image",
+      "frames_returned": 5,
+      "status": "review_needed",
+      "note": "Front-facing waddle rather than a true side walk."
+    },
+    "PMD_SLEEP": {
+      "folder": "animations/sleep/pixellab-github-url",
+      "frames": "animations/sleep/pixellab-github-url/frames-96",
+      "sheet": "animations/sleep/pixellab-github-url/sheet.png",
+      "preview": "animations/sleep/pixellab-github-url/preview.gif",
+      "source": "PixelLab animate_image",
+      "frames_returned": 7,
+      "status": "accepted_first_pass"
+    },
+    "PMD_EAT": {
+      "folder": "animations/eat/pixellab-github-url",
+      "frames": "animations/eat/pixellab-github-url/frames-96",
+      "sheet": "animations/eat/pixellab-github-url/sheet.png",
+      "preview": "animations/eat/pixellab-github-url/preview.gif",
+      "source": "PixelLab animate_image",
+      "frames_returned": 5,
+      "status": "accepted_first_pass"
+    },
+    "PMD_HURT": {
+      "folder": "animations/hurt/pixellab-github-url",
+      "frames": "animations/hurt/pixellab-github-url/frames-96",
+      "sheet": "animations/hurt/pixellab-github-url/sheet.png",
+      "preview": "animations/hurt/pixellab-github-url/preview.gif",
+      "source": "PixelLab animate_image",
+      "frames_returned": 5,
+      "status": "accepted_first_pass"
+    },
+    "PMD_ATTACK": {
+      "folder": "animations/attack/pixellab-github-url",
+      "frames": "animations/attack/pixellab-github-url/frames-96",
+      "sheet": "animations/attack/pixellab-github-url/sheet.png",
+      "preview": "animations/attack/pixellab-github-url/preview.gif",
+      "source": "PixelLab animate_image",
+      "frames_returned": 5,
+      "status": "accepted_first_pass"
+    },
+    "PMD_POSE": {
+      "folder": "animations/pose/pixellab-github-url",
+      "frames": "animations/pose/pixellab-github-url/frames-96",
+      "sheet": "animations/pose/pixellab-github-url/sheet.png",
+      "preview": "animations/pose/pixellab-github-url/preview.gif",
+      "source": "PixelLab animate_image",
+      "frames_returned": 5,
+      "status": "accepted_first_pass"
+    },
+    "PMD_HOP": {
+      "folder": "animations/hop/pixellab-github-url",
+      "frames": "animations/hop/pixellab-github-url/frames-96",
+      "sheet": "animations/hop/pixellab-github-url/sheet.png",
+      "preview": "animations/hop/pixellab-github-url/preview.gif",
+      "source": "PixelLab animate_image",
+      "frames_returned": 5,
+      "status": "accepted_first_pass"
+    },
+    "PMD_NOD": {
+      "folder": "animations/nod/pixellab-github-url",
+      "frames": "animations/nod/pixellab-github-url/frames-96",
+      "sheet": "animations/nod/pixellab-github-url/sheet.png",
+      "preview": "animations/nod/pixellab-github-url/preview.gif",
+      "source": "PixelLab animate_image",
+      "frames_returned": 5,
+      "status": "accepted_first_pass"
+    },
+    "PMD_BREATH": {
+      "folder": "animations/breath/pixellab-github-url",
+      "frames": "animations/breath/pixellab-github-url/frames-96",
+      "sheet": "animations/breath/pixellab-github-url/sheet.png",
+      "preview": "animations/breath/pixellab-github-url/preview.gif",
+      "source": "Same PixelLab GitHub URL test as PMD_IDLE",
+      "frames_returned": 5,
+      "status": "accepted_first_pass"
+    },
+    "PMD_SIT": {
+      "folder": "animations/sit/pixellab-github-url",
+      "frames": "animations/sit/pixellab-github-url/frames-96",
+      "sheet": "animations/sit/pixellab-github-url/sheet.png",
+      "preview": "animations/sit/pixellab-github-url/preview.gif",
+      "source": "PixelLab animate_image",
+      "frames_returned": 7,
+      "status": "accepted_first_pass"
+    }
+  }
+}
