@@ -1,0 +1,178 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Bushi",
+  "source_page": "Bushi",
+  "name": "Bushi",
+  "number": "085",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/c/c0/Bushi.png/revision/latest/scale-to-width-down/268?cb=20240709091250",
+      "file": "pals/Bushi/Bushi.png",
+      "alt": "Bushi"
+    }
+  },
+  "elements": [
+    "fire"
+  ],
+  "food": 5,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "bone",
+      "quantity": "1-2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "ingot",
+      "quantity": "2-3",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Its body becomes a blade upon death, to be taken up by the next generation. If someone other than a Bushi wields this blade, the soul within torments them until they are driven mad.",
+  "availability": {
+    "Dungeons": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 80,
+          "min": 4100,
+          "max": 5060
+        },
+        "attack": {
+          "growth": 125,
+          "min": 850,
+          "max": 1075
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 80,
+          "min": 4100,
+          "max": 5060
+        },
+        "attack": {
+          "growth": 125,
+          "min": 850,
+          "max": 1075
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 1.5,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "brandish_blade"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "kindling",
+        "level": 2
+      },
+      {
+        "work_id": "handiwork",
+        "level": 1
+      },
+      {
+        "work_id": "transporting",
+        "level": 2
+      },
+      {
+        "work_id": "lumbering",
+        "level": 3
+      },
+      {
+        "work_id": "gathering",
+        "level": 1
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "ignis_blast"
+    },
+    {
+      "level": 7,
+      "skill_id": "wind_cutter"
+    },
+    {
+      "level": 15,
+      "skill_id": "icicle_cutter"
+    },
+    {
+      "level": 22,
+      "skill_id": "iaigiri"
+    },
+    {
+      "level": 30,
+      "skill_id": "ignis_breath"
+    },
+    {
+      "level": 40,
+      "skill_id": "lightning_strike"
+    },
+    {
+      "level": 50,
+      "skill_id": "ignis_rage"
+    },
+    {
+      "level": 70,
+      "skill_id": "fire_ball"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Scorching Egg",
+    "egg_type_id": "scorching_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Bushi/sprites/front-chroma.png",
+      "transparent": "pals/Bushi/sprites/front-transparent.png",
+      "front_96": "pals/Bushi/sprites/front-96.png",
+      "front_96_pal32": "pals/Bushi/sprites/front-96-pal32.png",
+      "front_64": "pals/Bushi/sprites/front-64.png",
+      "front_64_pal32": "pals/Bushi/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

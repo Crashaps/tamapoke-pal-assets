@@ -1,0 +1,106 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Green_Slime",
+  "source_page": "Green_Slime",
+  "name": "Green Slime",
+  "number": "ToT",
+  "group": "crossover",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/4/49/Green_Slime_menu.png/revision/latest/scale-to-width-down/268?cb=20250625080327",
+      "file": "pals/Green Slime/Green_Slime_menu.png",
+      "alt": "Green Slime menu"
+    }
+  },
+  "elements": [
+    "grass"
+  ],
+  "food": 2,
+  "gender_ratio": null,
+  "drops": [],
+  "palpedia_entry": null,
+  "availability": {
+    "Dungeons": [
+      "Sealed Realm of Terraria"
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 65,
+          "min": "???",
+          "max": "???"
+        },
+        "attack": {
+          "growth": 100,
+          "min": "???",
+          "max": "???"
+        },
+        "defense": {
+          "growth": 80,
+          "min": "???",
+          "max": "???"
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 65,
+          "min": "???",
+          "max": "???"
+        },
+        "attack": {
+          "growth": 100,
+          "min": "???",
+          "max": "???"
+        },
+        "defense": {
+          "growth": 80,
+          "min": "???",
+          "max": "???"
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {},
+  "utility": {
+    "partner_skill_ids": [
+      "slime_body"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "transporting",
+        "level": 1
+      }
+    ],
+    "possible_drops": {
+      "normal": []
+    }
+  },
+  "active_skills": [],
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Green Slime/sprites/front-chroma.png",
+      "transparent": "pals/Green Slime/sprites/front-transparent.png",
+      "front_96": "pals/Green Slime/sprites/front-96.png",
+      "front_96_pal32": "pals/Green Slime/sprites/front-96-pal32.png",
+      "front_64": "pals/Green Slime/sprites/front-64.png",
+      "front_64_pal32": "pals/Green Slime/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

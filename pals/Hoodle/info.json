@@ -1,0 +1,149 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Hoodle",
+  "source_page": "Hoodle",
+  "name": "Hoodle",
+  "number": "166",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/f/f6/Hoodle.png/revision/latest/scale-to-width-down/268?cb=20260718020035",
+      "file": "pals/Hoodle/Hoodle.png",
+      "alt": "Hoodle"
+    }
+  },
+  "elements": [
+    "dark"
+  ],
+  "food": 3,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "small_pal_soul",
+      "quantity": "1-2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "horn",
+      "quantity": "1-2",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "When it sleeps, it deflates. When it sleeps, it's no longer there. A sleeping Hoodle cannot exist; Therefore, Hoodle never sleeps.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 85,
+          "min": 610,
+          "max": 763
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 85,
+          "min": 610,
+          "max": 763
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "dark_ball"
+    },
+    {
+      "level": 7,
+      "skill_id": "dark_cannon"
+    },
+    {
+      "level": 15,
+      "skill_id": "shadow_burst"
+    },
+    {
+      "level": 22,
+      "skill_id": "spirit_flame"
+    },
+    {
+      "level": 30,
+      "skill_id": "nightmare_ball"
+    },
+    {
+      "level": 40,
+      "skill_id": "apocalypse"
+    },
+    {
+      "level": 50,
+      "skill_id": "dark_laser"
+    },
+    {
+      "level": 70,
+      "skill_id": "dark_whisp"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Dark Egg",
+    "egg_type_id": "dark_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Hoodle/sprites/front-chroma.png",
+      "transparent": "pals/Hoodle/sprites/front-transparent.png",
+      "front_96": "pals/Hoodle/sprites/front-96.png",
+      "front_96_pal32": "pals/Hoodle/sprites/front-96-pal32.png",
+      "front_64": "pals/Hoodle/sprites/front-64.png",
+      "front_64_pal32": "pals/Hoodle/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

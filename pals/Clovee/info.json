@@ -1,0 +1,49 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Clovee",
+  "source_page": "Clovee",
+  "name": "Clovee",
+  "number": "014",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/a/a4/Clovee.png/revision/latest?cb=20260717053726",
+      "file": "pals/Clovee/Clovee.png",
+      "alt": "Clovee"
+    }
+  },
+  "elements": [
+    "grass",
+    "neutral"
+  ],
+  "food": 1,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "berry_seeds",
+      "quantity": "1-2",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Some individuals once had three or more leaves on their foreheads. Regarded as symbols of good fortune, those with more leaves were heavily hunted, leading the species to evolve fewer leaves over time.",
+  "availability": {},
+  "pal_eggs": [],
+  "stats": {},
+  "elemental_effectiveness": {},
+  "utility": {},
+  "active_skills": [],
+  "pal_egg": {
+    "text": "Small Verdant Egg",
+    "egg_type_id": "verdant_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Clovee/sprites/front-chroma.png",
+      "transparent": "pals/Clovee/sprites/front-transparent.png",
+      "front_96": "pals/Clovee/sprites/front-96.png",
+      "front_96_pal32": "pals/Clovee/sprites/front-96-pal32.png",
+      "front_64": "pals/Clovee/sprites/front-64.png",
+      "front_64_pal32": "pals/Clovee/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

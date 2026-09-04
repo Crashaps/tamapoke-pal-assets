@@ -1,0 +1,128 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Beakon_Cryst",
+  "source_page": "Beakon_Cryst",
+  "name": "Beakon Cryst",
+  "number": "096B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/2/25/Beakon_Cryst.png/revision/latest/scale-to-width-down/268?cb=20260718015842",
+      "file": "pals/Beakon Cryst/Beakon_Cryst.png",
+      "alt": "Beakon Cryst"
+    }
+  },
+  "elements": [
+    "ice"
+  ],
+  "food": 5,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "ice_organ",
+      "quantity": "1-2",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Perfectly adapted to colder environments, it hardly feels the cold despite its slender form. Its diving plunge carries tremendous force, as if a giant icicle were dropping straight from the sky.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 115,
+          "min": 790,
+          "max": 997
+        },
+        "defense": {
+          "growth": 85,
+          "min": 560,
+          "max": 713
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 115,
+          "min": 790,
+          "max": 997
+        },
+        "defense": {
+          "growth": 85,
+          "min": 560,
+          "max": 713
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 1.0,
+    "dragon": 0.66
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "ice_missile"
+    },
+    {
+      "level": 7,
+      "skill_id": "iceberg"
+    },
+    {
+      "level": 30,
+      "skill_id": "icicle_line"
+    },
+    {
+      "level": 40,
+      "skill_id": "blizzard_spike"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Frozen Egg",
+    "egg_type_id": "frozen_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Beakon Cryst/sprites/front-chroma.png",
+      "transparent": "pals/Beakon Cryst/sprites/front-transparent.png",
+      "front_96": "pals/Beakon Cryst/sprites/front-96.png",
+      "front_96_pal32": "pals/Beakon Cryst/sprites/front-96-pal32.png",
+      "front_64": "pals/Beakon Cryst/sprites/front-64.png",
+      "front_64_pal32": "pals/Beakon Cryst/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

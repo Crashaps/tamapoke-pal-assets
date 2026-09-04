@@ -1,0 +1,11 @@
+Use case: stylized-concept
+Asset type: 5-frame pixel-art WalkL animation spritesheet for a handheld virtual pet game
+Input images: Image 1 is the original Lamball creature reference for anatomy, colors, wool shape, dark face, horns, ears, and tiny legs. Image 2 is the existing 96px pixel-art sprite style reference for palette, outline weight, and pixel-art readability.
+Primary request: Create one horizontal spritesheet containing exactly 5 frames of Lamball walking left.
+Subject: a round fluffy lamb creature, cream wool body, dark face, small horns, small dark ears, tiny legs, cute neutral expression.
+Pose/view: left-facing side or three-quarter-left view, clearly moving toward the left side of the sheet. Keep the body round and fluffy, with short leg steps visible under the wool.
+Style/medium: crisp 2D pixel art, limited palette, readable at 96px, clean dark outline, consistent character proportions across all frames.
+Composition/framing: exactly 5 equal square cells arranged left-to-right in one row; each cell contains one full-body Lamball centered with consistent baseline and padding.
+Animation direction: simple looping walk cycle over 5 frames: contact, down, passing, up, return/contact. Use small bobbing and alternating tiny leg positions; ears and wool may bounce subtly. No attack, no jump, no idle-only pose, no extra objects.
+Scene/backdrop: perfectly flat solid #00ff00 chroma-key background in every cell for later background removal.
+Constraints: preserve Lamball's recognizable silhouette and colors; keep all 5 frames similar enough to loop smoothly; no text; no labels; no frame numbers; no watermark; no shadow; no floor plane; no gradients or texture in the background; do not use #00ff00 anywhere in the creature.

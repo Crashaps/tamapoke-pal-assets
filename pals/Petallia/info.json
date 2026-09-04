@@ -1,0 +1,174 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Petallia",
+  "source_page": "Petallia",
+  "name": "Petallia",
+  "number": "089",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/4/4e/Petallia.png/revision/latest?cb=20240124101336",
+      "file": "pals/Petallia/Petallia.png",
+      "alt": "Petallia"
+    }
+  },
+  "elements": [
+    "grass"
+  ],
+  "food": 6,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "beautiful_flower",
+      "quantity": "2-3",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "potato_seeds",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "A pal that transforms into a massive plant when at the end of its life. Once every ten years, a beautiful flower blooms and a new Petallia is born.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 100,
+          "min": 4900,
+          "max": 6100
+        },
+        "attack": {
+          "growth": 95,
+          "min": 670,
+          "max": 841
+        },
+        "defense": {
+          "growth": 100,
+          "min": 650,
+          "max": 830
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 100,
+          "min": 4900,
+          "max": 6100
+        },
+        "attack": {
+          "growth": 95,
+          "min": 670,
+          "max": 841
+        },
+        "defense": {
+          "growth": 100,
+          "min": 650,
+          "max": 830
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 0.66,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "blessing_of_the_flower_spirit"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "planting",
+        "level": 3
+      },
+      {
+        "work_id": "handiwork",
+        "level": 2
+      },
+      {
+        "work_id": "gathering",
+        "level": 2
+      },
+      {
+        "work_id": "medicine_production",
+        "level": 2
+      },
+      {
+        "work_id": "transporting",
+        "level": 1
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "wind_cutter"
+    },
+    {
+      "level": 7,
+      "skill_id": "aqua_gun"
+    },
+    {
+      "level": 15,
+      "skill_id": "seed_machine_gun"
+    },
+    {
+      "level": 22,
+      "skill_id": "bubble_blast"
+    },
+    {
+      "level": 30,
+      "skill_id": "grass_tornado"
+    },
+    {
+      "level": 40,
+      "skill_id": "spine_vine"
+    },
+    {
+      "level": 50,
+      "skill_id": "solar_blast"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Verdant Egg",
+    "egg_type_id": "verdant_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Petallia/sprites/front-chroma.png",
+      "transparent": "pals/Petallia/sprites/front-transparent.png",
+      "front_96": "pals/Petallia/sprites/front-96.png",
+      "front_96_pal32": "pals/Petallia/sprites/front-96-pal32.png",
+      "front_64": "pals/Petallia/sprites/front-64.png",
+      "front_64_pal32": "pals/Petallia/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

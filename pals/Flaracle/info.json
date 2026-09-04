@@ -1,0 +1,53 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Flaracle",
+  "source_page": "Flaracle",
+  "name": "Flaracle",
+  "number": "174",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/1/11/Flaracle.png/revision/latest/scale-to-width-down/268?cb=20260718020014",
+      "file": "pals/Flaracle/Flaracle.png",
+      "alt": "Flaracle"
+    }
+  },
+  "elements": [
+    "fire"
+  ],
+  "food": 8,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "3-4",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "flame_organ",
+      "quantity": "3-4",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "It focuses its mind and reads the future through flames. Should it glimpse an inconvenient destiny, it relentlessly rerolls the prophecy until it gets a favorable result. That is why the future of Flaracle is always exceptionally bright!",
+  "availability": {},
+  "pal_eggs": [],
+  "stats": {},
+  "elemental_effectiveness": {},
+  "utility": {},
+  "active_skills": [],
+  "pal_egg": {
+    "text": "Large Scorching Egg",
+    "egg_type_id": "scorching_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Flaracle/sprites/front-chroma.png",
+      "transparent": "pals/Flaracle/sprites/front-transparent.png",
+      "front_96": "pals/Flaracle/sprites/front-96.png",
+      "front_96_pal32": "pals/Flaracle/sprites/front-96-pal32.png",
+      "front_64": "pals/Flaracle/sprites/front-64.png",
+      "front_64_pal32": "pals/Flaracle/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Smokie",
+  "source_page": "Smokie",
+  "name": "Smokie",
+  "number": "149",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/1/1f/Smokie.png/revision/latest/scale-to-width-down/268?cb=20250120160740",
+      "file": "pals/Smokie/Smokie.png",
+      "alt": "Smokie"
+    }
+  },
+  "elements": [
+    "dark"
+  ],
+  "food": 3,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "chromite",
+      "quantity": "1-2",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "The black flames are merely warm to the touch, but anything left in contact with them slowly melts from the inside. Hold some cheese over them, and it becomes a true delicacy.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 85,
+          "min": 4300,
+          "max": 5320
+        },
+        "attack": {
+          "growth": 90,
+          "min": 640,
+          "max": 802
+        },
+        "defense": {
+          "growth": 85,
+          "min": 560,
+          "max": 713
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 85,
+          "min": 4300,
+          "max": 5320
+        },
+        "attack": {
+          "growth": 90,
+          "min": 640,
+          "max": 802
+        },
+        "defense": {
+          "growth": 85,
+          "min": 560,
+          "max": 713
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "dig_dog_dig_when_activated_uses_its_sharp_sense_of_smell_to_detect_nearby_chromite_while_fighting_together_a_large_amount_of_chromite_is_obtained"
+    ],
+    "work_suitability": [],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 7,
+      "skill_id": "umbral_surge"
+    },
+    {
+      "level": 15,
+      "skill_id": "dark_cannon"
+    },
+    {
+      "level": 22,
+      "skill_id": "shadow_burst"
+    },
+    {
+      "level": 30,
+      "skill_id": "nightmare_ball"
+    },
+    {
+      "level": 40,
+      "skill_id": "comet_strike"
+    },
+    {
+      "level": 50,
+      "skill_id": "dark_laser"
+    },
+    {
+      "level": 70,
+      "skill_id": "dark_whisp"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Dark Egg",
+    "egg_type_id": "dark_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Smokie/sprites/front-chroma.png",
+      "transparent": "pals/Smokie/sprites/front-transparent.png",
+      "front_96": "pals/Smokie/sprites/front-96.png",
+      "front_96_pal32": "pals/Smokie/sprites/front-96-pal32.png",
+      "front_64": "pals/Smokie/sprites/front-64.png",
+      "front_64_pal32": "pals/Smokie/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

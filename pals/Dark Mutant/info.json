@@ -1,0 +1,119 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Dark_Mutant",
+  "source_page": "Dark_Mutant",
+  "name": "Dark Mutant",
+  "number": "???",
+  "group": "unknown",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/f/fd/DarkMutant.png/revision/latest/scale-to-width-down/268?cb=20240315071238",
+      "file": "pals/Dark Mutant/DarkMutant.png",
+      "alt": "DarkMutant"
+    }
+  },
+  "elements": [
+    "dark"
+  ],
+  "food": 8,
+  "gender_ratio": null,
+  "drops": [],
+  "palpedia_entry": null,
+  "availability": {},
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "attack": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "defense": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "attack": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "defense": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {
+    "allows_the_player_to_safely_ride_dark_mutant": [],
+    "it_doesn_t_work_in_the_game_currently": [],
+    "work_suitability": [
+      {
+        "work_id": "handiwork",
+        "level": 3
+      },
+      {
+        "work_id": "medicine_production",
+        "level": 3
+      },
+      {
+        "work_id": "transporting",
+        "level": 2
+      }
+    ],
+    "partner_skill_ids": [
+      "teleki_explosion"
+    ]
+  },
+  "active_skills": [],
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Dark Mutant/sprites/front-chroma.png",
+      "transparent": "pals/Dark Mutant/sprites/front-transparent.png",
+      "front_96": "pals/Dark Mutant/sprites/front-96.png",
+      "front_96_pal32": "pals/Dark Mutant/sprites/front-96-pal32.png",
+      "front_64": "pals/Dark Mutant/sprites/front-64.png",
+      "front_64_pal32": "pals/Dark Mutant/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

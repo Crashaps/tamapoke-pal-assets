@@ -1,0 +1,150 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Chillet",
+  "source_page": "Chillet",
+  "name": "Chillet",
+  "number": "103B",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/5/50/Chillet.png/revision/latest/scale-to-width-down/268?cb=20240709091519",
+      "file": "pals/Chillet/Chillet.png",
+      "alt": "Chillet"
+    }
+  },
+  "elements": [
+    "ice",
+    "dragon"
+  ],
+  "food": 3,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "2-3",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "ice_organ",
+      "quantity": "2-3",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "It can curl up its body and roll around at extremely high speeds. Long ago, people would tie bags of milk to domesticated Chillet as they grazed to produce butter using this spinning force.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 80,
+          "min": 580,
+          "max": 724
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 80,
+          "min": 580,
+          "max": 724
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 0.43
+  },
+  "utility": {
+    "chillet_is_a_very_useful_companion_in_early_game_and_remains_useful_throughout_most_playthroughs_chillet_s_attacks_are_powerful_for_its_relatively_low_starting_level_and_it_can_serve_as_a_fast_mount_with_its_ability_an_easy_way_to_level_up_a_chillet_is_to_go_outside_while_it_is_night_as_its_attacks_are_strong_against_the_numerous_dark_types_that_appear_at_that_time": [],
+    "partner_skill_ids": [
+      "wriggling_weasel",
+      "applies_dragon_damage_to_the_player_s_attacks_while_mounted"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "gathering",
+        "level": 1
+      },
+      {
+        "work_id": "cooling",
+        "level": 1
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "ice_missile"
+    },
+    {
+      "level": 7,
+      "skill_id": "dragon_cannon"
+    },
+    {
+      "level": 11,
+      "skill_id": "rocket_slam"
+    },
+    {
+      "level": 15,
+      "skill_id": "dragon_burst"
+    },
+    {
+      "level": 22,
+      "skill_id": "icicle_cutter"
+    },
+    {
+      "level": 50,
+      "skill_id": "dragon_meteor"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Frozen Egg",
+    "egg_type_id": "frozen_egg"
+  }
+}

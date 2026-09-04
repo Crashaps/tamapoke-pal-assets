@@ -1,0 +1,169 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Blazehowl_Noct",
+  "source_page": "Blazehowl_Noct",
+  "name": "Blazehowl Noct",
+  "number": "112B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/a/a2/Blazehowl_Noct.png/revision/latest/scale-to-width-down/268?cb=20240122185623",
+      "file": "pals/Blazehowl Noct/Blazehowl_Noct.png",
+      "alt": "Blazehowl Noct"
+    }
+  },
+  "elements": [
+    "fire",
+    "dark"
+  ],
+  "food": 6,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "flame_organ",
+      "quantity": "2-4",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "While it prefers raw meat, it always ends up eating tainted meat. This is due to its dark claws, which it uses as its weapon—it simply doesn't realize its prey gets cursed.",
+  "availability": {
+    "Wild Spawn": [
+      "As it is nocturnal, it can be encountered at night around Mount Obsidian."
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 115,
+          "min": 790,
+          "max": 997
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 115,
+          "min": 790,
+          "max": 997
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 1.5,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {
+    "partner_skill_darkflame_lion": [
+      "Can be ridden. (Requires Dark Kingferno Saddle→ Unlocks at Lv. 35)",
+      "While fighting together, Neutral Pals drop more items when defeated."
+    ],
+    "work_suitability": [
+      {
+        "work_id": "kindling",
+        "level": 3
+      },
+      {
+        "work_id": "lumbering",
+        "level": 2
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "shadow_burst"
+    },
+    {
+      "level": 7,
+      "skill_id": "flare_arrow"
+    },
+    {
+      "level": 15,
+      "skill_id": "ignis_breath"
+    },
+    {
+      "level": 22,
+      "skill_id": "spirit_flame"
+    },
+    {
+      "level": 30,
+      "skill_id": "ignis_rage"
+    },
+    {
+      "level": 35,
+      "skill_id": "volcanic_fang"
+    },
+    {
+      "level": 40,
+      "skill_id": "fire_ball"
+    },
+    {
+      "level": 50,
+      "skill_id": "dark_laser"
+    },
+    {
+      "level": 70,
+      "skill_id": "dark_whisp"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Scorching Egg",
+    "egg_type_id": "scorching_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Blazehowl Noct/sprites/front-chroma.png",
+      "transparent": "pals/Blazehowl Noct/sprites/front-transparent.png",
+      "front_96": "pals/Blazehowl Noct/sprites/front-96.png",
+      "front_96_pal32": "pals/Blazehowl Noct/sprites/front-96-pal32.png",
+      "front_64": "pals/Blazehowl Noct/sprites/front-64.png",
+      "front_64_pal32": "pals/Blazehowl Noct/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

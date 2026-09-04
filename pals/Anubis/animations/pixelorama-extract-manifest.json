@@ -1,0 +1,636 @@
+{
+  "source": "C:\\Users\\Crash\\Downloads\\Anubis (1).pxo",
+  "archived_source": "pals/Anubis/animations/source/Anubis (1).pxo",
+  "pixelorama_version": "v1.2.1-dev",
+  "pxo_version": 7,
+  "canvas": {
+    "width": 96,
+    "height": 96
+  },
+  "fps": 6.0,
+  "project_frames": 15,
+  "layers": [
+    {
+      "source_layer_index": 1,
+      "source_layer_name": "8 rotate",
+      "folder": "pals/Anubis/animations/rotations",
+      "frame_count": 8,
+      "frames": [
+        {
+          "file": "pals/Anubis/animations/rotations/frames/frame-000.png",
+          "project_frame": 1,
+          "bbox": [
+            21,
+            8,
+            74,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/rotations/frames/frame-001.png",
+          "project_frame": 2,
+          "bbox": [
+            21,
+            8,
+            68,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/rotations/frames/frame-002.png",
+          "project_frame": 3,
+          "bbox": [
+            22,
+            8,
+            66,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/rotations/frames/frame-003.png",
+          "project_frame": 4,
+          "bbox": [
+            24,
+            8,
+            66,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/rotations/frames/frame-004.png",
+          "project_frame": 5,
+          "bbox": [
+            22,
+            8,
+            73,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/rotations/frames/frame-005.png",
+          "project_frame": 6,
+          "bbox": [
+            29,
+            8,
+            69,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/rotations/frames/frame-006.png",
+          "project_frame": 7,
+          "bbox": [
+            29,
+            8,
+            73,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/rotations/frames/frame-007.png",
+          "project_frame": 8,
+          "bbox": [
+            27,
+            8,
+            74,
+            89
+          ]
+        }
+      ],
+      "spritesheet": "pals/Anubis/animations/rotations/spritesheet.png"
+    },
+    {
+      "source_layer_index": 2,
+      "source_layer_name": "walk right",
+      "folder": "pals/Anubis/animations/walk-right",
+      "frame_count": 9,
+      "frames": [
+        {
+          "file": "pals/Anubis/animations/walk-right/frames/frame-000.png",
+          "project_frame": 1,
+          "bbox": [
+            22,
+            8,
+            66,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/walk-right/frames/frame-001.png",
+          "project_frame": 2,
+          "bbox": [
+            23,
+            7,
+            67,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/walk-right/frames/frame-002.png",
+          "project_frame": 3,
+          "bbox": [
+            23,
+            8,
+            69,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/walk-right/frames/frame-003.png",
+          "project_frame": 4,
+          "bbox": [
+            22,
+            10,
+            69,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/walk-right/frames/frame-004.png",
+          "project_frame": 5,
+          "bbox": [
+            23,
+            9,
+            67,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/walk-right/frames/frame-005.png",
+          "project_frame": 6,
+          "bbox": [
+            24,
+            8,
+            68,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/walk-right/frames/frame-006.png",
+          "project_frame": 7,
+          "bbox": [
+            23,
+            7,
+            68,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/walk-right/frames/frame-007.png",
+          "project_frame": 8,
+          "bbox": [
+            22,
+            8,
+            68,
+            87
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/walk-right/frames/frame-008.png",
+          "project_frame": 9,
+          "bbox": [
+            22,
+            9,
+            68,
+            89
+          ]
+        }
+      ],
+      "spritesheet": "pals/Anubis/animations/walk-right/spritesheet.png"
+    },
+    {
+      "source_layer_index": 3,
+      "source_layer_name": "idle",
+      "folder": "pals/Anubis/animations/idle",
+      "frame_count": 7,
+      "frames": [
+        {
+          "file": "pals/Anubis/animations/idle/frames/frame-000.png",
+          "project_frame": 1,
+          "bbox": [
+            21,
+            8,
+            74,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle/frames/frame-001.png",
+          "project_frame": 2,
+          "bbox": [
+            21,
+            7,
+            74,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle/frames/frame-002.png",
+          "project_frame": 3,
+          "bbox": [
+            21,
+            7,
+            74,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle/frames/frame-003.png",
+          "project_frame": 4,
+          "bbox": [
+            22,
+            10,
+            73,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle/frames/frame-004.png",
+          "project_frame": 5,
+          "bbox": [
+            24,
+            13,
+            70,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle/frames/frame-005.png",
+          "project_frame": 6,
+          "bbox": [
+            24,
+            11,
+            71,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle/frames/frame-006.png",
+          "project_frame": 7,
+          "bbox": [
+            22,
+            7,
+            73,
+            88
+          ]
+        }
+      ],
+      "spritesheet": "pals/Anubis/animations/idle/spritesheet.png"
+    },
+    {
+      "source_layer_index": 4,
+      "source_layer_name": "idle to quick bow",
+      "folder": "pals/Anubis/animations/idle-to-quick-bow",
+      "frame_count": 9,
+      "frames": [
+        {
+          "file": "pals/Anubis/animations/idle-to-quick-bow/frames/frame-000.png",
+          "project_frame": 1,
+          "bbox": [
+            21,
+            8,
+            74,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle-to-quick-bow/frames/frame-001.png",
+          "project_frame": 2,
+          "bbox": [
+            21,
+            8,
+            73,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle-to-quick-bow/frames/frame-002.png",
+          "project_frame": 3,
+          "bbox": [
+            22,
+            8,
+            73,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle-to-quick-bow/frames/frame-003.png",
+          "project_frame": 4,
+          "bbox": [
+            22,
+            10,
+            73,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle-to-quick-bow/frames/frame-004.png",
+          "project_frame": 5,
+          "bbox": [
+            22,
+            12,
+            72,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle-to-quick-bow/frames/frame-005.png",
+          "project_frame": 6,
+          "bbox": [
+            23,
+            12,
+            72,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle-to-quick-bow/frames/frame-006.png",
+          "project_frame": 7,
+          "bbox": [
+            23,
+            11,
+            71,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle-to-quick-bow/frames/frame-007.png",
+          "project_frame": 8,
+          "bbox": [
+            24,
+            10,
+            70,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/idle-to-quick-bow/frames/frame-008.png",
+          "project_frame": 9,
+          "bbox": [
+            24,
+            8,
+            70,
+            88
+          ]
+        }
+      ],
+      "spritesheet": "pals/Anubis/animations/idle-to-quick-bow/spritesheet.png"
+    },
+    {
+      "source_layer_index": 5,
+      "source_layer_name": "cross legged to sad",
+      "folder": "pals/Anubis/animations/cross-legged-to-sad",
+      "frame_count": 4,
+      "frames": [
+        {
+          "file": "pals/Anubis/animations/cross-legged-to-sad/frames/frame-000.png",
+          "project_frame": 1,
+          "bbox": [
+            14,
+            4,
+            79,
+            90
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/cross-legged-to-sad/frames/frame-001.png",
+          "project_frame": 2,
+          "bbox": [
+            17,
+            6,
+            77,
+            88
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/cross-legged-to-sad/frames/frame-002.png",
+          "project_frame": 3,
+          "bbox": [
+            17,
+            8,
+            77,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/cross-legged-to-sad/frames/frame-003.png",
+          "project_frame": 4,
+          "bbox": [
+            16,
+            12,
+            77,
+            89
+          ]
+        }
+      ],
+      "spritesheet": "pals/Anubis/animations/cross-legged-to-sad/spritesheet.png"
+    },
+    {
+      "source_layer_index": 6,
+      "source_layer_name": "sad loop",
+      "folder": "pals/Anubis/animations/sad-loop",
+      "frame_count": 4,
+      "frames": [
+        {
+          "file": "pals/Anubis/animations/sad-loop/frames/frame-000.png",
+          "project_frame": 1,
+          "bbox": [
+            14,
+            15,
+            79,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/sad-loop/frames/frame-001.png",
+          "project_frame": 2,
+          "bbox": [
+            14,
+            16,
+            80,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/sad-loop/frames/frame-002.png",
+          "project_frame": 3,
+          "bbox": [
+            14,
+            16,
+            80,
+            89
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/sad-loop/frames/frame-003.png",
+          "project_frame": 4,
+          "bbox": [
+            14,
+            16,
+            80,
+            89
+          ]
+        }
+      ],
+      "spritesheet": "pals/Anubis/animations/sad-loop/spritesheet.png"
+    },
+    {
+      "source_layer_index": 7,
+      "source_layer_name": "NotSure",
+      "folder": "pals/Anubis/animations/not-sure",
+      "frame_count": 7,
+      "frames": [
+        {
+          "file": "pals/Anubis/animations/not-sure/frames/frame-000.png",
+          "project_frame": 1,
+          "bbox": [
+            14,
+            4,
+            79,
+            90
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/not-sure/frames/frame-001.png",
+          "project_frame": 2,
+          "bbox": [
+            17,
+            7,
+            77,
+            87
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/not-sure/frames/frame-002.png",
+          "project_frame": 3,
+          "bbox": [
+            17,
+            8,
+            77,
+            87
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/not-sure/frames/frame-003.png",
+          "project_frame": 4,
+          "bbox": [
+            17,
+            8,
+            77,
+            87
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/not-sure/frames/frame-004.png",
+          "project_frame": 5,
+          "bbox": [
+            17,
+            7,
+            77,
+            87
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/not-sure/frames/frame-005.png",
+          "project_frame": 6,
+          "bbox": [
+            17,
+            6,
+            76,
+            87
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/not-sure/frames/frame-006.png",
+          "project_frame": 7,
+          "bbox": [
+            17,
+            4,
+            77,
+            87
+          ]
+        }
+      ],
+      "spritesheet": "pals/Anubis/animations/not-sure/spritesheet.png"
+    },
+    {
+      "source_layer_index": 8,
+      "source_layer_name": "Meditating",
+      "folder": "pals/Anubis/animations/meditating",
+      "frame_count": 7,
+      "frames": [
+        {
+          "file": "pals/Anubis/animations/meditating/frames/frame-000.png",
+          "project_frame": 1,
+          "bbox": [
+            14,
+            4,
+            79,
+            90
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/meditating/frames/frame-001.png",
+          "project_frame": 2,
+          "bbox": [
+            17,
+            7,
+            76,
+            87
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/meditating/frames/frame-002.png",
+          "project_frame": 3,
+          "bbox": [
+            18,
+            9,
+            75,
+            87
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/meditating/frames/frame-003.png",
+          "project_frame": 4,
+          "bbox": [
+            19,
+            8,
+            74,
+            87
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/meditating/frames/frame-004.png",
+          "project_frame": 5,
+          "bbox": [
+            19,
+            7,
+            74,
+            87
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/meditating/frames/frame-005.png",
+          "project_frame": 6,
+          "bbox": [
+            19,
+            5,
+            74,
+            87
+          ]
+        },
+        {
+          "file": "pals/Anubis/animations/meditating/frames/frame-006.png",
+          "project_frame": 7,
+          "bbox": [
+            18,
+            4,
+            75,
+            87
+          ]
+        }
+      ],
+      "spritesheet": "pals/Anubis/animations/meditating/spritesheet.png"
+    }
+  ]
+}

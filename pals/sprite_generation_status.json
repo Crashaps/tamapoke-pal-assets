@@ -1,0 +1,263 @@
+{
+  "generated": [],
+  "failed": [
+    {
+      "name": "Sparkit",
+      "reason": "imagegen output moderation blocked in three-item batch and individual retry; skipped for later retry",
+      "updated_at": "2026-08-16T00:00:00+00:00"
+    },
+    {
+      "name": "Surfent",
+      "reason": "imagegen output moderation blocked in three-item batch and individual retry; skipped for later retry",
+      "updated_at": "2026-08-16T00:00:00+00:00"
+    },
+    {
+      "name": "Chillet",
+      "reason": "imagegen output moderation blocked in three-item batch and individual retry; skipped for later retry",
+      "updated_at": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "name": "Braloha",
+      "reason": "imagegen output moderation blocked in three-item batch and individual retry; skipped for later retry",
+      "updated_at": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "name": "Majex",
+      "reason": "imagegen output moderation blocked in three-item batch and individual retry; skipped for later retry",
+      "updated_at": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "name": "Sootseer",
+      "reason": "imagegen output moderation on batch attempt and simplified individual retry",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "Ophydia",
+      "reason": "imagegen output moderation on first attempt and short individual retry",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "Dupin",
+      "reason": "imagegen output moderation on first attempt and short individual retry",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "Azurobe Cryst",
+      "reason": "imagegen output moderation on first attempt and short individual retry",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "Vanwyrm Cryst",
+      "reason": "imagegen output moderation on first attempt and short individual retry",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "Dumud Gild",
+      "reason": "imagegen output moderation on first attempt and short individual retry",
+      "date": "2026-08-22"
+    }
+  ],
+  "skipped": [],
+  "resolved": [
+    {
+      "name": "Cattiva",
+      "date": "2026-08-22",
+      "method": "reference-based individual retry"
+    },
+    {
+      "name": "Celaray",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Pupperai",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Nox",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Mau Cryst",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Azurobe",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Kelpsea",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Univolt",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Elphidran",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Tarantriss",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Gorirat",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Wixen",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Helzephyr",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Incineram",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Ragnahawk",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Rayhound",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Frostplume",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Jormuntide",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Lullu",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Yakumo",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Xenovader",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Gildane",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Azurmane",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Slowatt",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Blazamut",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Grizzbolt",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Selyne",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Xenolord",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Jetragon",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Pengullet Lux",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Tanzee Ignis",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Univolt Cryst",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Beakon Cryst",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Rayhound Cryst",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Moldron Cryst",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Jormuntide Ignis",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Quivern Botan",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Smokie Cryst",
+      "date": "2026-08-22",
+      "method": "loose reference-based batch retry"
+    },
+    {
+      "name": "Frostallion Noct",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    },
+    {
+      "name": "Dragostrophe",
+      "date": "2026-08-22",
+      "method": "loose reference-based individual retry"
+    }
+  ]
+}

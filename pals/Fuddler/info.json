@@ -1,0 +1,157 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Fuddler",
+  "source_page": "Fuddler",
+  "name": "Fuddler",
+  "number": "031",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/b/ba/Fuddler.png/revision/latest?cb=20240123175507",
+      "file": "pals/Fuddler/Fuddler.png",
+      "alt": "Fuddler"
+    }
+  },
+  "elements": [
+    "ground"
+  ],
+  "food": 2,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "1-2",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Its large claws boast of diamond-like hardness. However, sharpening these claws consumes most of its energy, leading it to sometimes spending entire days doing nothing else.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 65,
+          "min": 3500,
+          "max": 4280
+        },
+        "attack": {
+          "growth": 80,
+          "min": 580,
+          "max": 724
+        },
+        "defense": {
+          "growth": 50,
+          "min": 350,
+          "max": 440
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 65,
+          "min": 3500,
+          "max": 4280
+        },
+        "attack": {
+          "growth": 80,
+          "min": 580,
+          "max": 724
+        },
+        "defense": {
+          "growth": 50,
+          "min": 350,
+          "max": 440
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.5,
+    "electric": 0.66,
+    "ice": 1.0,
+    "ground": 0.66,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "ore_detector"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "handiwork",
+        "level": 1
+      },
+      {
+        "work_id": "transporting",
+        "level": 1
+      },
+      {
+        "work_id": "mining",
+        "level": 1
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 7,
+      "skill_id": "power_shot"
+    },
+    {
+      "level": 15,
+      "skill_id": "stone_blast"
+    },
+    {
+      "level": 22,
+      "skill_id": "stone_cannon"
+    },
+    {
+      "level": 30,
+      "skill_id": "power_bomb"
+    },
+    {
+      "level": 40,
+      "skill_id": "sand_tornado"
+    },
+    {
+      "level": 50,
+      "skill_id": "rock_lance"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Rocky Egg",
+    "egg_type_id": "rocky_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Fuddler/sprites/front-chroma.png",
+      "transparent": "pals/Fuddler/sprites/front-transparent.png",
+      "front_96": "pals/Fuddler/sprites/front-96.png",
+      "front_96_pal32": "pals/Fuddler/sprites/front-96-pal32.png",
+      "front_64": "pals/Fuddler/sprites/front-64.png",
+      "front_64_pal32": "pals/Fuddler/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

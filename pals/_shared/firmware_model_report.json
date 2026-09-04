@@ -1,0 +1,300 @@
+{
+  "summary": {
+    "pal_count": 304,
+    "requires_uint16_ids": true,
+    "max_firmware_id": 304,
+    "flag_counts": {
+      "PAL_FLAG_CROSSOVER": 11,
+      "PAL_FLAG_EGG_MISSING": 17,
+      "PAL_FLAG_IMAGE_MISSING": 10,
+      "PAL_FLAG_PAGE_MISSING": 10,
+      "PAL_FLAG_STATS_MISSING": 18,
+      "PAL_FLAG_VARIANT": 85
+    },
+    "shared_lookup_counts": {
+      "elements": 10,
+      "egg_types": 9,
+      "active_skills": 156,
+      "partner_skills": 156,
+      "work_suitabilities": 15,
+      "items": 107,
+      "locations": 1
+    },
+    "model_limits": {
+      "food": "0..10",
+      "base_stats": "uint8_t 0..255",
+      "species_id": "uint16_t PalId",
+      "lookup_id": "uint16_t PalLookupId"
+    }
+  },
+  "errors": [],
+  "sample_entries": [
+    {
+      "firmware_id": 1,
+      "name": "Lamball",
+      "pal_no": 1,
+      "source_number": "001",
+      "variant": "PAL_VARIANT_BASE",
+      "elements": [
+        "neutral",
+        "none"
+      ],
+      "egg_type": "PAL_EGG_COMMON",
+      "rarity": "PAL_R_COMMON",
+      "accent565": 35917,
+      "stats": {
+        "bHp": 70,
+        "bAtk": 70,
+        "bDef": 70,
+        "bSpe": 68
+      },
+      "food": 1,
+      "biome": "PAL_BIOME_MEADOW",
+      "partner_skill_id": "fluffy_shield",
+      "active_skill_ids": [
+        "roly_poly",
+        "air_cannon",
+        "power_shot",
+        "implode",
+        "electric_ball",
+        "power_bomb",
+        "pal_blast",
+        "holy_burst"
+      ],
+      "work": [
+        {
+          "work_id": "handiwork",
+          "level": 1
+        },
+        {
+          "work_id": "transporting",
+          "level": 1
+        },
+        {
+          "work_id": "farming",
+          "level": 1
+        }
+      ],
+      "drop_item_ids": [
+        "wool",
+        "lamball_mutton",
+        "ancient_civilization_parts",
+        "precious_pelt",
+        "ring_of_resistance"
+      ],
+      "flags": []
+    },
+    {
+      "firmware_id": 2,
+      "name": "Cattiva",
+      "pal_no": 2,
+      "source_number": "002",
+      "variant": "PAL_VARIANT_BASE",
+      "elements": [
+        "neutral",
+        "none"
+      ],
+      "egg_type": "PAL_EGG_COMMON",
+      "rarity": "PAL_R_COMMON",
+      "accent565": 35917,
+      "stats": {
+        "bHp": 70,
+        "bAtk": 70,
+        "bDef": 70,
+        "bSpe": 68
+      },
+      "food": 1,
+      "biome": "PAL_BIOME_MEADOW",
+      "partner_skill_id": "cat_helper",
+      "active_skill_ids": [
+        "punch_flurry",
+        "air_cannon",
+        "power_shot",
+        "wind_cutter",
+        "seed_machine_gun",
+        "pal_blast",
+        "holy_burst"
+      ],
+      "work": [
+        {
+          "work_id": "handiwork",
+          "level": 1
+        },
+        {
+          "work_id": "transporting",
+          "level": 1
+        },
+        {
+          "work_id": "gathering",
+          "level": 1
+        },
+        {
+          "work_id": "mining",
+          "level": 1
+        }
+      ],
+      "drop_item_ids": [
+        "red_berries"
+      ],
+      "flags": []
+    },
+    {
+      "firmware_id": 3,
+      "name": "Chikipi",
+      "pal_no": 3,
+      "source_number": "003",
+      "variant": "PAL_VARIANT_BASE",
+      "elements": [
+        "neutral",
+        "none"
+      ],
+      "egg_type": "PAL_EGG_COMMON",
+      "rarity": "PAL_R_COMMON",
+      "accent565": 35917,
+      "stats": {
+        "bHp": 60,
+        "bAtk": 60,
+        "bDef": 60,
+        "bSpe": 60
+      },
+      "food": 1,
+      "biome": "PAL_BIOME_MEADOW",
+      "partner_skill_id": "egg_layer",
+      "active_skill_ids": [
+        "chicken_rush",
+        "air_cannon",
+        "power_shot",
+        "implode",
+        "grass_tornado",
+        "sand_tornado",
+        "flare_storm",
+        "holy_burst"
+      ],
+      "work": [
+        {
+          "work_id": "gathering",
+          "level": 1
+        },
+        {
+          "work_id": "farming",
+          "level": 1
+        }
+      ],
+      "drop_item_ids": [
+        "egg",
+        "chikipi_poultry"
+      ],
+      "flags": []
+    },
+    {
+      "firmware_id": 4,
+      "name": "Lifmunk",
+      "pal_no": 4,
+      "source_number": "004",
+      "variant": "PAL_VARIANT_BASE",
+      "elements": [
+        "grass",
+        "none"
+      ],
+      "egg_type": "PAL_EGG_VERDANT",
+      "rarity": "PAL_R_COMMON",
+      "accent565": 15433,
+      "stats": {
+        "bHp": 75,
+        "bAtk": 70,
+        "bDef": 70,
+        "bSpe": 60
+      },
+      "food": 1,
+      "biome": "PAL_BIOME_FOREST",
+      "partner_skill_id": "lifmunk_recoil",
+      "active_skill_ids": [
+        "wind_cutter",
+        "air_cannon",
+        "power_shot",
+        "seed_machine_gun",
+        "power_bomb",
+        "spine_vine",
+        "solar_blast"
+      ],
+      "work": [
+        {
+          "work_id": "planting",
+          "level": 1
+        },
+        {
+          "work_id": "handiwork",
+          "level": 1
+        },
+        {
+          "work_id": "lumbering",
+          "level": 1
+        },
+        {
+          "work_id": "medicine_production",
+          "level": 1
+        },
+        {
+          "work_id": "gathering",
+          "level": 1
+        }
+      ],
+      "drop_item_ids": [
+        "wheat_seeds",
+        "low_grade_medical_supplies"
+      ],
+      "flags": []
+    },
+    {
+      "firmware_id": 5,
+      "name": "Fuack",
+      "pal_no": 5,
+      "source_number": "005",
+      "variant": "PAL_VARIANT_BASE",
+      "elements": [
+        "water",
+        "none"
+      ],
+      "egg_type": "PAL_EGG_DAMP",
+      "rarity": "PAL_R_COMMON",
+      "accent565": 19608,
+      "stats": {
+        "bHp": 60,
+        "bAtk": 80,
+        "bDef": 60,
+        "bSpe": 68
+      },
+      "food": 1,
+      "biome": "PAL_BIOME_BEACH",
+      "partner_skill_id": "surfing_slam",
+      "active_skill_ids": [
+        "aqua_gun",
+        "power_shot",
+        "hydro_jet",
+        "ice_missile",
+        "bubble_blast",
+        "aqua_burst",
+        "hydro_laser"
+      ],
+      "work": [
+        {
+          "work_id": "handiwork",
+          "level": 1
+        },
+        {
+          "work_id": "transporting",
+          "level": 1
+        },
+        {
+          "work_id": "watering",
+          "level": 1
+        }
+      ],
+      "drop_item_ids": [
+        "leather",
+        "aquatic_pal_fluids"
+      ],
+      "flags": []
+    }
+  ]
+}

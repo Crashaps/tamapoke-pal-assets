@@ -1,0 +1,120 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Leafan",
+  "source_page": "Leafan",
+  "name": "Leafan",
+  "number": "090",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/c/c0/Leafan.png/revision/latest/scale-to-width-down/268?cb=20260718020105",
+      "file": "pals/Leafan/Leafan.png",
+      "alt": "Leafan"
+    }
+  },
+  "elements": [
+    "grass"
+  ],
+  "food": 7,
+  "gender_ratio": "40% / 60%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "2-3",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "To hone the martial art passed down through a single bloodline: Daily training is the only way! Being distracted by romance? Unthinkable! Daily discipline is the only way! The time has come! Shoot my shot! Instant rejection, that’s all there is! The techniques of love were never passed down... Lingering regret, that’s all there is!",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 100,
+          "min": 4900,
+          "max": 6100
+        },
+        "attack": {
+          "growth": 115,
+          "min": 790,
+          "max": 997
+        },
+        "defense": {
+          "growth": 95,
+          "min": 620,
+          "max": 791
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 100,
+          "min": 4900,
+          "max": 6100
+        },
+        "attack": {
+          "growth": 115,
+          "min": 790,
+          "max": 997
+        },
+        "defense": {
+          "growth": 95,
+          "min": 620,
+          "max": 791
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 0.66,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "seed_machine_gun"
+    },
+    {
+      "level": 7,
+      "skill_id": "multicutter"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Verdant Egg",
+    "egg_type_id": "verdant_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Leafan/sprites/front-chroma.png",
+      "transparent": "pals/Leafan/sprites/front-transparent.png",
+      "front_96": "pals/Leafan/sprites/front-96.png",
+      "front_96_pal32": "pals/Leafan/sprites/front-96-pal32.png",
+      "front_64": "pals/Leafan/sprites/front-64.png",
+      "front_64_pal32": "pals/Leafan/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

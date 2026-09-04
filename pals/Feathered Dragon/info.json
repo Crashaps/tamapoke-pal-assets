@@ -1,0 +1,101 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Feathered_Dragon",
+  "source_page": "Feathered_Dragon",
+  "name": "Feathered Dragon",
+  "number": "???",
+  "group": "unknown",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/1/13/Dragostrophe%27s_Cousin.png/revision/latest/scale-to-width-down/268?cb=20230916144739",
+      "file": "pals/Feathered Dragon/Dragostrophe_s_Cousin.png",
+      "alt": "Dragostrophe's Cousin"
+    }
+  },
+  "elements": [
+    "unknown"
+  ],
+  "food": null,
+  "gender_ratio": null,
+  "drops": [],
+  "palpedia_entry": null,
+  "availability": {},
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "attack": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "defense": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "attack": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "defense": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": "?",
+    "fire": "?",
+    "water": "?",
+    "grass": "?",
+    "electric": "?",
+    "ice": "?",
+    "ground": "?",
+    "dark": "?",
+    "dragon": "?"
+  },
+  "utility": {
+    "unknown_information": []
+  },
+  "active_skills": [],
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Feathered Dragon/sprites/front-chroma.png",
+      "transparent": "pals/Feathered Dragon/sprites/front-transparent.png",
+      "front_96": "pals/Feathered Dragon/sprites/front-96.png",
+      "front_96_pal32": "pals/Feathered Dragon/sprites/front-96-pal32.png",
+      "front_64": "pals/Feathered Dragon/sprites/front-64.png",
+      "front_64_pal32": "pals/Feathered Dragon/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

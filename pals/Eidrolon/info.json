@@ -1,0 +1,130 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Eidrolon",
+  "source_page": "Eidrolon",
+  "name": "Eidrolon",
+  "number": "171",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/f/f0/Eidrolon.png/revision/latest/scale-to-width-down/268?cb=20260718015952",
+      "file": "pals/Eidrolon/Eidrolon.png",
+      "alt": "Eidrolon"
+    }
+  },
+  "elements": [
+    "dragon",
+    "dark"
+  ],
+  "food": 9,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "4-5",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "high_quality_pal_oil",
+      "quantity": "5-6",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "A new Pal that was only recently discovered. Calm and entirely docile, it spends its time as it pleases. It is no longer bound by anything.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 115,
+          "min": 5500,
+          "max": 6880
+        },
+        "attack": {
+          "growth": 125,
+          "min": 850,
+          "max": 1075
+        },
+        "defense": {
+          "growth": 120,
+          "min": 770,
+          "max": 986
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 115,
+          "min": 5500,
+          "max": 6880
+        },
+        "attack": {
+          "growth": 125,
+          "min": 850,
+          "max": 1075
+        },
+        "defense": {
+          "growth": 120,
+          "min": 770,
+          "max": 986
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.5,
+    "ground": 1.0,
+    "dark": 0.43,
+    "dragon": 1.0
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "dragon_burst"
+    },
+    {
+      "level": 15,
+      "skill_id": "beam_slicer"
+    },
+    {
+      "level": 40,
+      "skill_id": "dragon_meteor"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Dragon Egg",
+    "egg_type_id": "dragon_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Eidrolon/sprites/front-chroma.png",
+      "transparent": "pals/Eidrolon/sprites/front-transparent.png",
+      "front_96": "pals/Eidrolon/sprites/front-96.png",
+      "front_96_pal32": "pals/Eidrolon/sprites/front-96-pal32.png",
+      "front_64": "pals/Eidrolon/sprites/front-64.png",
+      "front_64_pal32": "pals/Eidrolon/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Gildane",
+  "source_page": "Gildane",
+  "name": "Gildane",
+  "number": "154",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/4/42/Gildane.png/revision/latest/scale-to-width-down/268?cb=20250120152015",
+      "file": "pals/Gildane/Gildane.png",
+      "alt": "Gildane"
+    }
+  },
+  "elements": [
+    "ground"
+  ],
+  "food": 8,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "2-3",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "During the golden age of alchemy on the island, its ever-glowing golden fur was highly prized as a catalyst for transmuting gold. In time, a remarkable revelation was made: the same golden hue could be achieved simply by processing its mane.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 120,
+          "min": 5700,
+          "max": 7140
+        },
+        "attack": {
+          "growth": 110,
+          "min": 760,
+          "max": 958
+        },
+        "defense": {
+          "growth": 110,
+          "min": 710,
+          "max": 908
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 120,
+          "min": 5700,
+          "max": 7140
+        },
+        "attack": {
+          "growth": 110,
+          "min": 760,
+          "max": 958
+        },
+        "defense": {
+          "growth": 110,
+          "min": 710,
+          "max": 908
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.5,
+    "electric": 0.66,
+    "ice": 1.0,
+    "ground": 0.66,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "sandstorm_s_blessing_can_be_ridden_applies_ground_damage_to_the_player_s_attacks_while_mounted"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "gathering",
+        "level": 2
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 3,
+      "skill_id": "power_shot"
+    },
+    {
+      "level": 15,
+      "skill_id": "stone_blast"
+    },
+    {
+      "level": 22,
+      "skill_id": "power_bomb"
+    },
+    {
+      "level": 30,
+      "skill_id": "rockburst"
+    },
+    {
+      "level": 70,
+      "skill_id": "holy_burst"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Rocky Egg",
+    "egg_type_id": "rocky_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Gildane/sprites/front-chroma.png",
+      "transparent": "pals/Gildane/sprites/front-transparent.png",
+      "front_96": "pals/Gildane/sprites/front-96.png",
+      "front_96_pal32": "pals/Gildane/sprites/front-96-pal32.png",
+      "front_64": "pals/Gildane/sprites/front-64.png",
+      "front_64_pal32": "pals/Gildane/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

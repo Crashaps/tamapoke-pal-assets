@@ -1,0 +1,173 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Penking",
+  "source_page": "Penking",
+  "name": "Penking",
+  "number": "018",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5c/Penking.png/revision/latest/scale-to-width-down/268?cb=20240123162544",
+      "file": "pals/Penking/Penking.png",
+      "alt": "Penking"
+    }
+  },
+  "elements": [
+    "water",
+    "ice"
+  ],
+  "food": 4,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "ice_organ",
+      "quantity": "1-3",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "penking_plume",
+      "quantity": "1",
+      "chance_percent": 50
+    }
+  ],
+  "palpedia_entry": "Surprisingly, it is unrelated to Pengullet . However, since this Pal gets pampered as it pleases, for now, it's doing its best to strut arrogantly.",
+  "availability": {
+    "Wild Spawn": [],
+    "Dungeons": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 95,
+          "min": 4700,
+          "max": 5840
+        },
+        "attack": {
+          "growth": 95,
+          "min": 670,
+          "max": 841
+        },
+        "defense": {
+          "growth": 95,
+          "min": 620,
+          "max": 791
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 95,
+          "min": 4700,
+          "max": 5840
+        },
+        "attack": {
+          "growth": 95,
+          "min": 670,
+          "max": 841
+        },
+        "defense": {
+          "growth": 95,
+          "min": 620,
+          "max": 791
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 0.66,
+    "grass": 1.0,
+    "electric": 1.5,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 1.0,
+    "dragon": 0.66
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "brave_sailor"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "handiwork",
+        "level": 2
+      },
+      {
+        "work_id": "transporting",
+        "level": 2
+      },
+      {
+        "work_id": "watering",
+        "level": 2
+      },
+      {
+        "work_id": "mining",
+        "level": 2
+      },
+      {
+        "work_id": "cooling",
+        "level": 2
+      }
+    ],
+    "possible_drops": {
+      "normal": [],
+      "boss": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "aqua_gun"
+    },
+    {
+      "level": 7,
+      "skill_id": "iceberg"
+    },
+    {
+      "level": 15,
+      "skill_id": "emperor_slide"
+    },
+    {
+      "level": 30,
+      "skill_id": "aqua_burst"
+    },
+    {
+      "level": 40,
+      "skill_id": "blizzard_spike"
+    },
+    {
+      "level": 50,
+      "skill_id": "hydro_laser"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Damp Egg",
+    "egg_type_id": "damp_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Penking/sprites/front-chroma.png",
+      "transparent": "pals/Penking/sprites/front-transparent.png",
+      "front_96": "pals/Penking/sprites/front-96.png",
+      "front_96_pal32": "pals/Penking/sprites/front-96-pal32.png",
+      "front_64": "pals/Penking/sprites/front-64.png",
+      "front_64_pal32": "pals/Penking/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

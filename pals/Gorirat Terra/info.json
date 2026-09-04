@@ -1,0 +1,164 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Gorirat_Terra",
+  "source_page": "Gorirat_Terra",
+  "name": "Gorirat Terra",
+  "number": "074B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/2/26/Gorirat_Terra.png/revision/latest/scale-to-width-down/268?cb=20240709085728",
+      "file": "pals/Gorirat Terra/Gorirat_Terra.png",
+      "alt": "Gorirat Terra"
+    }
+  },
+  "elements": [
+    "ground"
+  ],
+  "food": 3,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "ore",
+      "quantity": "2-3",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "bone",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "It beats the ground rhythmically to communicate with its comrades. Stronger than Gorirat , if every Gorirat Terra hit the ground at the same time, the island would sink in 1 second.",
+  "availability": {
+    "Wild Spawn": [
+      "Sakurajima"
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 100,
+          "min": 700,
+          "max": 880
+        },
+        "defense": {
+          "growth": 90,
+          "min": 590,
+          "max": 752
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 100,
+          "min": 700,
+          "max": 880
+        },
+        "defense": {
+          "growth": 90,
+          "min": 590,
+          "max": 752
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.5,
+    "electric": 0.66,
+    "ice": 1.0,
+    "ground": 0.66,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "full_power_gorilla_mode"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "handiwork",
+        "level": 1
+      },
+      {
+        "work_id": "transporting",
+        "level": 3
+      },
+      {
+        "work_id": "mining",
+        "level": 2
+      }
+    ],
+    "possible_drops": {
+      "normal": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "power_shot"
+    },
+    {
+      "level": 15,
+      "skill_id": "stone_blast"
+    },
+    {
+      "level": 22,
+      "skill_id": "stone_cannon"
+    },
+    {
+      "level": 30,
+      "skill_id": "ground_pound"
+    },
+    {
+      "level": 40,
+      "skill_id": "rockburst"
+    },
+    {
+      "level": 50,
+      "skill_id": "rock_lance"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Rocky Egg",
+    "egg_type_id": "rocky_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Gorirat Terra/sprites/front-chroma.png",
+      "transparent": "pals/Gorirat Terra/sprites/front-transparent.png",
+      "front_96": "pals/Gorirat Terra/sprites/front-96.png",
+      "front_96_pal32": "pals/Gorirat Terra/sprites/front-96-pal32.png",
+      "front_64": "pals/Gorirat Terra/sprites/front-64.png",
+      "front_64_pal32": "pals/Gorirat Terra/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

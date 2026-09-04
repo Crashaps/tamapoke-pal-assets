@@ -1,0 +1,129 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Ghangler",
+  "source_page": "Ghangler",
+  "name": "Ghangler",
+  "number": "097",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/e/e5/Ghangler.png/revision/latest/scale-to-width-down/268?cb=20260405161813",
+      "file": "pals/Ghangler/Ghangler.png",
+      "alt": "Ghangler"
+    }
+  },
+  "elements": [
+    "dark",
+    "water"
+  ],
+  "food": 7,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "bone",
+      "quantity": "2-3",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "venom_gland",
+      "quantity": "2-4",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "With its shining lure, it illuminates the darkness. The wandering Pals drawn in by the light stand no chance of escape once spotted by Ghangler. No matter how far, it will keep guiding them until they get home safe and sound.",
+  "availability": {
+    "Wild Spawn": [],
+    "Fishing": [
+      "Sakurajima - Night Only"
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 125,
+          "min": 850,
+          "max": 1075
+        },
+        "defense": {
+          "growth": 105,
+          "min": 680,
+          "max": 869
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 125,
+          "min": 850,
+          "max": 1075
+        },
+        "defense": {
+          "growth": 105,
+          "min": 680,
+          "max": 869
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 0.66,
+    "grass": 1.0,
+    "electric": 1.5,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "unknown_information"
+    ],
+    "work_suitability": [],
+    "possible_drops": {
+      "normal": [],
+      "boss": []
+    }
+  },
+  "active_skills": [],
+  "pal_egg": {
+    "text": "Large Dark Egg",
+    "egg_type_id": "dark_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Ghangler/sprites/front-chroma.png",
+      "transparent": "pals/Ghangler/sprites/front-transparent.png",
+      "front_96": "pals/Ghangler/sprites/front-96.png",
+      "front_96_pal32": "pals/Ghangler/sprites/front-96-pal32.png",
+      "front_64": "pals/Ghangler/sprites/front-64.png",
+      "front_64_pal32": "pals/Ghangler/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

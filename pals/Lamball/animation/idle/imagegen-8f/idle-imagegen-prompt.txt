@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: pixel-art idle animation spritesheet for a handheld virtual pet game
+Input images: Image 1 is the original Lamball creature reference; Image 2 is the existing 96px pixel-art sprite style reference.
+Primary request: Create one horizontal spritesheet containing 8 frames of a front-facing Lamball idle animation.
+Subject: a round fluffy lamb creature with cream wool body, dark face, small horns, small ears, tiny legs, and a cute neutral expression.
+Style/medium: crisp 2D pixel art, limited palette, readable at 96px, clean dark outline, consistent character proportions across frames.
+Composition/framing: exactly 8 equal square cells arranged left-to-right in one row; each cell contains one full-body front-facing Lamball centered with consistent baseline and padding.
+Animation direction: subtle idle loop only: breathing, tiny bob, slight wool squish/stretch, minor ear/horn bounce; no walking, no turning, no attack pose, no extra objects.
+Scene/backdrop: perfectly flat solid #00ff00 chroma-key background in every cell for later background removal.
+Constraints: preserve Lamball's recognizable silhouette and colors; keep all 8 frames similar enough to loop smoothly; no text; no labels; no frame numbers; no watermark; no shadow; no floor plane; no gradients or texture in the background; do not use #00ff00 anywhere in the creature.

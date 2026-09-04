@@ -1,0 +1,140 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Valentail",
+  "source_page": "Valentail",
+  "name": "Valentail",
+  "number": "162",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/f/f5/Valentail.png/revision/latest/scale-to-width-down/268?cb=20260718020543",
+      "file": "pals/Valentail/Valentail.png",
+      "alt": "Valentail"
+    }
+  },
+  "elements": [
+    "neutral"
+  ],
+  "food": 4,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "1-2",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "In older paintings, it is depicted as much smaller than it is today. For reasons unknown, various parts of its body have begun to elongate rapidly in recent years, and it is predicted to reach nearly ten times its current size within the next century.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 75,
+          "min": 3900,
+          "max": 4800
+        },
+        "attack": {
+          "growth": 80,
+          "min": 580,
+          "max": 724
+        },
+        "defense": {
+          "growth": 70,
+          "min": 470,
+          "max": 596
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 75,
+          "min": 3900,
+          "max": 4800
+        },
+        "attack": {
+          "growth": 80,
+          "min": 580,
+          "max": 724
+        },
+        "defense": {
+          "growth": 70,
+          "min": 470,
+          "max": 596
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 1.5,
+    "dragon": 1.0
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 7,
+      "skill_id": "air_cannon"
+    },
+    {
+      "level": 15,
+      "skill_id": "power_shot"
+    },
+    {
+      "level": 22,
+      "skill_id": "power_bomb"
+    },
+    {
+      "level": 30,
+      "skill_id": "air_blade"
+    },
+    {
+      "level": 40,
+      "skill_id": "sand_tornado"
+    },
+    {
+      "level": 50,
+      "skill_id": "pal_blast"
+    },
+    {
+      "level": 70,
+      "skill_id": "holy_burst"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Common Egg",
+    "egg_type_id": "common_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Valentail/sprites/front-chroma.png",
+      "transparent": "pals/Valentail/sprites/front-transparent.png",
+      "front_96": "pals/Valentail/sprites/front-96.png",
+      "front_96_pal32": "pals/Valentail/sprites/front-96-pal32.png",
+      "front_64": "pals/Valentail/sprites/front-64.png",
+      "front_64_pal32": "pals/Valentail/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

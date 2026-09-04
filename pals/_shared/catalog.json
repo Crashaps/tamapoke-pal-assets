@@ -1,0 +1,3656 @@
+{
+  "elements": [
+    {
+      "id": "neutral",
+      "name": "Neutral",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "fire",
+      "name": "Fire",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/30?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "water",
+      "name": "Water",
+      "image": {
+        "alt": "Water icon",
+        "key": "Water_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/30?cb=20250703204453",
+        "file": "pals/_shared/icons/Water_icon.png"
+      }
+    },
+    {
+      "id": "grass",
+      "name": "Grass",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/30?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "electric",
+      "name": "Electric",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/30?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "ice",
+      "name": "Ice",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/30?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "ground",
+      "name": "Ground",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/30?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "dark",
+      "name": "Dark",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/30?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "dragon",
+      "name": "Dragon",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/30?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "unknown",
+      "name": "???"
+    }
+  ],
+  "egg_types": [
+    {
+      "id": "common_egg",
+      "name": "Common Egg",
+      "image": {
+        "alt": "Common Egg icon",
+        "key": "Common_Egg_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/86/Common_Egg_icon.png/revision/latest/scale-to-width-down/20?cb=20240121233807",
+        "file": "pals/_shared/icons/Common_Egg_icon.png"
+      }
+    },
+    {
+      "id": "verdant_egg",
+      "name": "Verdant Egg",
+      "image": {
+        "alt": "Verdant Egg icon",
+        "key": "Verdant_Egg_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/4/44/Verdant_Egg_icon.png/revision/latest/scale-to-width-down/20?cb=20240121072201",
+        "file": "pals/_shared/icons/Verdant_Egg_icon.png"
+      }
+    },
+    {
+      "id": "damp_egg",
+      "name": "Damp Egg",
+      "image": {
+        "alt": "Damp Egg icon",
+        "key": "Damp_Egg_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/a1/Damp_Egg_icon.png/revision/latest/scale-to-width-down/20?cb=20240121221743",
+        "file": "pals/_shared/icons/Damp_Egg_icon.png"
+      }
+    },
+    {
+      "id": "rocky_egg",
+      "name": "Rocky Egg",
+      "image": {
+        "alt": "Rocky Egg icon",
+        "key": "Rocky_Egg_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/52/Rocky_Egg_icon.png/revision/latest/scale-to-width-down/20?cb=20240121080014",
+        "file": "pals/_shared/icons/Rocky_Egg_icon.png"
+      }
+    },
+    {
+      "id": "electric_egg",
+      "name": "Electric Egg",
+      "image": {
+        "alt": "Electric Egg icon",
+        "key": "Electric_Egg_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/e/e4/Electric_Egg_icon.png/revision/latest/scale-to-width-down/20?cb=20240121233737",
+        "file": "pals/_shared/icons/Electric_Egg_icon.png"
+      }
+    },
+    {
+      "id": "dark_egg",
+      "name": "Dark Egg",
+      "image": {
+        "alt": "Dark Egg icon",
+        "key": "Dark_Egg_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/18/Dark_Egg_icon.png/revision/latest/scale-to-width-down/20?cb=20240121221720",
+        "file": "pals/_shared/icons/Dark_Egg_icon.png"
+      }
+    },
+    {
+      "id": "scorching_egg",
+      "name": "Scorching Egg",
+      "image": {
+        "alt": "Scorching Egg icon",
+        "key": "Scorching_Egg_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/a1/Scorching_Egg_icon.png/revision/latest/scale-to-width-down/20?cb=20240121203341",
+        "file": "pals/_shared/icons/Scorching_Egg_icon.png"
+      }
+    },
+    {
+      "id": "frozen_egg",
+      "name": "Frozen Egg",
+      "image": {
+        "alt": "Frozen Egg icon",
+        "key": "Frozen_Egg_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/b/b3/Frozen_Egg_icon.png/revision/latest/scale-to-width-down/20?cb=20240121075716",
+        "file": "pals/_shared/icons/Frozen_Egg_icon.png"
+      }
+    },
+    {
+      "id": "dragon_egg",
+      "name": "Dragon Egg",
+      "image": {
+        "alt": "Dragon Egg icon",
+        "key": "Dragon_Egg_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/f/f9/Dragon_Egg_icon.png/revision/latest/scale-to-width-down/20?cb=20240124002603",
+        "file": "pals/_shared/icons/Dragon_Egg_icon.png"
+      }
+    }
+  ],
+  "active_skills": [
+    {
+      "id": "roly_poly",
+      "name": "Roly Poly",
+      "element_id": "neutral",
+      "ct_seconds": 1,
+      "power": 35,
+      "description": "Lamball's special skill. Curls into a ball, rolling after any enemies in its way. Becomes dizzy and unable to move after the attack ends.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "air_cannon",
+      "name": "Air Cannon",
+      "element_id": "neutral",
+      "ct_seconds": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "power_shot",
+      "name": "Power Shot",
+      "element_id": "neutral",
+      "ct_seconds": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "implode",
+      "name": "Implode",
+      "element_id": "neutral",
+      "ct_seconds": 55,
+      "power": 230,
+      "description": "Risks its life to cause a violent explosion. Becomes incapacitated afterwards.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "electric_ball",
+      "name": "Electric Ball",
+      "element_id": "electric",
+      "ct_seconds": 9,
+      "power": 50,
+      "description": "Fires an electric ball that slowly pursues an enemy.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "power_bomb",
+      "name": "Power Bomb",
+      "element_id": "neutral",
+      "ct_seconds": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "pal_blast",
+      "name": "Pal Blast",
+      "element_id": "neutral",
+      "ct_seconds": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "holy_burst",
+      "name": "Holy Burst",
+      "element_id": "neutral",
+      "ct_seconds": 30,
+      "power": 120,
+      "description": "Creates a wide explosion of light at the enemy's location and around it.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "punch_flurry",
+      "name": "Punch Flurry",
+      "element_id": "neutral",
+      "ct_seconds": 1,
+      "power": 40,
+      "description": "Cattiva's special skill. Pursues enemies, repeatedly punching them with both its fists.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "wind_cutter",
+      "name": "Wind Cutter",
+      "element_id": "grass",
+      "ct_seconds": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "seed_machine_gun",
+      "name": "Seed Machine Gun",
+      "element_id": "grass",
+      "ct_seconds": 9,
+      "power": 50,
+      "description": "Fires a volley of hard seeds at enemies in front of it.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "chicken_rush",
+      "name": "Chicken Rush",
+      "element_id": "neutral",
+      "ct_seconds": 1,
+      "power": 30,
+      "description": "Chikipi's special skill. Flies at enemies in its sights, attacking them with its sharp beak.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "grass_tornado",
+      "name": "Grass Tornado",
+      "element_id": "grass",
+      "ct_seconds": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "sand_tornado",
+      "name": "Sand Tornado",
+      "element_id": "ground",
+      "ct_seconds": 18,
+      "power": 80,
+      "description": "Generates two sand tornadoes on either side before launching them at an enemy.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "flare_storm",
+      "name": "Flare Storm",
+      "element_id": "fire",
+      "ct_seconds": 18,
+      "power": 80,
+      "description": "Generates two flaming tornadoes on either side before launching them at an enemy.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "spine_vine",
+      "name": "Spine Vine",
+      "element_id": "grass",
+      "ct_seconds": 25,
+      "power": 95,
+      "description": "Generates spiny thorns that chase an enemy along the ground, piercing them from below.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "solar_blast",
+      "name": "Solar Blast",
+      "element_id": "grass",
+      "ct_seconds": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "aqua_gun",
+      "name": "Aqua Gun",
+      "element_id": "water",
+      "ct_seconds": 4,
+      "power": 40,
+      "description": "Hurls a ball of water straight at an enemy.",
+      "image": {
+        "alt": "Water icon",
+        "key": "Water_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204453",
+        "file": "pals/_shared/icons/Water_icon.png"
+      }
+    },
+    {
+      "id": "hydro_jet",
+      "name": "Hydro Jet",
+      "element_id": "water",
+      "ct_seconds": 2,
+      "power": 30,
+      "description": "Hurls a high speed ball of water at an enemy.",
+      "image": {
+        "alt": "Water icon",
+        "key": "Water_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204453",
+        "file": "pals/_shared/icons/Water_icon.png"
+      }
+    },
+    {
+      "id": "ice_missile",
+      "name": "Ice Missile",
+      "element_id": "ice",
+      "ct_seconds": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "bubble_blast",
+      "name": "Bubble Blast",
+      "element_id": "water",
+      "ct_seconds": 13,
+      "power": 65,
+      "description": "Fires numerous bubbles that slowly pursue an enemy.",
+      "image": {
+        "alt": "Water icon",
+        "key": "Water_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204453",
+        "file": "pals/_shared/icons/Water_icon.png"
+      }
+    },
+    {
+      "id": "aqua_burst",
+      "name": "Aqua Burst",
+      "element_id": "water",
+      "ct_seconds": 30,
+      "power": 100,
+      "description": "Creates a giant ball of water and hurls it at an enemy.",
+      "image": {
+        "alt": "Water icon",
+        "key": "Water_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204453",
+        "file": "pals/_shared/icons/Water_icon.png"
+      }
+    },
+    {
+      "id": "hydro_laser",
+      "name": "Hydro Laser",
+      "element_id": "water",
+      "ct_seconds": 55,
+      "power": 150,
+      "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.",
+      "image": {
+        "alt": "Water icon",
+        "key": "Water_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204453",
+        "file": "pals/_shared/icons/Water_icon.png"
+      }
+    },
+    {
+      "id": "spark_blast",
+      "name": "Spark Blast",
+      "element_id": "electric",
+      "ct_seconds": 2,
+      "power": 30,
+      "description": "The user releases a lightning ball that expands outward in a forward, circular pattern.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "shockwave",
+      "name": "Shockwave",
+      "element_id": "electric",
+      "ct_seconds": 4,
+      "power": 40,
+      "description": "Quickly discharges electricity, shocking those around it.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "lightning_bolt",
+      "name": "Lightning Bolt",
+      "element_id": "electric",
+      "ct_seconds": 55,
+      "power": 150,
+      "description": "Charges electric energy before blasting enemies with a powerful shock.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "acid_rain",
+      "name": "Acid Rain",
+      "element_id": "water",
+      "ct_seconds": 18,
+      "power": 80,
+      "description": "Creates acidic clouds that pour down acid rain on enemies.",
+      "image": {
+        "alt": "Water icon",
+        "key": "Water_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204453",
+        "file": "pals/_shared/icons/Water_icon.png"
+      }
+    },
+    {
+      "id": "splash",
+      "name": "Splash",
+      "element_id": "water",
+      "ct_seconds": 22,
+      "power": 90,
+      "description": "Generates a column of water that travels in a straight line.",
+      "image": {
+        "alt": "Water icon",
+        "key": "Water_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204453",
+        "file": "pals/_shared/icons/Water_icon.png"
+      }
+    },
+    {
+      "id": "curtain_splash",
+      "name": "Curtain Splash",
+      "element_id": "water",
+      "ct_seconds": 40,
+      "power": 120,
+      "description": "Continously creates walls made from water columns at the enemy's location.",
+      "image": {
+        "alt": "Water icon",
+        "key": "Water_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204453",
+        "file": "pals/_shared/icons/Water_icon.png"
+      }
+    },
+    {
+      "id": "air_blade",
+      "name": "Air Blade",
+      "element_id": "neutral",
+      "ct_seconds": 20,
+      "power": 85,
+      "description": "Sends out sharp blades of air in a fan shape.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "stone_blast",
+      "name": "Stone Blast",
+      "element_id": "ground",
+      "ct_seconds": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "seed_mine",
+      "name": "Seed Mine",
+      "element_id": "grass",
+      "ct_seconds": 13,
+      "power": 65,
+      "description": "Launches a deadly seed. If it hits an enemy, the seed explodes.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "tri_lightning",
+      "name": "Tri-Lightning",
+      "element_id": "electric",
+      "ct_seconds": 22,
+      "power": 90,
+      "description": "Generates lightning that strikes an enemy three times from above.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "lightning_streak",
+      "name": "Lightning Streak",
+      "element_id": "electric",
+      "ct_seconds": 16,
+      "power": 75,
+      "description": "Generates a lightning bolt that moves forward in a line.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "poison_blast",
+      "name": "Poison Blast",
+      "element_id": "dark",
+      "ct_seconds": 2,
+      "power": 30,
+      "description": "Hurls poison sludge at an enemy.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "dark_ball",
+      "name": "Dark Ball",
+      "element_id": "dark",
+      "ct_seconds": 4,
+      "power": 40,
+      "description": "Unleashes a sphere of darkness that slowly tracks down the enemy.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "shadow_burst",
+      "name": "Shadow Burst",
+      "element_id": "dark",
+      "ct_seconds": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "nightmare_ball",
+      "name": "Nightmare Ball",
+      "element_id": "dark",
+      "ct_seconds": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "dark_laser",
+      "name": "Dark Laser",
+      "element_id": "dark",
+      "ct_seconds": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "dark_whisp",
+      "name": "Dark Whisp",
+      "element_id": "dark",
+      "ct_seconds": 45,
+      "power": 160,
+      "description": "Fires a menacing ball of dark energy that pursues enemies.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "icicle_cutter",
+      "name": "Icicle Cutter",
+      "element_id": "ice",
+      "ct_seconds": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "iceberg",
+      "name": "Iceberg",
+      "element_id": "ice",
+      "ct_seconds": 15,
+      "power": 70,
+      "description": "Summons a sharp ice lance under an enemy.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "blizzard_spike",
+      "name": "Blizzard Spike",
+      "element_id": "ice",
+      "ct_seconds": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "emperor_slide",
+      "name": "Emperor Slide",
+      "element_id": "ice",
+      "ct_seconds": 10,
+      "power": 70,
+      "description": "Penking's exclusive skill. Lies on its belly while generating frozen air all around it before sliding at enemies at high speed.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "spirit_flame",
+      "name": "Spirit Flame",
+      "element_id": "dark",
+      "ct_seconds": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "fluffy_tackle",
+      "name": "Fluffy Tackle",
+      "element_id": "neutral",
+      "ct_seconds": 4,
+      "power": 40,
+      "description": "Melpaca's exclusive skill. Charges forward while clad in an aura of sublime adorableness.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "kingly_slam",
+      "name": "Kingly Slam",
+      "element_id": "neutral",
+      "ct_seconds": 21,
+      "power": 100,
+      "description": "Kingpaca's exclusive skill. Leaps high into the air before smashing into an enemy with its massive body.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "rock_lance",
+      "name": "Rock Lance",
+      "element_id": "ground",
+      "ct_seconds": 55,
+      "power": 150,
+      "description": "Generates a sharp rock spear under an enemy.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "stone_cannon",
+      "name": "Stone Cannon",
+      "element_id": "ground",
+      "ct_seconds": 15,
+      "power": 70,
+      "description": "Digs up a boulder and hurls it at an enemy.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "ignis_blast",
+      "name": "Ignis Blast",
+      "element_id": "fire",
+      "ct_seconds": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "spirit_fire",
+      "name": "Spirit Fire",
+      "element_id": "fire",
+      "ct_seconds": 7,
+      "power": 45,
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "flare_arrow",
+      "name": "Flare Arrow",
+      "element_id": "fire",
+      "ct_seconds": 10,
+      "power": 55,
+      "description": "Fires three flaming arrows in succession that home in on an enemy.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "ignis_rage",
+      "name": "Ignis Rage",
+      "element_id": "fire",
+      "ct_seconds": 40,
+      "power": 120,
+      "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "fire_ball",
+      "name": "Fire Ball",
+      "element_id": "fire",
+      "ct_seconds": 55,
+      "power": 150,
+      "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "reckless_charge",
+      "name": "Reckless Charge",
+      "element_id": "neutral",
+      "ct_seconds": 2,
+      "power": 55,
+      "description": "Rushoar's special skill. Takes aim at a foe and rushes at them with a mad charge.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "ignis_breath",
+      "name": "Ignis Breath",
+      "element_id": "fire",
+      "ct_seconds": 15,
+      "power": 70,
+      "description": "Shoots flames at an enemy, dealing continuous damage.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "dragon_meteor",
+      "name": "Dragon Meteor",
+      "element_id": "dragon",
+      "ct_seconds": 55,
+      "power": 150,
+      "description": "Calls down numerous small meteorites and launches them at an enemy.",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "antler_uppercut",
+      "name": "Antler Uppercut",
+      "element_id": "neutral",
+      "ct_seconds": 5,
+      "power": 50,
+      "description": "Eikthyrdeer's exclusive skill. Charges at foes and uses antlers to launch them into the air. If used while riding, the direction of the charge can be controlled.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "fierce_fang",
+      "name": "Fierce Fang",
+      "element_id": "neutral",
+      "ct_seconds": 2,
+      "power": 45,
+      "description": "Direhowl's special skill. Swiftly leaps at an enemy and bites into them.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "dragon_cannon",
+      "name": "Dragon Cannon",
+      "element_id": "dragon",
+      "ct_seconds": 2,
+      "power": 30,
+      "description": "Hurls an energy ball imbued with draconic energy at an enemy.",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "dragon_burst",
+      "name": "Dragon Burst",
+      "element_id": "dragon",
+      "ct_seconds": 10,
+      "power": 55,
+      "description": "Quickly discharges draconic energy, damaging those around it.",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "umbral_surge",
+      "name": "Umbral Surge",
+      "element_id": "dark",
+      "ct_seconds": 2,
+      "power": 40,
+      "description": "Fires a high speed ball of dark energy that spreads forward in a radial shape.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "poison_shower",
+      "name": "Poison Shower",
+      "element_id": "dark",
+      "ct_seconds": 22,
+      "power": 90,
+      "description": "Focuses energy into the body and scatters poison orbs in all directions.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "gale_claw",
+      "name": "Gale Claw",
+      "element_id": "neutral",
+      "ct_seconds": 8,
+      "power": 60,
+      "description": "Galeclaw's exclusive skill. Soars through the air with its talons outstretched forward.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "apocalypse",
+      "name": "Apocalypse",
+      "element_id": "dark",
+      "ct_seconds": 55,
+      "power": 110,
+      "description": "Generates several dark vortexes in the surrounding area.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "tornado_attack",
+      "name": "Tornado Attack",
+      "element_id": "neutral",
+      "ct_seconds": 13,
+      "power": 65,
+      "description": "Nitewing's exclusive skill. Generates a tornado before soaring towards its target.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "megaton_implode",
+      "name": "Megaton Implode",
+      "element_id": "neutral",
+      "ct_seconds": 55,
+      "power": 500,
+      "description": "Tocotoco's exclusive skill. Risks life to cause a massive explosion. Those who perish for their duty become glistening stars in the night sky.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "lightning_gale",
+      "name": "Lightning Gale",
+      "element_id": "electric",
+      "ct_seconds": 8,
+      "power": 60,
+      "description": "Univolt's exclusive skill. Generates bolts of lightning all around while charging at its target.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "lock_on_laser",
+      "name": "Lock-on Laser",
+      "element_id": "electric",
+      "ct_seconds": 15,
+      "power": 70,
+      "description": "Takes aim at an enemy before firing a super high speed laser.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "lightning_strike",
+      "name": "Lightning Strike",
+      "element_id": "electric",
+      "ct_seconds": 40,
+      "power": 120,
+      "description": "Acts as a lightning rod, calling down thunderbolts that electrocute the surrounding area.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "jumping_claw",
+      "name": "Jumping Claw",
+      "element_id": "dark",
+      "ct_seconds": 7,
+      "power": 55,
+      "description": "Loupmoon's exclusive skill. Leaps forward and attacks twice with vicious claws imbued with dark energy.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "phantom_peck",
+      "name": "Phantom Peck",
+      "element_id": "dark",
+      "ct_seconds": 7,
+      "power": 55,
+      "description": "Cawnito's exclusive skill. Teleports next to an enemy before attacking with its beak.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "blazing_horn",
+      "name": "Blazing Horn",
+      "element_id": "fire",
+      "ct_seconds": 9,
+      "power": 50,
+      "description": "Arsox's exclusive skill. Takes aim and rushes at an enemy with a mad dash.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "icicle_line",
+      "name": "Icicle Line",
+      "element_id": "ice",
+      "ct_seconds": 40,
+      "power": 120,
+      "description": "Generates a pillar of ice that moves in a straight line.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "poison_fog",
+      "name": "Poison Fog",
+      "element_id": "dark",
+      "ct_seconds": 30,
+      "power": 0,
+      "description": "Generates a fog of poison in front, causing the opponent to become poisoned.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "trispark",
+      "name": "TriSpark",
+      "element_id": "electric",
+      "ct_seconds": 35,
+      "power": 110,
+      "description": "A high-speed lightning ball that flies in a straight line. Simultaneously fires slow lightning balls that track the enemy.range=300-3000",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "mystic_whirlwind",
+      "name": "Mystic Whirlwind",
+      "element_id": "dragon",
+      "ct_seconds": 10,
+      "power": 70,
+      "description": "Elphidran's exclusive skill. Generates twin whirlwinds imbued with a mysterious power that pursues enemies.",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "flame_breath",
+      "name": "Flame Breath",
+      "element_id": "fire",
+      "ct_seconds": 15,
+      "power": 90,
+      "description": "Vanwyrms exclusive skill. Advances while breathing fire from its mouth.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "needle_spear",
+      "name": "Needle Spear",
+      "element_id": "grass",
+      "ct_seconds": 7,
+      "power": 55,
+      "description": "Beegarde's exclusive skill. Charges at the enemy at high speed, delivering a final thrust with a spear.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "bee_quiet",
+      "name": "Bee Quiet",
+      "element_id": "grass",
+      "ct_seconds": 55,
+      "power": 250,
+      "description": "Beegarde's exclusive skill. Risks its life to cause a violent explosion, but receives the honor of falling in battle.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "cat_press",
+      "name": "Cat Press",
+      "element_id": "neutral",
+      "ct_seconds": 9,
+      "power": 60,
+      "description": "Grintale's exclusive skill. Grins menacingly before leaping into the air and smashing foes with its body.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "dark_arrow",
+      "name": "Dark Arrow",
+      "element_id": "dark",
+      "ct_seconds": 10,
+      "power": 65,
+      "description": "Fires off dark energy that homes in on an enemy.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "ground_pound",
+      "name": "Ground Pound",
+      "element_id": "neutral",
+      "ct_seconds": 14,
+      "power": 85,
+      "description": "Gorirat's exclusive skill. Pounds the ground twice before leaping into the air and unleashing a powerful punch.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "focus_shot",
+      "name": "Focus Shot",
+      "element_id": "grass",
+      "ct_seconds": 9,
+      "power": 65,
+      "description": "Robinquill's exclusive skill. Takes aim while drawing its bow before loosing a powerful shot at an enemy.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "dark_cannon",
+      "name": "Dark Cannon",
+      "element_id": "dark",
+      "ct_seconds": 2,
+      "power": 50,
+      "description": "Hurls an energy ball imbued with dark energy at an enemy.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "flame_wall",
+      "name": "Flame Wall",
+      "element_id": "fire",
+      "ct_seconds": 30,
+      "power": 100,
+      "description": "Creates a wall of flames at the enemy's location. The wall of flame will remain for a while, and deal damage to the enemies it touches.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "rockburst",
+      "name": "Rockburst",
+      "element_id": "ground",
+      "ct_seconds": 35,
+      "power": 130,
+      "description": "Causes the ground to shake before hurling a massive stone mass at its surroundings.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "circle_vine",
+      "name": "Circle Vine",
+      "element_id": "grass",
+      "ct_seconds": 40,
+      "power": 120,
+      "description": "Sprouts sharp roots in and around the enemy's location.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "cloud_tempest",
+      "name": "Cloud Tempest",
+      "element_id": "neutral",
+      "ct_seconds": 15,
+      "power": 90,
+      "description": "Fenglope's exclusive skill. Charges forward while manipulating the atmosphere to create a pressurized wind tunnel around itself.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "botanical_smash",
+      "name": "Botanical Smash",
+      "element_id": "grass",
+      "ct_seconds": 8,
+      "power": 60,
+      "description": "Dinossom's exclusive skill. Uses large tail to smash the ground in front of it, damaging enemies over a wide area.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "iaigiri",
+      "name": "Iaigiri",
+      "element_id": "fire",
+      "ct_seconds": 9,
+      "power": 65,
+      "description": "Bushi's exclusive skill. After Holding the sword, he appears in front of the enemy in an instant and unleashes a Ultra-fast sword draw attack.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "earth_impact",
+      "name": "Earth Impact",
+      "element_id": "ground",
+      "ct_seconds": 30,
+      "power": 100,
+      "description": "Mammorest's exclusive skill. Uses massive body to shake the earth, dealing damage over a wide area.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "multicutter",
+      "name": "Multicutter",
+      "element_id": "grass",
+      "ct_seconds": 12,
+      "power": 60,
+      "description": "The user fires three high-speed blades of wind in quick succession that fly straight at enemies.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "hellfire_claw",
+      "name": "Hellfire Claw",
+      "element_id": "fire",
+      "ct_seconds": 10,
+      "power": 70,
+      "description": "Incineram's exclusive skill. Draws near enemies using its left claw to slash them into the air before cutting them down with its right claw.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "thunderstorm",
+      "name": "Thunderstorm",
+      "element_id": "electric",
+      "ct_seconds": 60,
+      "power": 160,
+      "description": "Generates a huge tornado of lightning that moves slowly towards the enemy.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "lightning_dive",
+      "name": "Lightning Dive",
+      "element_id": "electric",
+      "ct_seconds": 12,
+      "power": 80,
+      "description": "Beakon's exclusive skill. First, it strikes the enemy's location with lightning. Then, while gliding forward, it drops lightning to the left and right.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "beckon_lightning",
+      "name": "Beckon Lightning",
+      "element_id": "electric",
+      "ct_seconds": 9,
+      "power": 65,
+      "description": "Rayhound's exclusive skill. Summons lightning one after another in front, then charges forward at high speed through the gaps between the falling bolts.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "jumping_stinger",
+      "name": "Jumping Stinger",
+      "element_id": "ground",
+      "ct_seconds": 24,
+      "power": 110,
+      "description": "Menasting's exclusive skill. Jumps high and stabs its prey with its tail. The poison from the tail is deadly.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "freezing_charge",
+      "name": "Freezing Charge",
+      "element_id": "ice",
+      "ct_seconds": 9,
+      "power": 65,
+      "description": "Reindrix's exclusive skill. Charges at an enemy with antlers adorned in ice.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "crushing_punch",
+      "name": "Crushing Punch",
+      "element_id": "grass",
+      "ct_seconds": 18,
+      "power": 85,
+      "description": "Mossanda's exclusive skill. Winds up its fist before striking an enemy with a devastating punch.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "rocket_slam",
+      "name": "Rocket Slam",
+      "element_id": "dragon",
+      "ct_seconds": 6,
+      "power": 50,
+      "description": "Chillet's exclusive skill. Gathers a bit of strength and it leaps forward. When landing it's always scared so it closes its eyes.",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "rush_beak",
+      "name": "Rush Beak",
+      "element_id": "fire",
+      "ct_seconds": 14,
+      "power": 85,
+      "description": "Ragnahawk's exclusive skill. While flapping forward, it strikes with its beak to ignite fires in front, right, and left, causing a small explosion.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "volcanic_rain",
+      "name": "Volcanic Rain",
+      "element_id": "fire",
+      "ct_seconds": 45,
+      "power": 130,
+      "description": "Fires countless volcanic bombs into the sky. After a while, the bombs rain down around their originator.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "shell_spin",
+      "name": "Shell Spin",
+      "element_id": "ground",
+      "ct_seconds": 9,
+      "power": 65,
+      "description": "Digtoise's exclusive skill. Moves while spinning its whole body at high speeds. Drills through enemies, dealing continuous damage.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "muscle_slam",
+      "name": "Muscle Slam",
+      "element_id": "neutral",
+      "ct_seconds": 12,
+      "power": 80,
+      "description": "Broncherry's exclusive skill. Turns sideways before tackling enemies in front of it, sending them flying into the air.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "sand_blast",
+      "name": "Sand Blast",
+      "element_id": "ground",
+      "ct_seconds": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "daring_flames",
+      "name": "Daring Flames",
+      "element_id": "fire",
+      "ct_seconds": 10,
+      "power": 75,
+      "description": "Kitsun's exclusive skill. Charges forward with great speed while clad in intense blue flames.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "volcanic_fang",
+      "name": "Volcanic Fang",
+      "element_id": "fire",
+      "ct_seconds": 30,
+      "power": 125,
+      "description": "Blazehowl's exclusive skill. With momentum, it pounces mercilessly on the enemy and causes an explosion of fire at the point of impact.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "giga_horn",
+      "name": "Giga Horn",
+      "element_id": "ground",
+      "ct_seconds": 11,
+      "power": 75,
+      "description": "Warsect's exclusive skill. Skewers enemies with its four sturdy horns.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "spirit_dash",
+      "name": "Spirit Dash",
+      "element_id": "dark",
+      "ct_seconds": 15,
+      "power": 90,
+      "description": "Maraith's exclusive skill. While running slowly, it continuously launches flickering fireballs toward the enemy.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "sand_twister",
+      "name": "Sand Twister",
+      "element_id": "ground",
+      "ct_seconds": 60,
+      "power": 160,
+      "description": "Creates multiple sand tornadoes. The tornadoes continuously spin in circles.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "slither_slam",
+      "name": "Slither Slam",
+      "element_id": "water",
+      "ct_seconds": 30,
+      "power": 145,
+      "description": "Jormuntide's exclusive skill. Letting out a roar, it charges toward the enemy, twisting its water-covered body as it advances.",
+      "image": {
+        "alt": "Water icon",
+        "key": "Water_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204453",
+        "file": "pals/_shared/icons/Water_icon.png"
+      }
+    },
+    {
+      "id": "earth_dash",
+      "name": "Earth Dash",
+      "element_id": "ground",
+      "ct_seconds": 21,
+      "power": 100,
+      "description": "Dazemu's special skill. Accelerates all at once and rushes forward at high speed.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "volcanic_burst",
+      "name": "Volcanic Burst",
+      "element_id": "fire",
+      "ct_seconds": 45,
+      "power": 100,
+      "description": "Reptyro's exclusive skill. Raises its front legs before slamming them into the ground, causing volcanic eruptions under its enemies. It simultaneously bombards them with volcanic bombs from above.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "blizzard_claw",
+      "name": "Blizzard Claw",
+      "element_id": "ice",
+      "ct_seconds": 14,
+      "power": 85,
+      "description": "Cryolinx's exclusive skill. First, it strikes with its claws, followed by a second slash, and culminates with a powerful slash using its entire body. When swinging the claws, ice pillars are launched forward in a fan shape.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "snow_bowling",
+      "name": "Snow Bowling",
+      "element_id": "ice",
+      "ct_seconds": 20,
+      "power": 100,
+      "description": "Wumpo's exclusive skill. Rolls a snowball as it moves forward, and when it grows large enough, it throws it to cause an explosion.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "flame_funnel",
+      "name": "Flame Funnel",
+      "element_id": "fire",
+      "ct_seconds": 40,
+      "power": 120,
+      "description": "Creates multiple spheres of fiery energy, from which countless fireballs shoot towards the enemy.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "brawn_impact",
+      "name": "Brawn Impact",
+      "element_id": "fire",
+      "ct_seconds": 38,
+      "power": 150,
+      "description": "Blazamut's exclusive skill. Waves and pumps up its arms, the slams them together to create a large explosion in the surrounding area.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "spinning_roundhouse",
+      "name": "Spinning Roundhouse",
+      "element_id": "grass",
+      "ct_seconds": 15,
+      "power": 90,
+      "description": "Verdash's exclusive skill. While jumping forward, it sweeps the surroundings with a high-speed spinning kick.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "forceful_charge",
+      "name": "Forceful Charge",
+      "element_id": "ground",
+      "ct_seconds": 28,
+      "power": 120,
+      "description": "Anubis's special skill. Pursues its foe with a high speed dash while releasing energy and unleashes a powerful punch.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "ground_smash",
+      "name": "Ground Smash",
+      "element_id": "ground",
+      "ct_seconds": 35,
+      "power": 140,
+      "description": "Anubis's special skill. Leaps high into the air before diving to the ground with a punch. The force of the impact deals damage over a wide area.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "evil_slash",
+      "name": "Evil Slash",
+      "element_id": "dark",
+      "ct_seconds": 17,
+      "power": 95,
+      "description": "Xenovader's exclusive skill. A flash jump followed by a left-hand slash.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "comet_strike",
+      "name": "Comet Strike",
+      "element_id": "dragon",
+      "ct_seconds": 35,
+      "power": 110,
+      "description": "Drops a meteorite straight down, generating a shock wave around the impact area.",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "beam_slicer",
+      "name": "Beam Slicer",
+      "element_id": "dragon",
+      "ct_seconds": 45,
+      "power": 130,
+      "description": "Mows down the frontal area with a beam imbued with dragon power. The area touched by the beam will also explode after a few moments.",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "grudge_barrage",
+      "name": "Grudge Barrage",
+      "element_id": "dark",
+      "ct_seconds": 31,
+      "power": 130,
+      "description": "Splatterina's exclusive skill. Teleports instantly and launches a slash. It then teleports above the enemy, drives its weapon into them, and unleashes a wave of dark energy.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "wholehearted_stance",
+      "name": "Wholehearted Stance",
+      "element_id": "neutral",
+      "ct_seconds": 30,
+      "power": 170,
+      "description": "Dogen's exclusive skill. Adopts an aiki stance. While in stance, any attack is nullified, then instantly countered with a full-force palm strike.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "firefist_breathstorm",
+      "name": "Firefist Breathstorm",
+      "element_id": "dragon",
+      "ct_seconds": 30,
+      "power": 130,
+      "description": "Astegon's exclusive skill. After throwing two punches forward, it exhales a dragon breath downward.",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "ground_cutter",
+      "name": "Ground Cutter",
+      "element_id": "ground",
+      "ct_seconds": 35,
+      "power": 145,
+      "description": "Knocklem's exclusive skill. Takes a big swing and throws the ring on its back. The ring flies in a circular trajectory.",
+      "image": {
+        "alt": "Ground icon",
+        "key": "Ground_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/58/Ground_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204308",
+        "file": "pals/_shared/icons/Ground_icon.png"
+      }
+    },
+    {
+      "id": "charge_cannon",
+      "name": "Charge Cannon",
+      "element_id": "dragon",
+      "ct_seconds": 50,
+      "power": 140,
+      "description": "Fires an energy orb infused with draconic power at the enemy. The orb causes a wide-area explosion upon impact.",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "thunder_rain",
+      "name": "Thunder Rain",
+      "element_id": "electric",
+      "ct_seconds": 45,
+      "power": 135,
+      "description": "Calls lightning that strikes an enemy after a set amount of time has passed.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "star_mine",
+      "name": "Star Mine",
+      "element_id": "neutral",
+      "ct_seconds": 55,
+      "power": 110,
+      "description": "Generates stars around the enemy that explode on contact. Stars also explode after some time.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "lightning_claw",
+      "name": "Lightning Claw",
+      "element_id": "electric",
+      "ct_seconds": 22,
+      "power": 90,
+      "description": "Grizzbolt's special skill. After leaping at an enemy and tearing at it twice with its electrically charged claws, it attacks the ground, sending an electric shock throughout the area.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "heavy_thunder_tank",
+      "name": "Heavy Thunder Tank",
+      "element_id": "electric",
+      "ct_seconds": 42,
+      "power": 160,
+      "description": "Grizzbolt's exclusive skill. Attacks with a minigun pulled out from somewhere. Ends with a single, charged power shot.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "bountiful_protection",
+      "name": "Bountiful Protection",
+      "element_id": "grass",
+      "ct_seconds": 240,
+      "power": 0,
+      "description": "Lyleen's exclusive skill. Restores health to all allies within range using the power of healing.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "kerauno",
+      "name": "Kerauno",
+      "element_id": "electric",
+      "ct_seconds": 30,
+      "power": 100,
+      "description": "Orserk's exclusive skill. Summons a blade of lightning while leaping into the air before throwing it at an enemy.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "polykeraunos",
+      "name": "Polykeraunos",
+      "element_id": "electric",
+      "ct_seconds": 50,
+      "power": 180,
+      "description": "Orserk's exclusive skill. Summons numerous thunder spears and hurls them at the enemy. The first spear is imbued with the power of lightning and explodes after a few seconds.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "phoenix_flare",
+      "name": "Phoenix Flare",
+      "element_id": "fire",
+      "ct_seconds": 28,
+      "power": 135,
+      "description": "Faleris's special skill. Covers its body in a tornado of flames before charging forward.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "raging_flame_wave",
+      "name": "Raging Flame Wave",
+      "element_id": "fire",
+      "ct_seconds": 38,
+      "power": 145,
+      "description": "Faleris' exclusive skill. Generates multiple tornadoes of scorching fire and charges forward. The tornadoes converge in the center and eventually merge into a single massive tornado.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "divine_disaster",
+      "name": "Divine Disaster",
+      "element_id": "dark",
+      "ct_seconds": 45,
+      "power": 160,
+      "description": "Shadowbeak's exclusive skill. Charges forward while generating orbs of light that automatically capture enemies. The orbs automatically capture enemies, before releasing a barrage of lasers.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "divine_disaster_ii",
+      "name": "Divine Disaster II",
+      "element_id": "dark",
+      "ct_seconds": 45,
+      "power": 170,
+      "description": "Shadowbeak's exclusive skill. As it charges forward, emits countless blue rays that automatically locate and pursue the enemy.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "seigetsu_blade",
+      "name": "Seigetsu Blade",
+      "element_id": "neutral",
+      "ct_seconds": 24,
+      "power": 110,
+      "description": "Selyne's exclusive skill. Fires two consecutive high-speed blades imbued with the power of moonlight.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "moonlight_beam",
+      "name": "Moonlight Beam",
+      "element_id": "neutral",
+      "ct_seconds": 40,
+      "power": 170,
+      "description": "Selyne's exclusive skill. Stores energy in the moon on its back, then fires a crescent-shaped beam forward.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "nightmare_ray",
+      "name": "Nightmare Ray",
+      "element_id": "dark",
+      "ct_seconds": 50,
+      "power": 140,
+      "description": "Bellanoir's exclusive skill. Disappears suddenly, then reappears while firing a barrage of beams.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "spear_thrust",
+      "name": "Spear Thrust",
+      "element_id": "neutral",
+      "ct_seconds": 40,
+      "power": 120,
+      "description": "Paladius' exclusive skill. Clads itself in holy power before charging forward with its spear. The shield in its other hand protects from attacks during the charge.",
+      "image": {
+        "alt": "Neutral icon",
+        "key": "Neutral_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/1/14/Neutral_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204237",
+        "file": "pals/_shared/icons/Neutral_icon.png"
+      }
+    },
+    {
+      "id": "twin_spears",
+      "name": "Twin Spears",
+      "element_id": "dark",
+      "ct_seconds": 40,
+      "power": 120,
+      "description": "Necromus' exclusive skill. Clads its twin spears with vicious whirlwinds and charges forward, thrusting them one after the other.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "crystal_wing",
+      "name": "Crystal Wing",
+      "element_id": "ice",
+      "ct_seconds": 24,
+      "power": 110,
+      "description": "Frostallion's exclusive skill. Dashes forward while creating frigid air around its wings, using them to slash enemies.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "beam_comet",
+      "name": "Beam Comet",
+      "element_id": "dragon",
+      "ct_seconds": 50,
+      "power": 140,
+      "description": "Jetragon's exclusive skill. Flies at enemies on illuminated wings while firing innumerable beams. The beams explode on impact.",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "tempest_blizzard",
+      "name": "Tempest Blizzard",
+      "element_id": "ice",
+      "ct_seconds": 15,
+      "power": 90,
+      "description": "Vanwyrm Cryst's exclusive skill. Advances while exhaling cold air from its mouth.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "dark_charge",
+      "name": "Dark Charge",
+      "element_id": "dark",
+      "ct_seconds": 14,
+      "power": 85,
+      "description": "Pyrin Noct's exclusive skill. Charges forward while clad in a veil of dark flames. Flames continue to burn in its trajectory.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "blast_punch",
+      "name": "Blast Punch",
+      "element_id": "electric",
+      "ct_seconds": 14,
+      "power": 85,
+      "description": "Mossanda Lux's exclusive skill. Winds up its fist before pummeling an enemy with a flurry of electrically charged punches.",
+      "image": {
+        "alt": "Electric icon",
+        "key": "Electric_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/a/af/Electric_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204358",
+        "file": "pals/_shared/icons/Electric_icon.png"
+      }
+    },
+    {
+      "id": "magma_serpent",
+      "name": "Magma Serpent",
+      "element_id": "fire",
+      "ct_seconds": 30,
+      "power": 145,
+      "description": "Jormuntide Ignis's exclusive skill. Letting out a roar, it charges toward the enemy, twisting its fire-covered body as it advances.",
+      "image": {
+        "alt": "Fire icon",
+        "key": "Fire_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fire_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204334",
+        "file": "pals/_shared/icons/Fire_icon.png"
+      }
+    },
+    {
+      "id": "frost_burst",
+      "name": "Frost Burst",
+      "element_id": "ice",
+      "ct_seconds": 45,
+      "power": 100,
+      "description": "Ice Reptyro's exclusive skill. Raises its front legs and slams them into the ground causing frozen blasts under its enemies. It simultaneously pounds them with snow balls from above.",
+      "image": {
+        "alt": "Ice icon",
+        "key": "Ice_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/8/83/Ice_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204512",
+        "file": "pals/_shared/icons/Ice_icon.png"
+      }
+    },
+    {
+      "id": "lawn_bowling",
+      "name": "Lawn Bowling",
+      "element_id": "grass",
+      "ct_seconds": 20,
+      "power": 100,
+      "description": "Wumpo Botan's exclusive skill. Rolls a ball made of grass as it moves forward, and when it grows large enough, it throws it to cause an explosion.",
+      "image": {
+        "alt": "Grass icon",
+        "key": "Grass_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/c/cb/Grass_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204028",
+        "file": "pals/_shared/icons/Grass_icon.png"
+      }
+    },
+    {
+      "id": "magna_crush",
+      "name": "Magna Crush",
+      "element_id": "dragon",
+      "ct_seconds": 42,
+      "power": 160,
+      "description": "Blazamut's exclusive skill. After making a big jump, while moving at high speed in the air, gathers strength and unleashes a punch with full might.",
+      "image": {
+        "alt": "Dragon icon",
+        "key": "Dragon_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/9/91/Dragon_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204532",
+        "file": "pals/_shared/icons/Dragon_icon.png"
+      }
+    },
+    {
+      "id": "flame_waltz",
+      "name": "Flame Waltz",
+      "element_id": "dark",
+      "ct_seconds": 45,
+      "power": 130,
+      "description": "Bellanoir Libero's exclusive skill. Dances gracefully while creating an extending ring of flames. Then, it fires mysterious flames that home in on enemies.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    },
+    {
+      "id": "nightmare_bloom",
+      "name": "Nightmare Bloom",
+      "element_id": "dark",
+      "ct_seconds": 50,
+      "power": 160,
+      "description": "Bellanoir Libero's exclusive skill. Disappears suddenly, then reappears while firing a barrage of beams. The beams spread like a beautiful flower in bloom.",
+      "image": {
+        "alt": "Dark icon",
+        "key": "Dark_icon.png",
+        "source_url": "https://static.wikia.nocookie.net/palworld/images/3/33/Dark_icon.png/revision/latest/scale-to-width-down/24?cb=20250703204428",
+        "file": "pals/_shared/icons/Dark_icon.png"
+      }
+    }
+  ],
+  "partner_skills": [
+    {
+      "id": "fluffy_shield",
+      "name": "Fluffy Shield",
+      "description": "When activated, equips to the player and becomes a shield. Sometimes drops Wool when assigned to ranch."
+    },
+    {
+      "id": "cat_helper",
+      "name": "Cat Helper",
+      "description": "While in team, Cattiva helps carry supplies, increasing the player's max carrying capacity by 100. (Does not stack)"
+    },
+    {
+      "id": "egg_layer",
+      "name": "Egg Layer",
+      "description": "Sometimes lays eggs when assigned to Ranch."
+    },
+    {
+      "id": "lifmunk_recoil",
+      "name": "Lifmunk Recoil",
+      "description": "When activated, leaps onto player's head and uses a submachine gun to follows up player attacks. (Requires Lifmunk's Submachine Gun→ Unlocks at Lv. 11)"
+    },
+    {
+      "id": "surfing_slam",
+      "name": "Surfing Slam",
+      "description": "When activated, Fuack body surfs towards an enemy and slams into them."
+    },
+    {
+      "id": "dig_here",
+      "name": "Dig Here!",
+      "description": "Sometimes digs up items from the ground when assigned to ranch."
+    },
+    {
+      "id": "zephyr_glider",
+      "name": "Zephyr Glider",
+      "description": "While in party, modifies the performance of the equipped glider. Prevents fall damage and extends the duration of high-speed gliding"
+    },
+    {
+      "id": "fluffy_wool",
+      "name": "Fluffy Wool",
+      "description": "While in team, increases attack power of Neutral Pals. Sometimes drops wool when assigned to Ranch."
+    },
+    {
+      "id": "herbil_pulse",
+      "name": "Herbil Pulse",
+      "description": "Herbil uses its healing powers to restore 30% of the player's Max Health when incapacitated."
+    },
+    {
+      "id": "soothing_shower",
+      "name": "Soothing Shower",
+      "description": "When activated, spouts mysterious water that soothes wounds and restores the player's HP."
+    },
+    {
+      "id": "logging_assistance",
+      "name": "Logging Assistance",
+      "description": "While in party, improves logging efficiency by 30% and reduces weight of all types of wood by 40%. (Does not stack)"
+    },
+    {
+      "id": "jolt_bomb",
+      "name": "Jolt Bomb",
+      "description": "When activated, equips Jolthog to the player's hand. When thrown at an enemy, causes an electrical explosion upon impact. (Requires Jolthog's Gloves → Unlocks at Lv. 8)"
+    },
+    {
+      "id": "caffeine_inoculation",
+      "name": "Caffeine Inoculation",
+      "description": "When activated, Depresso drinks a massive amount of energy drinks, causing its movement speed to increase."
+    },
+    {
+      "id": "pengullet_cannon",
+      "name": "Pengullet Cannon",
+      "description": "When activated, the player equips a Rocket Launcher and fires Pengullet as ammunition. Pengullet explodes on contact and is incapacitated. (Requires Pengullet's Rocket Launcher→ Unlocks at Lv. 17)"
+    },
+    {
+      "id": "brave_sailor",
+      "name": "Brave Sailor",
+      "description": "When fighting together, Fire Pals drop more items when defeated."
+    },
+    {
+      "id": "dark_knowledge",
+      "name": "Dark Knowledge",
+      "description": "While in team, increases attack power of Dark Pals."
+    },
+    {
+      "id": "pacapaca_wool",
+      "name": "Pacapaca Wool",
+      "description": "Can be ridden. (Requires Melpaca's Saddle→ Unlocks at Lv. 7) Sometimes drops Wool when assigned to Ranch. While in party, increases Kingpaca's Defense and Movement Speed."
+    },
+    {
+      "id": "king_of_muscles",
+      "name": "King of Muscles",
+      "description": "Can be ridden (Requires Kingpaca's Saddle→ Unlocks at Lv. 23). This Pal's Defense and Movement Speed increase by 5% for each Melpaca in party."
+    },
+    {
+      "id": "dream_chaser",
+      "name": "Dream Chaser",
+      "description": "While in team, appears near the player. Follows up player attacks with magic bullets. (Requires Daedream's Necklace → Unlocks at Lv. 8)"
+    },
+    {
+      "id": "cheery_rifle",
+      "name": "Cheery Rifle",
+      "description": "When activated, Tanzee will mercilessly fire an assault rifle at nearby enemies. (Requires Tanzee's Assault Rifle→ Unlocks at Lv. 12)"
+    },
+    {
+      "id": "kuudere",
+      "name": "Kuudere",
+      "description": "When fighting together, applies Dark damage to the player's attacks."
+    },
+    {
+      "id": "magma_tears",
+      "name": "Magma Tears",
+      "description": "Sometimes produces Flame Organ when assigned to Ranch ."
+    },
+    {
+      "id": "tiny_spark",
+      "name": "Tiny Spark",
+      "description": "While in team, increases attack power of Fire Pals."
+    },
+    {
+      "id": "gold_digger",
+      "name": "Gold Digger",
+      "description": "A passive skill that will cause Mau to dig up coins when assigned to a ranch"
+    },
+    {
+      "id": "hard_head",
+      "name": "Hard Head",
+      "description": "Can be ridden. Increases efficiency of destroying boulders while mounted. (Requires Rushoar Saddle → Unlocks at Lv. 6)"
+    },
+    {
+      "id": "huggy_fire",
+      "name": "Huggy Fire",
+      "description": "When activated, equips to the player and transform into a flamethrower. (Requires Foxparks's Harness → Unlocks at Lv. 6)"
+    },
+    {
+      "id": "fried_squid",
+      "name": "Fried Squid",
+      "description": "While in team, can be summoned and used instead of a glider. Can float for long periods of time while gliding. (Requires Killamari's Gloves → Unlocks at Lv. 9)"
+    },
+    {
+      "id": "ore_detector",
+      "name": "Ore Detector",
+      "description": "When activated, reveals nearby ores."
+    },
+    {
+      "id": "guardian_of_the_forest",
+      "name": "Guardian of the Forest",
+      "description": "Can be ridden . Can perform a double jump while mounted and increases lumbering efficiency by 220%"
+    },
+    {
+      "id": "direhowl_rider",
+      "name": "Direhowl Rider",
+      "description": "While in team, can be summoned and be ridden on. Moves slightly faster than most mounts. (Requires Direhowl's Saddled Harness → Unlocks at Lv. 9)"
+    },
+    {
+      "id": "berry_picker",
+      "name": "Berry Picker",
+      "description": "Sometimes drops Red Berries from its back when assigned to Ranch."
+    },
+    {
+      "id": "fluffy",
+      "name": "Fluffy",
+      "description": "While in team, Sweepa's stats will be increased."
+    },
+    {
+      "id": "king_of_fluff",
+      "name": "King of Fluff",
+      "description": "Can be ridden. (Requires Sweepa Saddle → Unlocks at Lv. 14)"
+    },
+    {
+      "id": "while_fighting_together_stats_will_increase_the_more_swee_are_on_your_team",
+      "name": "While fighting together, stats will increase the more Swee are on your team.",
+      "description": ""
+    },
+    {
+      "id": "spikey_carrier",
+      "name": "Spikey Carrier",
+      "description": "Turtacle helps carry supplies, decreasing the weight of armor in the player's inventory."
+    },
+    {
+      "id": "flying_trapeze",
+      "name": "Flying Trapeze",
+      "description": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding. (Requires Hangyu's Gloves→ Unlocks at Lv. 20)"
+    },
+    {
+      "id": "candy_pop",
+      "name": "Candy Pop",
+      "description": "Sometimes drops Cotton Candy when assigned to Ranch."
+    },
+    {
+      "id": "milk_maker",
+      "name": "Milk Maker",
+      "description": "Sometimes produces Milk when assigned to Ranch ."
+    },
+    {
+      "id": "can_be_ridden_to_travel_on_water_requires_azurobe_saddle_unlocks_at_lv_24",
+      "name": "Can be ridden to travel on water. (Requires Azurobe Saddle→ Unlocks at Lv. 24)",
+      "description": ""
+    },
+    {
+      "id": "applies_water_damage_to_the_player_s_attacks_while_mounted",
+      "name": "Applies water damage to the player's attacks while mounted.",
+      "description": ""
+    },
+    {
+      "id": "static_electricity",
+      "name": "Static Electricity",
+      "description": "While in team, increases attack power of Electric Pals."
+    },
+    {
+      "id": "aqua_spout",
+      "name": "Aqua Spout",
+      "description": "While in team, increases attack power of Water pals."
+    },
+    {
+      "id": "skilled_fingers",
+      "name": "Skilled Fingers",
+      "description": "While in team increases attack power of Neutral Pals. While at base, increases work efficiency if working at Weapon Workbench."
+    },
+    {
+      "id": "unknown_information",
+      "name": "Unknown Information.",
+      "description": ""
+    },
+    {
+      "id": "magical_twin_powers_while_at_a_base_increases_the_watering_work_suitability_level_for_all_other_base_pals_by_1",
+      "name": "Magical Twin Powers: While at a base, increases the Watering Work Suitability Level for all other Base Pals by +1.",
+      "description": ""
+    },
+    {
+      "id": "galeclaw_rider",
+      "name": "Galeclaw Rider",
+      "description": "While in team, can be summoned and used instead of a glider. (Requires Galeclaw Gloves→ Unlocks at Lv. 23)"
+    },
+    {
+      "id": "allows_you_to_fire_a_gun_while_gliding_with_this_pal",
+      "name": "Allows you to fire a gun while gliding with this Pal.",
+      "description": ""
+    },
+    {
+      "id": "ultrasonic_sensor",
+      "name": "Ultrasonic Sensor",
+      "description": "When activated, uses ultrasonic waves to detect nearby dungeons, treasure chests and scrap."
+    },
+    {
+      "id": "eggbomb_launcher",
+      "name": "Eggbomb Launcher",
+      "description": "When activated, equips to the player and transforms into an egg launcher. (Requires Tocotoco's Gloves → Unlocks at Lv. 18)"
+    },
+    {
+      "id": "swift_deity",
+      "name": "Swift Deity",
+      "description": "Can be ridden. Applies Electric damage to the player's attacks while mounted. (Requires Univolt Saddle → Unlocks at Lv. 14)"
+    },
+    {
+      "id": "angry_shark",
+      "name": "Angry Shark",
+      "description": "When activated, attacks targeted enemy with a powerful Aqua Gun. While in team, increases player's attack power."
+    },
+    {
+      "id": "claws_glistening_in_the_dark",
+      "name": "Claws Glistening in the Dark",
+      "description": "When activated, attacks targeted enemy with a powerful Jumping Claw."
+    },
+    {
+      "id": "telepeck",
+      "name": "Telepeck",
+      "description": "When activated, attacks targeted enemy with a powerful Phantom Peck."
+    },
+    {
+      "id": "warm_body",
+      "name": "Warm Body",
+      "description": "Can be ridden. Keeps the rider warm in cold environments. (Requires Arsox Saddle → Unlocks at Lv. 16)"
+    },
+    {
+      "id": "princess_gaze",
+      "name": "Princess Gaze",
+      "description": "While in team, increases attack power of Grass Pals."
+    },
+    {
+      "id": "mysterious_scales",
+      "name": "Mysterious Scales",
+      "description": "When activated, attacks targeted enemy with Poison Fog."
+    },
+    {
+      "id": "currently_not_known",
+      "name": "Currently not known.",
+      "description": ""
+    },
+    {
+      "id": "amicable_holy_dragon",
+      "name": "Amicable Holy Dragon",
+      "description": "Can be ridden as an flying mount. While fighting together, Dark Pals drop more items when defeated. (Requires Elphidran Saddle→ Unlocks at Lv. 21)"
+    },
+    {
+      "id": "life_steal",
+      "name": "Life Steal",
+      "description": "While fighting together, grants the player and Felbat the life steal effect which absorbs some of the received damage and restores HP."
+    },
+    {
+      "id": "worker_bee",
+      "name": "Worker Bee",
+      "description": "Sometimes drop Honey when assigned to Ranch."
+    },
+    {
+      "id": "while_in_team_elizabee_s_stats_will_be_increased",
+      "name": "While in team, Elizabee's stats will be increased.",
+      "description": ""
+    },
+    {
+      "id": "queen_bee_command",
+      "name": "Queen Bee Command",
+      "description": "While fighting together, stats will increase the more Beegarde are in your team."
+    },
+    {
+      "id": "heart_drain",
+      "name": "Heart Drain",
+      "description": "While fighting together, grants the player and Lovander the life steal effect which absorbs some of the received damage and restores HP. The healing effect is maxed out at 6% of Lovander and the Player's damage converted into health when 4 starred. High damage pellet weapons like Shotguns provide the most healing in one attack."
+    },
+    {
+      "id": "plump_body",
+      "name": "Plump Body",
+      "description": "Can be ridden. Enhances Neutral attacks while mounted. (Requires Grintale Saddle → Unlocks at Lv. 13)"
+    },
+    {
+      "id": "sixth_sense",
+      "name": "Sixth Sense",
+      "description": "When activated, utilizes its sixth sense of detect nearby dungeons. ( This skill has to be activated manually (60 s cooldown). It will scan an area of 100 m (on lvl 1) around the pal and show dungeons on the map for 60 s. Scanning the whole area takes ~7s )."
+    },
+    {
+      "id": "full_power_gorilla_mode",
+      "name": "Full-power Gorilla Mode",
+      "description": "When activated, unleashes a primal fury that increases Gorirat's Attack by 75% for a limited time."
+    },
+    {
+      "id": "hawkeye",
+      "name": "Hawkeye",
+      "description": "While fighting together, allows you to deal more damage to weak points."
+    },
+    {
+      "id": "helper_bunny",
+      "name": "Helper Bunny",
+      "description": "While in team, appears near the player. Automatically picks up nearby items. (Requires Flopie's Necklace→ Unlocks at Lv. 17)"
+    },
+    {
+      "id": "lord_fox",
+      "name": "Lord Fox",
+      "description": "When fighting together, applies Fire damage to the Player's attacks."
+    },
+    {
+      "id": "grimoire_collector",
+      "name": "Grimoire Collector",
+      "description": "When fighting together, increases dropped items from defeated Neutral Pals."
+    },
+    {
+      "id": "wings_of_death",
+      "name": "Wings of Death",
+      "description": "Can be ridden as a flying mount. Applies Dark damage to the player's attacks while mounted. (Requires Helzephyr Saddle → Unlocks at Lv. 33)"
+    },
+    {
+      "id": "antigravity",
+      "name": "Antigravity",
+      "description": "While in party, spheres home in on Pals, and carrying capacity is increased by 300. (Does not stack) 80 weight added at level 1 and does stack with multiple"
+    },
+    {
+      "id": "wind_and_clouds",
+      "name": "Wind and Clouds",
+      "description": "Can be ridden. Can double jump while mounted. (Requires Fenglope Saddle→ Unlocks at Lv. 26)"
+    },
+    {
+      "id": "brandish_blade",
+      "name": "Brandish Blade",
+      "description": "When activated, attacks targeted enemy with a powerful Iaigiri ."
+    },
+    {
+      "id": "gaia_crusher",
+      "name": "Gaia Crusher",
+      "description": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted. (Requires Mammorest Saddle→ Unlocks at Lv. 28)"
+    },
+    {
+      "id": "echo_chamber",
+      "name": "Echo chamber",
+      "description": "while in team, Finsider helps carry supplies, decreasing the weight of weapons in the player’s inventory."
+    },
+    {
+      "id": "blessing_of_the_flower_spirit",
+      "name": "Blessing of the Flower Spirit",
+      "description": "When activated, restores the characters hp."
+    },
+    {
+      "id": "flameclaw_hunter",
+      "name": "Flameclaw Hunter",
+      "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw"
+    },
+    {
+      "id": "lady_of_lightning",
+      "name": "Lady of Lightning",
+      "description": "While in team, appears near the player. Follows up player attacks with lightning bolts. (Requires Dazzi's Necklace → Unlocks at Lv. 22)"
+    },
+    {
+      "id": "aurora_guide",
+      "name": "Aurora Guide",
+      "description": "While in team, increases attack power of Ice Pals."
+    },
+    {
+      "id": "thunderous",
+      "name": "Thunderous",
+      "description": "Can be ridden as an flying mount. Applies Electric damage to the player's attacks while mounted. (Requires Beakon Saddle→ Unlocks at Lv. 34)"
+    },
+    {
+      "id": "jumping_force",
+      "name": "Jumping Force",
+      "description": "Can be ridden. Can double jump while mounted. (Requires Rayhound Saddle→ Unlocks at Lv. 26)"
+    },
+    {
+      "id": "steel_scorpion",
+      "name": "Steel Scorpion",
+      "description": "When fighting together, increases the player's defense and Electric Pals drop more items when defeated."
+    },
+    {
+      "id": "cool_body",
+      "name": "Cool Body",
+      "description": "Can be ridden. Keeps the rider cool in hot environments. (Requires Reindrix Saddle→ Unlocks at Lv. 29)"
+    },
+    {
+      "id": "grenadier_panda",
+      "name": "Grenadier Panda",
+      "description": "Can be ridden. (Requires Mossanda's Grenade Launcher→ Unlocks at Lv. 24)"
+    },
+    {
+      "id": "can_rapidly_fire_a_grenade_launcher_while_mounted",
+      "name": "Can rapidly fire a grenade launcher while mounted.",
+      "description": ""
+    },
+    {
+      "id": "wriggling_weasel",
+      "name": "Wriggling Weasel",
+      "description": "Can be ridden. (Requires Chillet Saddle → Unlocks at Lv. 13)"
+    },
+    {
+      "id": "applies_dragon_damage_to_the_player_s_attacks_while_mounted",
+      "name": "Applies Dragon Damage to the player's attacks while mounted.",
+      "description": ""
+    },
+    {
+      "id": "drill_crusher",
+      "name": "Drill Crusher",
+      "description": "When activated, performs Shell Spin, follows the player while spinning, and mines ores efficiently. (Requires Digtoise's Headband→ Unlocks at Lv. 19)"
+    },
+    {
+      "id": "soil_improver",
+      "name": "Soil Improver",
+      "description": "While in team, increases attack power of Ground Pals."
+    },
+    {
+      "id": "clear_mind",
+      "name": "Clear Mind",
+      "description": "Can be ridden. Unaffected by the cold or heat while riding this Pal. (Requires Kitsun Saddle→ Unlocks at Lv. 30)"
+    },
+    {
+      "id": "hellflame_lion",
+      "name": "Hellflame Lion",
+      "description": "Can be ridden (Requires Blazehowl Saddle→ Unlocks at Lv. 32). While fighting together, Grass Pals drop more items when defeated."
+    },
+    {
+      "id": "hard_armor",
+      "name": "Hard Armor",
+      "description": "When fighting together, increases player's defense and applies Fire damage to player's attacks. ( Note : This description is inaccurate. Warsect's Partner Skill actually reduces the damage the player takes from Fire attacks.)"
+    },
+    {
+      "id": "silk_maker",
+      "name": "Silk Maker",
+      "description": "When activated, attacks targeted enemy with a powerful Blizzard Spike . Sometimes produces High Quality Cloth when assigned to Ranch."
+    },
+    {
+      "id": "messenger_of_death",
+      "name": "Messenger of Death",
+      "description": "Can be ridden. Applies Dark damage to the player's attacks while mounted. (Requires Maraith Saddle→ Unlocks at Lv. 23)"
+    },
+    {
+      "id": "swooshy_spores",
+      "name": "Swooshy Spores",
+      "description": "Can be ridden. While at a base, its mysterious spores slow the rate at which the SAN value of allies at the base decreases."
+    },
+    {
+      "id": "stormbringer_sea_dragon",
+      "name": "Stormbringer Sea Dragon",
+      "description": "A ridden skill. Allows travel on water and prevents stamina loss while riding on water. (Requires Jormuntide Saddle→ Unlocks at Lv. 39)"
+    },
+    {
+      "id": "wings_of_flame",
+      "name": "Wings of Flame",
+      "description": "Can be ridden as a flying mount. Enhances Fire attacks while mounted. (Requires Suzaku Saddle→ Unlocks at Lv. 40)"
+    },
+    {
+      "id": "sky_dragon_s_affection",
+      "name": "Sky Dragon's Affection",
+      "description": "Can be ridden as a flying mount. Enhances Dragon attacks while mounted. (Requires Quivern Saddle→ Unlocks at Lv. 36)"
+    },
+    {
+      "id": "floral_boost",
+      "name": "Floral Boost",
+      "description": "While at a base, Lullu fills the farm with good spirits, increasing the growth rate of the crops."
+    },
+    {
+      "id": "ore_loving_beast",
+      "name": "Ore-loving Beast",
+      "description": "A ridden skill. Increases the efficiency of mining ores while riding. (Requires Reptyro Saddle→ Unlocks at Lv. 31)"
+    },
+    {
+      "id": "night_dancer",
+      "name": "Night Dancer",
+      "description": ""
+    },
+    {
+      "id": "can_be_ridden_increases_movement_speed_while_mounted_at_night",
+      "name": "Can be ridden Increases movement speed while mounted at night",
+      "description": ""
+    },
+    {
+      "id": "dragon_hunter",
+      "name": "Dragon Hunter",
+      "description": "When fighting together, increases dropped items from defeated Dragon Pals by 40%."
+    },
+    {
+      "id": "guardian_of_the_snowy_mountain",
+      "name": "Guardian of the Snowy Mountain",
+      "description": "Can be ridden. While in team, Wumpo helps carry supplies, increasing the player’s max carrying capacity. (Requires Wumpo Saddle→ Unlocks at Lv. 44)"
+    },
+    {
+      "id": "magma_kaiser",
+      "name": "Magma Kaiser",
+      "description": "A ridden skill. Enhances fire attacks while ridden. (Requires Blazamut Saddle→ Unlocks at Lv. 38)"
+    },
+    {
+      "id": "guardian_of_the_desert",
+      "name": "Guardian of the Desert",
+      "description": "When fighting together, applies Ground damage to the player's attacks. Sometimes dodges attacks with a high speed sidestep while in battle."
+    },
+    {
+      "id": "shot_nyan_mode",
+      "name": "Shot-Nyan mode",
+      "description": ""
+    },
+    {
+      "id": "unlock",
+      "name": "Unlock",
+      "description": "When near a treasure chest, Mimog can open the chest without using a key. The type of treasure chest that can be opened depends on the skill level."
+    },
+    {
+      "id": "unknown_invader",
+      "name": "Unknown Invader",
+      "description": "While in party, increases the damage of the last bullet fired from a full-auto weapon by 100%. (Does not stack)"
+    },
+    {
+      "id": "missing_information",
+      "name": "Missing Information.",
+      "description": ""
+    },
+    {
+      "id": "soul_collector",
+      "name": "Soul Collector",
+      "description": "While fighting together, Pals drop more Pal Souls when Defeated."
+    },
+    {
+      "id": "dig_dog_dig_when_activated_uses_its_sharp_sense_of_smell_to_detect_nearby_chromite_while_fighting_together_a_large_amount_of_chromite_is_obtained",
+      "name": "Dig, Dog! Dig!. When activated, uses its sharp sense of smell to detect nearby Chromite. While fighting together, a large amount of Chromite is obtained.",
+      "description": ""
+    },
+    {
+      "id": "blade_of_uncontrolled_passion",
+      "name": "Blade of Uncontrolled Passion",
+      "description": "While in possession, the amount of items obtained from using the Meat Cleaver increases."
+    },
+    {
+      "id": "sandstorm_s_blessing_can_be_ridden_applies_ground_damage_to_the_player_s_attacks_while_mounted",
+      "name": "Sandstorm's Blessing Can be ridden. Applies Ground damage to the player's attacks while mounted.",
+      "description": ""
+    },
+    {
+      "id": "blessing_of_purification",
+      "name": "Blessing of Purification",
+      "description": "Can be ridden. Increases the player's auto recovery speed while mounted."
+    },
+    {
+      "id": "black_anklyosaur",
+      "name": "Black Anklyosaur",
+      "description": "Can be ridden a flying mount. Increases the damage dealt to ores by 1,100%, and you can obtain 150% more Ore while mounted. (Requires Astegon Saddle → Unlocks at Lv. 39)"
+    },
+    {
+      "id": "aegis_shield",
+      "name": "Aegis shield",
+      "description": ""
+    },
+    {
+      "id": "plasma_dash_allows_for_fast_movement_and_air_dashing",
+      "name": "Plasma dash Allows for fast movement and air dashing.",
+      "description": ""
+    },
+    {
+      "id": "untaited_maiden_while_in_the_party_increases_the_player_s_attack_in_party_of_different_pal_species",
+      "name": "Untaited Maiden: While in the party, increases the player's Attack in party of different Pal species.",
+      "description": ""
+    },
+    {
+      "id": "yellow_tank",
+      "name": "Yellow Tank",
+      "description": "Can be ridden. Can rapidly fire a minigun while mounted. (Requires Grizzbolt's Minigun→ Unlocks at Lv. 40)"
+    },
+    {
+      "id": "harvest_goddess",
+      "name": "Harvest Goddess",
+      "description": "When activated, the queen's soothing graces restores greatly the player's HP."
+    },
+    {
+      "id": "ferocious_thunder_dragon",
+      "name": "Ferocious Thunder Dragon",
+      "description": "While fighting together, Water Pals drop more items when defeated."
+    },
+    {
+      "id": "scorching_predator",
+      "name": "Scorching Predator",
+      "description": "Can be ridden as a flying mount. While fighting together, Ice Pals drop more items when defeated. (Requires Faleris Saddle→ Unlocks at Lv. 38)"
+    },
+    {
+      "id": "modified_dna",
+      "name": "Modified DNA",
+      "description": "Can be ridden as a flying mount. Enhances Dark attacks while mounted. (Requires Shadowbeak Saddle → Unlocks at Lv. 47)"
+    },
+    {
+      "id": "celestial_darkness",
+      "name": "Celestial Darkness",
+      "description": "Can be ridden as a flying mount. Enhances Neutral and Dark attacks while mounted."
+    },
+    {
+      "id": "nightmare_iris",
+      "name": "Nightmare Iris",
+      "description": "When activated, attacks targeted enemy with a powerful Nightmare Ray ."
+    },
+    {
+      "id": "black_knight_of_the_abyss",
+      "name": "Black Knight of the Abyss",
+      "description": "You can ride on its back to move around. While riding, you can double jump. (Requires Necromus Saddle → Unlocks at Lv. 49)"
+    },
+    {
+      "id": "ice_steed",
+      "name": "Ice Steed",
+      "description": "Can be ridden as a flying mount. Changes the player's attack type to ice and enhances Ice attacks while mounted. (Requires Frostallion Saddle → Unlocks at Lv. 48)"
+    },
+    {
+      "id": "aerial_missile",
+      "name": "Aerial missile",
+      "description": "You can ride on its back to fly. While riding, you can continuously fire with a rocket launcher. (Requires Jetragon's Missile Launcher → Unlocks at Lv. 50 (79 as of 1.0))"
+    },
+    {
+      "id": "cold_bomb",
+      "name": "Cold Bomb",
+      "description": "When activated, equips Jolthog Cryst to the player's hand. When thrown at an enemy, causes an icy explosion upon impact. (Requires Jolthog Cryst's Gloves → Unlocks at Lv. 11)"
+    },
+    {
+      "id": "pengullet_lux_launcher_when_activated_the_player_equips_a_rocket_launcher_and_fires_pengullet_lux_as_ammunition_pengullet_lux_explodes_on_contact_and_is_incapitated",
+      "name": "Pengullet Lux Launcher: When activated, the player equips a Rocket Launcher and fires Pengullet Lux as ammunition. Pengullet Lux explodes on contact and is incapitated..",
+      "description": ""
+    },
+    {
+      "id": "guardian_of_the_golden_forest",
+      "name": "Guardian of the Golden Forest",
+      "description": "Can be ridden (Requires Eikthyrdeer Terra Saddle→ Unlocks at Lv. 25). Can preform a double jump while mounted. Increases efficiency of cutting trees."
+    },
+    {
+      "id": "winter_trapeze",
+      "name": "Winter Trapeze",
+      "description": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding. (Requires Hangyu Cryst's Glove→ Unlocks at Lv. 31)"
+    },
+    {
+      "id": "lava_spout",
+      "name": "Lava Spout",
+      "description": "A passive skill. Increases fire damage while in the character's party."
+    },
+    {
+      "id": "while_in_party_improves_the_player_s_and_pals_grass_damage_to_enemy_weak_points_by_25_increases_efficiency_by_200_when_working_at_a_weapon_workbench_weapon_assembly_line_or_other_related_facilities",
+      "name": "While in party, improves the player's and pals' Grass damage to enemy weak points by 25%. Increases efficiency by 200% when working at a Weapon Workbench Weapon Assembly Line, or other related facilities.",
+      "description": ""
+    },
+    {
+      "id": "aerial_marauder",
+      "name": "Aerial Marauder",
+      "description": "Can be ridden as an aerial mount. Increases damage player deals to enemy weak points while mounted. (Requires Vanwyrm Cryst Saddle→ Unlocks at Lv. 41)"
+    },
+    {
+      "id": "sand_swimmer",
+      "name": "Sand Swimmer",
+      "description": "Can be ridden (Requires Aquadon Terra Saddle→ Unlocks at Lv. 24). While in party, the player's attacks inflict Muddy 2 (Does not stack)."
+    },
+    {
+      "id": "hawk_eye",
+      "name": "Hawk Eye",
+      "description": "While fighting together, allows you to deal more damage to weak points."
+    },
+    {
+      "id": "thunder_dragon",
+      "name": "Thunder Dragon",
+      "description": "Can be ridden. Enhances Electric attacks while mounted. (Requires Dinnossom Lux Saddle→ Unlocks at Lv. 29)"
+    },
+    {
+      "id": "ice_crusher",
+      "name": "Ice Crusher",
+      "description": "Can be ridden. Improves efficiency of felling trees and destroying ore while mounted. (Requires Mammorest Cryst Saddle→ Unlocks at Lv. 45)"
+    },
+    {
+      "id": "darkclaw_hunter",
+      "name": "Darkclaw Hunter",
+      "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw ."
+    },
+    {
+      "id": "black_hare",
+      "name": "Black Hare",
+      "description": "Can be ridden. Applies Dark damage to the player's attacks while mounted. (Requires Dark Pyrin Saddle→ Unlocks at Lv. 33)"
+    },
+    {
+      "id": "missle_party",
+      "name": "Missle Party",
+      "description": "Can be ridden. Can rapidly fire a missle launcher while mounted. (Requires Relaxaurus Lux Missile Launcher→ Unlocks at Lv. 46)"
+    },
+    {
+      "id": "sparkling_weasel",
+      "name": "Sparkling Weasel",
+      "description": "Applies Fire damage to the player's attacks while mounted."
+    },
+    {
+      "id": "overaffectionate",
+      "name": "Overaffectionate",
+      "description": "Can be ridden (Requires Water Broncherry Saddle→ Unlocks at Lv. 27). While in team, Broncherry Aqua helps carry supplies, increasing the player's max carrying capacity."
+    },
+    {
+      "id": "fortified_shell",
+      "name": "Fortified Shell",
+      "description": "When fighting together, increases the player's defense and reduces damage received from Fire."
+    },
+    {
+      "id": "stormbringer_lava_dragon",
+      "name": "Stormbringer Lava Dragon",
+      "description": "Can be ridden. Enhances Fire attacks while mounted. (Requires Jormuntide Ignus Saddle→ Unlocks at Lv. 43)"
+    },
+    {
+      "id": "grass_dragon_s_affection",
+      "name": "Grass Dragon's Affection",
+      "description": "Can be ridden as a flying mount. Enhances Grass attacks while mounted. (Requires Quivern Botan Saddle→ Unlocks at Lv. 49)"
+    },
+    {
+      "id": "ice_loving_beast",
+      "name": "Ice-Loving Beast",
+      "description": "Can be ridden. Improves efficiency of mining ores while mounted. (Requires Ice Reptyro Saddle→ Unlocks at Lv. 37)"
+    },
+    {
+      "id": "guardian_of_the_grassy_fields",
+      "name": "Guardian of the Grassy Fields",
+      "description": "Can be ridden. While in a team, Wumpo Botan helps carry supplies, increasing the player's max carrying capacity. (Requires Wumpo Botan Saddle → Unlocks at Lv. 45)"
+    },
+    {
+      "id": "goddess_of_the_tranquil_light",
+      "name": "Goddess of the Tranquil Light",
+      "description": "When activated, the queen's soothing graces greatly restore the player's HP."
+    },
+    {
+      "id": "nightmare_stare",
+      "name": "Nightmare Stare",
+      "description": "When activated, attacks targeted enemy with a powerful Nightmare Bloom."
+    },
+    {
+      "id": "black_steed",
+      "name": "Black Steed",
+      "description": "Can be ridden as a flying mount. Changes the player's attack type to Dark and enhances Dark attacks while mounted. (Requires Frostallion Noct Saddle → Unlocks at Lv. 48)"
+    },
+    {
+      "id": "slime_body",
+      "name": "Slime Body",
+      "description": "Can be ridden. Can jump high into the air while mounted. (Automatically unlocked when caught)"
+    },
+    {
+      "id": "teleki_explosion",
+      "name": "Teleki Explosion",
+      "description": ""
+    }
+  ],
+  "work_suitabilities": [
+    {
+      "id": "handiwork",
+      "name": "Handiwork"
+    },
+    {
+      "id": "transporting",
+      "name": "Transporting"
+    },
+    {
+      "id": "farming",
+      "name": "Farming"
+    },
+    {
+      "id": "gathering",
+      "name": "Gathering"
+    },
+    {
+      "id": "mining",
+      "name": "Mining"
+    },
+    {
+      "id": "planting",
+      "name": "Planting"
+    },
+    {
+      "id": "lumbering",
+      "name": "Lumbering"
+    },
+    {
+      "id": "medicine_production",
+      "name": "Medicine Production"
+    },
+    {
+      "id": "watering",
+      "name": "Watering"
+    },
+    {
+      "id": "planting_lv",
+      "name": "Planting Lv."
+    },
+    {
+      "id": "gathering_lv",
+      "name": "Gathering Lv."
+    },
+    {
+      "id": "transporting_lv",
+      "name": "Transporting Lv."
+    },
+    {
+      "id": "generating_electricity",
+      "name": "Generating Electricity"
+    },
+    {
+      "id": "cooling",
+      "name": "Cooling"
+    },
+    {
+      "id": "kindling",
+      "name": "Kindling"
+    }
+  ],
+  "items": [
+    {
+      "id": "wool",
+      "name": "Wool"
+    },
+    {
+      "id": "lamball_mutton",
+      "name": "Lamball Mutton"
+    },
+    {
+      "id": "ancient_civilization_parts",
+      "name": "Ancient Civilization Parts"
+    },
+    {
+      "id": "precious_pelt",
+      "name": "Precious Pelt"
+    },
+    {
+      "id": "ring_of_resistance",
+      "name": "Ring of Resistance"
+    },
+    {
+      "id": "red_berries",
+      "name": "Red Berries"
+    },
+    {
+      "id": "egg",
+      "name": "Egg"
+    },
+    {
+      "id": "chikipi_poultry",
+      "name": "Chikipi Poultry"
+    },
+    {
+      "id": "wheat_seeds",
+      "name": "Wheat Seeds"
+    },
+    {
+      "id": "low_grade_medical_supplies",
+      "name": "Low Grade Medical Supplies"
+    },
+    {
+      "id": "leather",
+      "name": "Leather"
+    },
+    {
+      "id": "aquatic_pal_fluids",
+      "name": "Aquatic Pal Fluids"
+    },
+    {
+      "id": "bone",
+      "name": "Bone"
+    },
+    {
+      "id": "cloth",
+      "name": "Cloth"
+    },
+    {
+      "id": "berry_seeds",
+      "name": "Berry Seeds"
+    },
+    {
+      "id": "gumoss_leaf",
+      "name": "Gumoss Leaf"
+    },
+    {
+      "id": "electric_organ",
+      "name": "Electric Organ"
+    },
+    {
+      "id": "venom_gland",
+      "name": "Venom Gland"
+    },
+    {
+      "id": "ice_organ",
+      "name": "Ice Organ"
+    },
+    {
+      "id": "penking_plume",
+      "name": "Penking Plume"
+    },
+    {
+      "id": "fiber",
+      "name": "Fiber"
+    },
+    {
+      "id": "advanced_technical_manual",
+      "name": "Advanced Technical Manual"
+    },
+    {
+      "id": "small_pal_soul",
+      "name": "Small Pal Soul"
+    },
+    {
+      "id": "mushroom",
+      "name": "Mushroom"
+    },
+    {
+      "id": "flame_organ",
+      "name": "Flame Organ"
+    },
+    {
+      "id": "high_quality_pal_oil",
+      "name": "High Quality Pal Oil"
+    },
+    {
+      "id": "gold_coin",
+      "name": "Gold Coin"
+    },
+    {
+      "id": "sapphire",
+      "name": "Sapphire"
+    },
+    {
+      "id": "rushoar_pork",
+      "name": "Rushoar Pork"
+    },
+    {
+      "id": "killamari_tentacle",
+      "name": "Killamari Tentacle"
+    },
+    {
+      "id": "eikthyrdeer_venison",
+      "name": "Eikthyrdeer Venison"
+    },
+    {
+      "id": "horn",
+      "name": "Horn"
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby"
+    },
+    {
+      "id": "caprity_meat",
+      "name": "Caprity Meat"
+    },
+    {
+      "id": "swee_hair",
+      "name": "Swee Hair"
+    },
+    {
+      "id": "cotton_candy",
+      "name": "Cotton Candy"
+    },
+    {
+      "id": "mozzarina_meat",
+      "name": "Mozzarina Meat"
+    },
+    {
+      "id": "milk",
+      "name": "Milk"
+    },
+    {
+      "id": "raw_kelpsea",
+      "name": "Raw Kelpsea"
+    },
+    {
+      "id": "pal_fluids",
+      "name": "Pal Fluids"
+    },
+    {
+      "id": "beautiful_flower",
+      "name": "Beautiful Flower"
+    },
+    {
+      "id": "ribbuny_ribbon",
+      "name": "Ribbuny Ribbon"
+    },
+    {
+      "id": "jelliette_bell_flesh",
+      "name": "Jelliette Bell Flesh"
+    },
+    {
+      "id": "jellroy_bell_flesh",
+      "name": "Jellroy Bell Flesh"
+    },
+    {
+      "id": "gloopie_tentacle",
+      "name": "Gloopie Tentacle"
+    },
+    {
+      "id": "galeclaw_poultry",
+      "name": "Galeclaw Poultry"
+    },
+    {
+      "id": "gunpowder",
+      "name": "Gunpowder"
+    },
+    {
+      "id": "tocotoco_feather",
+      "name": "Tocotoco Feather"
+    },
+    {
+      "id": "tomato_seeds",
+      "name": "Tomato Seeds"
+    },
+    {
+      "id": "honey",
+      "name": "Honey"
+    },
+    {
+      "id": "lettuce_seeds",
+      "name": "Lettuce Seeds"
+    },
+    {
+      "id": "onion_seeds",
+      "name": "Onion Seeds"
+    },
+    {
+      "id": "elizabee_s_staff",
+      "name": "Elizabee's Staff"
+    },
+    {
+      "id": "cake",
+      "name": "Cake"
+    },
+    {
+      "id": "suspicious_juice",
+      "name": "Suspicious Juice"
+    },
+    {
+      "id": "strange_juice",
+      "name": "Strange Juice"
+    },
+    {
+      "id": "memory_wiping_medicine",
+      "name": "Memory Wiping Medicine"
+    },
+    {
+      "id": "copper_key",
+      "name": "Copper Key"
+    },
+    {
+      "id": "silver_key",
+      "name": "Silver Key"
+    },
+    {
+      "id": "leezpunk_crest",
+      "name": "Leezpunk Crest"
+    },
+    {
+      "id": "potato_seeds",
+      "name": "Potato Seeds"
+    },
+    {
+      "id": "arrow",
+      "name": "Arrow"
+    },
+    {
+      "id": "medium_pal_soul",
+      "name": "Medium Pal Soul"
+    },
+    {
+      "id": "katress_hair",
+      "name": "Katress Hair"
+    },
+    {
+      "id": "paldium_fragment",
+      "name": "Paldium Fragment"
+    },
+    {
+      "id": "ingot",
+      "name": "Ingot"
+    },
+    {
+      "id": "munchill_meat",
+      "name": "Munchill Meat"
+    },
+    {
+      "id": "mammorest_meat",
+      "name": "Mammorest Meat"
+    },
+    {
+      "id": "dazzi_cloud",
+      "name": "Dazzi Cloud"
+    },
+    {
+      "id": "reindrix_venison",
+      "name": "Reindrix Venison"
+    },
+    {
+      "id": "hardwood",
+      "name": "Hardwood"
+    },
+    {
+      "id": "carrot_seeds",
+      "name": "Carrot Seeds"
+    },
+    {
+      "id": "broncherry_meat",
+      "name": "Broncherry Meat"
+    },
+    {
+      "id": "raw_dumud",
+      "name": "Raw Dumud"
+    },
+    {
+      "id": "high_quality_cloth",
+      "name": "High Quality Cloth"
+    },
+    {
+      "id": "crude_oil",
+      "name": "Crude Oil"
+    },
+    {
+      "id": "skutlass_sashimi",
+      "name": "Skutlass Sashimi"
+    },
+    {
+      "id": "dark_fragment",
+      "name": "Dark Fragment"
+    },
+    {
+      "id": "ore",
+      "name": "Ore"
+    },
+    {
+      "id": "coal",
+      "name": "Coal"
+    },
+    {
+      "id": "sulfur",
+      "name": "Sulfur"
+    },
+    {
+      "id": "large_pal_soul",
+      "name": "Large Pal Soul"
+    },
+    {
+      "id": "innovative_technical_manual",
+      "name": "Innovative Technical Manual"
+    },
+    {
+      "id": "precious_entrails",
+      "name": "Precious Entrails"
+    },
+    {
+      "id": "dog_coin",
+      "name": "Dog Coin"
+    },
+    {
+      "id": "meteorite_fragment",
+      "name": "Meteorite Fragment"
+    },
+    {
+      "id": "chromite",
+      "name": "Chromite"
+    },
+    {
+      "id": "coralum_ore",
+      "name": "Coralum Ore"
+    },
+    {
+      "id": "alpha_4_6_ancient_civilization_parts",
+      "name": "Alpha 4-6 Ancient Civilization Parts"
+    },
+    {
+      "id": "predator_3_4_predator_core",
+      "name": "Predator 3-4 Predator Core"
+    },
+    {
+      "id": "giant_pal_soul",
+      "name": "Giant Pal Soul"
+    },
+    {
+      "id": "hexolite_quartz",
+      "name": "Hexolite Quartz"
+    },
+    {
+      "id": "plasteel",
+      "name": "Plasteel"
+    },
+    {
+      "id": "mysterious_mushroom",
+      "name": "Mysterious Mushroom"
+    },
+    {
+      "id": "nightstar_sand",
+      "name": "Nightstar Sand"
+    },
+    {
+      "id": "high_quality_recovery_meds",
+      "name": "High Quality Recovery Meds"
+    },
+    {
+      "id": "thermal_core",
+      "name": "Thermal Core"
+    },
+    {
+      "id": "carbon_fiber",
+      "name": "Carbon Fiber"
+    },
+    {
+      "id": "ancient_civilization_core",
+      "name": "Ancient Civilization Core"
+    },
+    {
+      "id": "hexolite",
+      "name": "Hexolite"
+    },
+    {
+      "id": "diamond",
+      "name": "Diamond"
+    },
+    {
+      "id": "soralite",
+      "name": "Soralite"
+    },
+    {
+      "id": "ancient_civilization_parts_pure_quartz_polymer_precious_dragon_stone_rocket_launcher_schematic_4",
+      "name": "Ancient Civilization Parts Pure Quartz Polymer Precious Dragon Stone Rocket Launcher Schematic 4"
+    },
+    {
+      "id": "caramel_cotton_candy",
+      "name": "Caramel Cotton Candy"
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot"
+    },
+    {
+      "id": "pure_quartz",
+      "name": "Pure Quartz"
+    },
+    {
+      "id": "emerald",
+      "name": "Emerald"
+    }
+  ],
+  "locations": [
+    {
+      "id": "around_the_spawn_islands",
+      "name": "Around the Spawn Islands."
+    }
+  ]
+}

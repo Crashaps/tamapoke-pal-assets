@@ -1,0 +1,133 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Ophydia",
+  "source_page": "Ophydia",
+  "name": "Ophydia",
+  "number": "175",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/1/15/Ophydia.png/revision/latest/scale-to-width-down/267?cb=20260715120316",
+      "file": "pals/Ophydia/Ophydia.png",
+      "alt": "Ophydia"
+    }
+  },
+  "elements": [
+    "grass",
+    "water"
+  ],
+  "food": 9,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "high_quality_pal_oil",
+      "quantity": "4-5",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "large_pal_soul",
+      "quantity": "1-2",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Waters where Ophydias dwell are often filled with flowers that mimic its form. Many attempts have been made to directly propagate these blooms, but they inevitably wither the moment human hands interfere.",
+  "availability": {
+    "Overworld Boss": [
+      "Waterlily Gorge (Level 69)"
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 130,
+          "min": 6100,
+          "max": 7660
+        },
+        "attack": {
+          "growth": 115,
+          "min": 790,
+          "max": 997
+        },
+        "defense": {
+          "growth": 120,
+          "min": 770,
+          "max": 986
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 130,
+          "min": 6100,
+          "max": 7660
+        },
+        "attack": {
+          "growth": 115,
+          "min": 790,
+          "max": 997
+        },
+        "defense": {
+          "growth": 120,
+          "min": 770,
+          "max": 986
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": "?",
+    "fire": "?",
+    "water": "?",
+    "grass": "?",
+    "electric": "?",
+    "ice": "?",
+    "ground": "?",
+    "dark": "?",
+    "dragon": "?"
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "currently_not_known"
+    ],
+    "work_suitability": [],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "bubble_blast"
+    },
+    {
+      "level": 7,
+      "skill_id": "seed_mine"
+    },
+    {
+      "level": 22,
+      "skill_id": "circle_vine"
+    },
+    {
+      "level": 30,
+      "skill_id": "hydro_laser"
+    }
+  ],
+  "pal_egg": {
+    "text": "Huge Verdant Egg",
+    "egg_type_id": "verdant_egg"
+  }
+}

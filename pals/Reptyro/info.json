@@ -1,0 +1,162 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Reptyro",
+  "source_page": "Reptyro",
+  "name": "Reptyro",
+  "number": "129",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/e/e4/Reptyro.png/revision/latest/scale-to-width-down/268?cb=20240123055942",
+      "file": "pals/Reptyro/Reptyro.png",
+      "alt": "Reptyro"
+    }
+  },
+  "elements": [
+    "fire",
+    "ground"
+  ],
+  "food": 7,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "flame_organ",
+      "quantity": "5-7",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Magma-like blood runs throughout its body. If a large amount of water is thrown on it, the water rapidly heats, causing an immense vapor explosion.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 110,
+          "min": 5300,
+          "max": 6620
+        },
+        "attack": {
+          "growth": 105,
+          "min": 730,
+          "max": 919
+        },
+        "defense": {
+          "growth": 120,
+          "min": 770,
+          "max": 986
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 110,
+          "min": 5300,
+          "max": 6620
+        },
+        "attack": {
+          "growth": 105,
+          "min": 730,
+          "max": 919
+        },
+        "defense": {
+          "growth": 120,
+          "min": 770,
+          "max": 986
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 1.5,
+    "grass": 1.0,
+    "electric": 0.66,
+    "ice": 0.66,
+    "ground": 0.66,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "ore_loving_beast"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "kindling",
+        "level": 3
+      },
+      {
+        "work_id": "mining",
+        "level": 3
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "ignis_blast"
+    },
+    {
+      "level": 7,
+      "skill_id": "stone_blast"
+    },
+    {
+      "level": 15,
+      "skill_id": "stone_cannon"
+    },
+    {
+      "level": 22,
+      "skill_id": "ignis_breath"
+    },
+    {
+      "level": 30,
+      "skill_id": "volcanic_burst"
+    },
+    {
+      "level": 40,
+      "skill_id": "ignis_rage"
+    },
+    {
+      "level": 50,
+      "skill_id": "rock_lance"
+    },
+    {
+      "level": 70,
+      "skill_id": "fire_ball"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Scorching Egg",
+    "egg_type_id": "scorching_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Reptyro/sprites/front-chroma.png",
+      "transparent": "pals/Reptyro/sprites/front-transparent.png",
+      "front_96": "pals/Reptyro/sprites/front-96.png",
+      "front_96_pal32": "pals/Reptyro/sprites/front-96-pal32.png",
+      "front_64": "pals/Reptyro/sprites/front-64.png",
+      "front_64_pal32": "pals/Reptyro/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

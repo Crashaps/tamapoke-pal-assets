@@ -1,0 +1,173 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Vixy",
+  "source_page": "Vixy",
+  "name": "Vixy",
+  "number": "006",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/7/79/Vixy.png/revision/latest?cb=20240630122849",
+      "file": "pals/Vixy/Vixy.png",
+      "alt": "Vixy"
+    }
+  },
+  "elements": [
+    "neutral"
+  ],
+  "food": 1,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "1",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "bone",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "The idol of Palpagos Island. If you bully a Vixy, you best be prepared to become enemies with the whole world.",
+  "availability": {
+    "Wild Spawn": [],
+    "Dungeons": [
+      "Missing Information."
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 70,
+          "min": 520,
+          "max": 646
+        },
+        "defense": {
+          "growth": 70,
+          "min": 470,
+          "max": 596
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 70,
+          "min": 520,
+          "max": 646
+        },
+        "defense": {
+          "growth": 70,
+          "min": 470,
+          "max": 596
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 1.5,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "dig_here"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "gathering",
+        "level": 1
+      },
+      {
+        "work_id": "farming",
+        "level": 1
+      }
+    ],
+    "possible_drops": {
+      "normal": [],
+      "boss": []
+    },
+    "this_is_based_on_the_partner_skill_leveling_up_when_using_a_pal_essence_condenser": [
+      "Rank 1: Pal Sphere x1 Arrow x1 Gold Coin x10 Bone x1",
+      "Rank 2: Pal Sphere x2 Arrow x1-2 Gold Coin x20 Bone x1-2",
+      "Rank 3: Pal Sphere x2-3 Mega Sphere x1 Arrow x2-3 Gold Coin x30 Bone x1-3",
+      "Rank 4: Pal Sphere x2-3 Mega Sphere x1 Giga Sphere x1 Arrow x3-4 Gold Coin x40 Bone x1-4",
+      "Rank 5: Pal Sphere x2-3 Mega Sphere x1 Giga Sphere x1 Hyper Sphere x1 Arrow x4-5 Gold Coin x50 Bone x1-5"
+    ]
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "air_cannon"
+    },
+    {
+      "level": 15,
+      "skill_id": "power_shot"
+    },
+    {
+      "level": 22,
+      "skill_id": "wind_cutter"
+    },
+    {
+      "level": 30,
+      "skill_id": "seed_machine_gun"
+    },
+    {
+      "level": 40,
+      "skill_id": "power_bomb"
+    },
+    {
+      "level": 50,
+      "skill_id": "pal_blast"
+    },
+    {
+      "level": 70,
+      "skill_id": "holy_burst"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Common Egg",
+    "egg_type_id": "common_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Vixy/sprites/front-chroma.png",
+      "transparent": "pals/Vixy/sprites/front-transparent.png",
+      "front_96": "pals/Vixy/sprites/front-96.png",
+      "front_96_pal32": "pals/Vixy/sprites/front-96-pal32.png",
+      "front_64": "pals/Vixy/sprites/front-64.png",
+      "front_64_pal32": "pals/Vixy/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

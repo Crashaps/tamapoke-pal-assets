@@ -1,0 +1,134 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Moldron_Cryst",
+  "source_page": "Moldron_Cryst",
+  "name": "Moldron Cryst",
+  "number": "105B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/4/42/Moldron_Cryst.png/revision/latest/scale-to-width-down/268?cb=20260718020128",
+      "file": "pals/Moldron Cryst/Moldron_Cryst.png",
+      "alt": "Moldron Cryst"
+    }
+  },
+  "elements": [
+    "ice",
+    "ground"
+  ],
+  "food": 8,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "ice_organ",
+      "quantity": "4-5",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "leather",
+      "quantity": "2-3",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "In a healthy individual, the substance flowing along its back maintains a stable temperature. However, if its heartbeat quickens, the temperature destabilizes, eventually triggering vaporization or crystallization that results in a sudden, abrupt death from shock.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 110,
+          "min": 5300,
+          "max": 6620
+        },
+        "attack": {
+          "growth": 125,
+          "min": 850,
+          "max": 1075
+        },
+        "defense": {
+          "growth": 120,
+          "min": 770,
+          "max": 986
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 110,
+          "min": 5300,
+          "max": 6620
+        },
+        "attack": {
+          "growth": 125,
+          "min": 850,
+          "max": 1075
+        },
+        "defense": {
+          "growth": 120,
+          "min": 770,
+          "max": 986
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 1.5,
+    "electric": 0.66,
+    "ice": 0.66,
+    "ground": 0.66,
+    "dark": 1.0,
+    "dragon": 0.66
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "iceberg"
+    },
+    {
+      "level": 15,
+      "skill_id": "icicle_line"
+    },
+    {
+      "level": 22,
+      "skill_id": "rockburst"
+    },
+    {
+      "level": 30,
+      "skill_id": "blizzard_spike"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Frozen Egg",
+    "egg_type_id": "frozen_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Moldron Cryst/sprites/front-chroma.png",
+      "transparent": "pals/Moldron Cryst/sprites/front-transparent.png",
+      "front_96": "pals/Moldron Cryst/sprites/front-96.png",
+      "front_96_pal32": "pals/Moldron Cryst/sprites/front-96-pal32.png",
+      "front_64": "pals/Moldron Cryst/sprites/front-64.png",
+      "front_64_pal32": "pals/Moldron Cryst/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

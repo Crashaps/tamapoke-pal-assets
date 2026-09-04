@@ -1,0 +1,130 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Elgrove_Cryst",
+  "source_page": "Elgrove_Cryst",
+  "name": "Elgrove Cryst",
+  "number": "081B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/0/0d/Elgrove_Cryst.png/revision/latest/scale-to-width-down/268?cb=20260718020000",
+      "file": "pals/Elgrove Cryst/Elgrove_Cryst.png",
+      "alt": "Elgrove Cryst"
+    }
+  },
+  "elements": [
+    "ice"
+  ],
+  "food": 8,
+  "gender_ratio": "60% / 40%",
+  "drops": [
+    {
+      "item_id": "horn",
+      "quantity": "2-3",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "leather",
+      "quantity": "2-3",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "ice_organ",
+      "quantity": "2-3",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Its frozen horn stays solid through its life. When water begins to drip from this ice, Elgrove Cryst feels the chill of its own life slipping away.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 120,
+          "min": 5700,
+          "max": 7140
+        },
+        "attack": {
+          "growth": 100,
+          "min": 700,
+          "max": 880
+        },
+        "defense": {
+          "growth": 105,
+          "min": 680,
+          "max": 869
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 120,
+          "min": 5700,
+          "max": 7140
+        },
+        "attack": {
+          "growth": 100,
+          "min": 700,
+          "max": 880
+        },
+        "defense": {
+          "growth": 105,
+          "min": 680,
+          "max": 869
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 1.0,
+    "dragon": 0.66
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 30,
+      "skill_id": "icicle_line"
+    },
+    {
+      "level": 40,
+      "skill_id": "blizzard_spike"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Frozen Egg",
+    "egg_type_id": "frozen_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Elgrove Cryst/sprites/front-chroma.png",
+      "transparent": "pals/Elgrove Cryst/sprites/front-transparent.png",
+      "front_96": "pals/Elgrove Cryst/sprites/front-96.png",
+      "front_96_pal32": "pals/Elgrove Cryst/sprites/front-96-pal32.png",
+      "front_64": "pals/Elgrove Cryst/sprites/front-64.png",
+      "front_64_pal32": "pals/Elgrove Cryst/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Ghangler_Ignis",
+  "source_page": "Ghangler_Ignis",
+  "name": "Ghangler Ignis",
+  "number": "097B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/2/2c/Ghangler_Ignis.png/revision/latest/scale-to-width-down/268?cb=20250630115249",
+      "file": "pals/Ghangler Ignis/Ghangler_Ignis.png",
+      "alt": "Ghangler Ignis"
+    }
+  },
+  "elements": [
+    "fire",
+    "water"
+  ],
+  "food": 7,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "bone",
+      "quantity": "2-3",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "flame_organ",
+      "quantity": "1-2",
+      "chance_percent": 50
+    }
+  ],
+  "palpedia_entry": "Its blazing lure doubles as a grill for roasting prey. Drawn in by the delicious aroma, Pals have no hope of escape once Ghangler Ignis sets its sights on them. In the end, they’re treated to a hearty meal—until everyone’s full.",
+  "availability": {
+    "Fishing": [
+      "Near Feybreak Isle"
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 130,
+          "min": 880,
+          "max": 1114
+        },
+        "defense": {
+          "growth": 105,
+          "min": 680,
+          "max": 869
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 130,
+          "min": 880,
+          "max": 1114
+        },
+        "defense": {
+          "growth": 105,
+          "min": 680,
+          "max": 869
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.43,
+    "water": 1.0,
+    "grass": 0.66,
+    "electric": 1.5,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "unknown_information"
+    ],
+    "work_suitability": [],
+    "possible_drops": {
+      "normal": [],
+      "boss": []
+    }
+  },
+  "active_skills": [],
+  "pal_egg": {
+    "text": "Large Scorching Egg",
+    "egg_type_id": "scorching_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Ghangler Ignis/sprites/front-chroma.png",
+      "transparent": "pals/Ghangler Ignis/sprites/front-transparent.png",
+      "front_96": "pals/Ghangler Ignis/sprites/front-96.png",
+      "front_96_pal32": "pals/Ghangler Ignis/sprites/front-96-pal32.png",
+      "front_64": "pals/Ghangler Ignis/sprites/front-64.png",
+      "front_64_pal32": "pals/Ghangler Ignis/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

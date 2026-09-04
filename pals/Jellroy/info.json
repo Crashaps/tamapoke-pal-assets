@@ -1,0 +1,151 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Jellroy",
+  "source_page": "Jellroy",
+  "name": "Jellroy",
+  "number": "046",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/2/28/Jellroy.png/revision/latest?cb=20260405154455",
+      "file": "pals/Jellroy/Jellroy.png",
+      "alt": "Jellroy"
+    }
+  },
+  "elements": [
+    "water",
+    "dark"
+  ],
+  "food": 3,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "aquatic_pal_fluids",
+      "quantity": "1-2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "jellroy_bell_flesh",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "A Pal that closely resembles Jelliette . It sometimes appears as a substitute when Jelliette is unavailable. Its acting is so flawless that no one ever notices the switch.",
+  "availability": {
+    "Fishing": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 75,
+          "min": 550,
+          "max": 685
+        },
+        "defense": {
+          "growth": 75,
+          "min": 500,
+          "max": 635
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 75,
+          "min": 550,
+          "max": 685
+        },
+        "defense": {
+          "growth": 75,
+          "min": 500,
+          "max": 635
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 0.66,
+    "grass": 1.0,
+    "electric": 1.5,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "unknown_information"
+    ],
+    "work_suitability": [],
+    "possible_drops": {
+      "normal": [],
+      "boss": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "poison_blast"
+    },
+    {
+      "level": 7,
+      "skill_id": "umbral_surge"
+    },
+    {
+      "level": 15,
+      "skill_id": "bubble_blast"
+    },
+    {
+      "level": 22,
+      "skill_id": "spirit_flame"
+    },
+    {
+      "level": 30,
+      "skill_id": "poison_shower"
+    },
+    {
+      "level": 50,
+      "skill_id": "dark_whisp"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Damp Egg",
+    "egg_type_id": "damp_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Jellroy/sprites/front-chroma.png",
+      "transparent": "pals/Jellroy/sprites/front-transparent.png",
+      "front_96": "pals/Jellroy/sprites/front-96.png",
+      "front_96_pal32": "pals/Jellroy/sprites/front-96-pal32.png",
+      "front_64": "pals/Jellroy/sprites/front-64.png",
+      "front_64_pal32": "pals/Jellroy/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

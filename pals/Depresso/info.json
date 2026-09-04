@@ -1,0 +1,186 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Depresso",
+  "source_page": "Depresso",
+  "name": "Depresso",
+  "number": "016",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/8/8b/Depresso.png/revision/latest?cb=20240630102052",
+      "file": "pals/Depresso/Depresso.png",
+      "alt": "Depresso"
+    }
+  },
+  "elements": [
+    "dark"
+  ],
+  "food": 1,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "venom_gland",
+      "quantity": "2-3",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "It has few friends because of the perpetually grouchy look on its face, but it is in fact kindhearted. Some have seen it feeding Vixy who have strayed from their pack.",
+  "availability": {
+    "Wild Spawn": [
+      "Missing Information."
+    ],
+    "Dungeons": [
+      "Missing Information."
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 70,
+          "min": 520,
+          "max": 646
+        },
+        "defense": {
+          "growth": 70,
+          "min": 470,
+          "max": 596
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 70,
+          "min": 520,
+          "max": 646
+        },
+        "defense": {
+          "growth": 70,
+          "min": 470,
+          "max": 596
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "caffeine_inoculation"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "handiwork",
+        "level": 1
+      },
+      {
+        "work_id": "transporting",
+        "level": 1
+      },
+      {
+        "work_id": "mining",
+        "level": 1
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "poison_blast"
+    },
+    {
+      "level": 15,
+      "skill_id": "dark_ball"
+    },
+    {
+      "level": 22,
+      "skill_id": "ice_missile"
+    },
+    {
+      "level": 30,
+      "skill_id": "shadow_burst"
+    },
+    {
+      "level": 40,
+      "skill_id": "nightmare_ball"
+    },
+    {
+      "level": 50,
+      "skill_id": "dark_laser"
+    },
+    {
+      "level": 70,
+      "skill_id": "dark_whisp"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Dark Egg",
+    "egg_type_id": "dark_egg"
+  },
+  "generated_sprites": {
+    "reference_scaled_test": {
+      "source": "pals/Depresso/Depresso.png",
+      "transparent": "pals/Depresso/sprites/front-transparent.png",
+      "front_96": "pals/Depresso/sprites/front-96.png",
+      "front_96_pal32": "pals/Depresso/sprites/front-96-pal32.png",
+      "front_64": "pals/Depresso/sprites/front-64.png",
+      "front_64_pal32": "pals/Depresso/sprites/front-64-pal32.png",
+      "tool": "local transparent-source resize + 32-color quantization",
+      "note": "Temporary functional test sprite derived from the collected Palpedia image; replace with imagegen pixel art later."
+    },
+    "firmware_test_pack": {
+      "type": "TPK2",
+      "id": 16,
+      "file": "pals/Depresso/firmware/p016.bin",
+      "sources": [
+        "pals/Depresso/sprites/front-96-pal32.png"
+      ],
+      "tool": "tools/make_pal_sprite_pack.py",
+      "note": "Idle-only TPK2 test pack derived from the temporary reference-scaled sprite for the three-Pal starter bundle."
+    },
+    "front_pixel_art": {
+      "source_chroma": "pals/Depresso/sprites/front-chroma.png",
+      "transparent": "pals/Depresso/sprites/front-transparent.png",
+      "front_96": "pals/Depresso/sprites/front-96.png",
+      "front_96_pal32": "pals/Depresso/sprites/front-96-pal32.png",
+      "front_64": "pals/Depresso/sprites/front-64.png",
+      "front_64_pal32": "pals/Depresso/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

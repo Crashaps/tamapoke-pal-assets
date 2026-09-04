@@ -1,0 +1,48 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Pupperai",
+  "source_page": "Pupperai",
+  "name": "Pupperai",
+  "number": "013",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/3/38/Pupperai.png/revision/latest/scale-to-width-down/268?cb=20260718020255",
+      "file": "pals/Pupperai/Pupperai.png",
+      "alt": "Pupperai"
+    }
+  },
+  "elements": [
+    "ground"
+  ],
+  "food": 1,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "bone",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Pupperai territorial disputes begin with a staredown and end in a single, quick strike. Training them to \"stay\" is risky business, as the \"go\" command triggers that same attack instinct.",
+  "availability": {},
+  "pal_eggs": [],
+  "stats": {},
+  "elemental_effectiveness": {},
+  "utility": {},
+  "active_skills": [],
+  "pal_egg": {
+    "text": "Small Rocky Egg",
+    "egg_type_id": "rocky_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Pupperai/sprites/front-chroma.png",
+      "transparent": "pals/Pupperai/sprites/front-transparent.png",
+      "front_96": "pals/Pupperai/sprites/front-96.png",
+      "front_96_pal32": "pals/Pupperai/sprites/front-96-pal32.png",
+      "front_64": "pals/Pupperai/sprites/front-64.png",
+      "front_64_pal32": "pals/Pupperai/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

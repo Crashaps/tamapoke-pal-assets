@@ -1,0 +1,237 @@
+{
+  "schema_version": 1,
+  "pal": "Anubis",
+  "contract": {
+    "document": "PAL_ANIMATION_REQUIREMENTS.md",
+    "firmware_action_source": "sdmon.h",
+    "frame_size": {
+      "width": 96,
+      "height": 96
+    },
+    "default_fps": 6,
+    "default_frame_ms": 167,
+    "minimum_generated_loop_frames": 4,
+    "preferred_rest_loop_frames": "5-6"
+  },
+  "sources": {
+    "pixelorama_project": "pals/Anubis/animations/source/Anubis (1).pxo",
+    "extract_manifest": "pals/Anubis/animations/pixelorama-extract-manifest.json",
+    "overview": "pals/Anubis/animations/overview.png"
+  },
+  "firmware_actions": {
+    "PMD_IDLE": {
+      "id": 0,
+      "tier": 0,
+      "animation": "idle",
+      "status": "ready",
+      "loop": true,
+      "notes": "Primary front-facing idle loop."
+    },
+    "PMD_WALKL": {
+      "id": 1,
+      "tier": 0,
+      "animation": "walk-right",
+      "status": "derive_from_source",
+      "loop": true,
+      "transform": "mirror_x",
+      "notes": "No separate walk-left layer was supplied. Derive by mirroring walk-right unless a bespoke left walk is generated later."
+    },
+    "PMD_WALKR": {
+      "id": 2,
+      "tier": 0,
+      "animation": "walk-right",
+      "status": "ready",
+      "loop": true,
+      "notes": "Right-facing walk loop from the Pixelorama layer named 'walk right'."
+    },
+    "PMD_SLEEP": {
+      "id": 3,
+      "tier": 1,
+      "animation": "meditating",
+      "status": "usable_review_needed",
+      "loop": true,
+      "notes": "Closest current rest/sleep-like loop. It has 7 frames, slightly above the preferred 5-6 rest-loop range."
+    },
+    "PMD_EAT": {
+      "id": 4,
+      "tier": 1,
+      "animation": null,
+      "status": "missing",
+      "loop": true,
+      "notes": "Needs a 4+ frame eating or chewing loop."
+    },
+    "PMD_HURT": {
+      "id": 5,
+      "tier": 1,
+      "animation": "sad-loop",
+      "status": "ready",
+      "loop": true,
+      "notes": "Sad/resting loop maps cleanly to hurt or low-mood display."
+    },
+    "PMD_ATTACK": {
+      "id": 6,
+      "tier": 3,
+      "animation": null,
+      "status": "missing",
+      "loop": false,
+      "notes": "Only needed once battle, expedition, or encounter visuals consume it."
+    },
+    "PMD_POSE": {
+      "id": 7,
+      "tier": 1,
+      "animation": "idle-to-quick-bow",
+      "status": "ready",
+      "loop": false,
+      "notes": "Works as a short attention, happy, or acknowledgement pose rather than a looping idle."
+    },
+    "PMD_HOP": {
+      "id": 8,
+      "tier": 2,
+      "animation": null,
+      "status": "missing",
+      "loop": false,
+      "notes": "Optional polish action; generate later if random idle behavior needs more variety."
+    },
+    "PMD_NOD": {
+      "id": 9,
+      "tier": 2,
+      "animation": "not-sure",
+      "status": "usable_review_needed",
+      "loop": false,
+      "notes": "The source layer is named 'NotSure'. It may suit a nod/uncertain acknowledgement, but should be reviewed in motion before firmware packing."
+    },
+    "PMD_BREATH": {
+      "id": 10,
+      "tier": 2,
+      "animation": "idle",
+      "status": "alias",
+      "loop": true,
+      "notes": "Alias to the current idle loop until a subtler breathing-only loop is generated."
+    },
+    "PMD_SIT": {
+      "id": 11,
+      "tier": 2,
+      "animation": "meditating",
+      "status": "ready",
+      "loop": true,
+      "notes": "Seated/resting loop suitable for sit/rest states."
+    }
+  },
+  "animations": {
+    "rotations": {
+      "folder": "pals/Anubis/animations/rotations",
+      "frames_glob": "pals/Anubis/animations/rotations/frames/frame-*.png",
+      "spritesheet": "pals/Anubis/animations/rotations/spritesheet.png",
+      "frame_count": 8,
+      "source_layer": "8 rotate",
+      "contract_role": "directional_reference",
+      "loop": false,
+      "status": "source_only",
+      "notes": "Eight directional views. Not a current TPK2 action, but useful if later generating directional walk/idle sets."
+    },
+    "walk-right": {
+      "folder": "pals/Anubis/animations/walk-right",
+      "frames_glob": "pals/Anubis/animations/walk-right/frames/frame-*.png",
+      "spritesheet": "pals/Anubis/animations/walk-right/spritesheet.png",
+      "frame_count": 9,
+      "source_layer": "walk right",
+      "contract_role": "walk_right",
+      "firmware_actions": [
+        "PMD_WALKR",
+        "PMD_WALKL"
+      ],
+      "loop": true,
+      "status": "ready",
+      "notes": "Use all frames for web/preview. Packer may later downsample to 4 frames if strict TamaPoke walk timing is desired."
+    },
+    "idle": {
+      "folder": "pals/Anubis/animations/idle",
+      "frames_glob": "pals/Anubis/animations/idle/frames/frame-*.png",
+      "spritesheet": "pals/Anubis/animations/idle/spritesheet.png",
+      "frame_count": 7,
+      "source_layer": "idle",
+      "contract_role": "idle_front",
+      "firmware_actions": [
+        "PMD_IDLE",
+        "PMD_BREATH"
+      ],
+      "loop": true,
+      "status": "ready"
+    },
+    "idle-to-quick-bow": {
+      "folder": "pals/Anubis/animations/idle-to-quick-bow",
+      "frames_glob": "pals/Anubis/animations/idle-to-quick-bow/frames/frame-*.png",
+      "spritesheet": "pals/Anubis/animations/idle-to-quick-bow/spritesheet.png",
+      "frame_count": 9,
+      "source_layer": "idle to quick bow",
+      "contract_role": "pose",
+      "firmware_actions": [
+        "PMD_POSE"
+      ],
+      "loop": false,
+      "status": "ready"
+    },
+    "cross-legged-to-sad": {
+      "folder": "pals/Anubis/animations/cross-legged-to-sad",
+      "frames_glob": "pals/Anubis/animations/cross-legged-to-sad/frames/frame-*.png",
+      "spritesheet": "pals/Anubis/animations/cross-legged-to-sad/spritesheet.png",
+      "frame_count": 4,
+      "source_layer": "cross legged to sad",
+      "contract_role": "transition_candidate",
+      "loop": false,
+      "status": "source_only",
+      "notes": "Could be used as a transition into hurt/sad/rest, but current firmware action slots do not represent transitions."
+    },
+    "sad-loop": {
+      "folder": "pals/Anubis/animations/sad-loop",
+      "frames_glob": "pals/Anubis/animations/sad-loop/frames/frame-*.png",
+      "spritesheet": "pals/Anubis/animations/sad-loop/spritesheet.png",
+      "frame_count": 4,
+      "source_layer": "sad loop",
+      "contract_role": "hurt_sad",
+      "firmware_actions": [
+        "PMD_HURT"
+      ],
+      "loop": true,
+      "status": "ready"
+    },
+    "not-sure": {
+      "folder": "pals/Anubis/animations/not-sure",
+      "frames_glob": "pals/Anubis/animations/not-sure/frames/frame-*.png",
+      "spritesheet": "pals/Anubis/animations/not-sure/spritesheet.png",
+      "frame_count": 7,
+      "source_layer": "NotSure",
+      "contract_role": "nod_or_uncertain_pose",
+      "firmware_actions": [
+        "PMD_NOD"
+      ],
+      "loop": false,
+      "status": "usable_review_needed"
+    },
+    "meditating": {
+      "folder": "pals/Anubis/animations/meditating",
+      "frames_glob": "pals/Anubis/animations/meditating/frames/frame-*.png",
+      "spritesheet": "pals/Anubis/animations/meditating/spritesheet.png",
+      "frame_count": 7,
+      "source_layer": "Meditating",
+      "contract_role": "sleep_sit_rest",
+      "firmware_actions": [
+        "PMD_SLEEP",
+        "PMD_SIT"
+      ],
+      "loop": true,
+      "status": "ready"
+    }
+  },
+  "missing_contract_actions": [
+    "PMD_EAT",
+    "PMD_ATTACK",
+    "PMD_HOP"
+  ],
+  "packing_notes": [
+    "Extend tools/make_pal_sprite_pack.py before this file can drive a full TPK2 pack.",
+    "All referenced frames are already 96x96 transparent PNGs.",
+    "Quantize all selected actions into one shared RGB565 palette when packing.",
+    "Derive PMD_WALKL by mirroring walk-right unless a dedicated walk-left folder is added."
+  ]
+}

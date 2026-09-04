@@ -1,0 +1,140 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Lapure",
+  "source_page": "Lapure",
+  "name": "Lapure",
+  "number": "170",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/8/87/Lapure.png/revision/latest/scale-to-width-down/268?cb=20260718020058",
+      "file": "pals/Lapure/Lapure.png",
+      "alt": "Lapure"
+    }
+  },
+  "elements": [
+    "neutral"
+  ],
+  "food": 7,
+  "gender_ratio": "40% / 60%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "2-3",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "It uses the long, flowing fur on its hands to attract attention, always taking the utmost care to keep them maintained. Highly sensitive to dirt and meticulously clean, kicking up dust nearby will invite a very disgusted glare.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 100,
+          "min": 700,
+          "max": 880
+        },
+        "defense": {
+          "growth": 100,
+          "min": 650,
+          "max": 830
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 100,
+          "min": 700,
+          "max": 880
+        },
+        "defense": {
+          "growth": 100,
+          "min": 650,
+          "max": 830
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 1.5,
+    "dragon": 1.0
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "power_shot"
+    },
+    {
+      "level": 7,
+      "skill_id": "bubble_blast"
+    },
+    {
+      "level": 15,
+      "skill_id": "power_bomb"
+    },
+    {
+      "level": 22,
+      "skill_id": "air_blade"
+    },
+    {
+      "level": 30,
+      "skill_id": "curtain_splash"
+    },
+    {
+      "level": 50,
+      "skill_id": "pal_blast"
+    },
+    {
+      "level": 70,
+      "skill_id": "holy_burst"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Common Egg",
+    "egg_type_id": "common_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Lapure/sprites/front-chroma.png",
+      "transparent": "pals/Lapure/sprites/front-transparent.png",
+      "front_96": "pals/Lapure/sprites/front-96.png",
+      "front_96_pal32": "pals/Lapure/sprites/front-96-pal32.png",
+      "front_64": "pals/Lapure/sprites/front-64.png",
+      "front_64_pal32": "pals/Lapure/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

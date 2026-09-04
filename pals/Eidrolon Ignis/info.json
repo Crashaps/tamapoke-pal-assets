@@ -1,0 +1,139 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Eidrolon_Ignis",
+  "source_page": "Eidrolon_Ignis",
+  "name": "Eidrolon Ignis",
+  "number": "171B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/f/f9/Eidrolon_Ignis.png/revision/latest/scale-to-width-down/268?cb=20260718015946",
+      "file": "pals/Eidrolon Ignis/Eidrolon_Ignis.png",
+      "alt": "Eidrolon Ignis"
+    }
+  },
+  "elements": [
+    "dragon",
+    "fire"
+  ],
+  "food": 9,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "4-5",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "high_quality_pal_oil",
+      "quantity": "5-6",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "flame_organ",
+      "quantity": "4-5",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "A new Pal that was only recently discovered. It trusts nothing and no one, and its tempermental nature leads to it constantly venting its rage at the nearest target.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 115,
+          "min": 5500,
+          "max": 6880
+        },
+        "attack": {
+          "growth": 130,
+          "min": 880,
+          "max": 1114
+        },
+        "defense": {
+          "growth": 120,
+          "min": 770,
+          "max": 986
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 115,
+          "min": 5500,
+          "max": 6880
+        },
+        "attack": {
+          "growth": 130,
+          "min": 880,
+          "max": 1114
+        },
+        "defense": {
+          "growth": 120,
+          "min": 770,
+          "max": 986
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 1.5,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 0.66
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "dragon_burst"
+    },
+    {
+      "level": 7,
+      "skill_id": "ignis_breath"
+    },
+    {
+      "level": 22,
+      "skill_id": "charge_cannon"
+    },
+    {
+      "level": 40,
+      "skill_id": "fire_ball"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Dragon Egg",
+    "egg_type_id": "dragon_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Eidrolon Ignis/sprites/front-chroma.png",
+      "transparent": "pals/Eidrolon Ignis/sprites/front-transparent.png",
+      "front_96": "pals/Eidrolon Ignis/sprites/front-96.png",
+      "front_96_pal32": "pals/Eidrolon Ignis/sprites/front-96-pal32.png",
+      "front_64": "pals/Eidrolon Ignis/sprites/front-64.png",
+      "front_64_pal32": "pals/Eidrolon Ignis/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

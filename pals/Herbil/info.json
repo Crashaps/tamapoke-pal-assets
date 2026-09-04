@@ -1,0 +1,156 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Herbil",
+  "source_page": "Herbil",
+  "name": "Herbil",
+  "number": "010",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/9/9d/Herbil.png/revision/latest/scale-to-width-down/268?cb=20260405151937",
+      "file": "pals/Herbil/Herbil.png",
+      "alt": "Herbil"
+    }
+  },
+  "elements": [
+    "grass",
+    "neutral"
+  ],
+  "food": 1,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "1",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "wheat_seeds",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "When in doubt, punch it till it works—that’s Herbil's approach to fixing things. With strength perfectly tuned for humans, sometimes just one punch is enough to restart a stopped heart.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 80,
+          "min": 4100,
+          "max": 5060
+        },
+        "attack": {
+          "growth": 75,
+          "min": 550,
+          "max": 685
+        },
+        "defense": {
+          "growth": 75,
+          "min": 500,
+          "max": 635
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 80,
+          "min": 4100,
+          "max": 5060
+        },
+        "attack": {
+          "growth": 75,
+          "min": 550,
+          "max": 685
+        },
+        "defense": {
+          "growth": 75,
+          "min": 500,
+          "max": 635
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 0.66,
+    "dark": 1.5,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "herbil_pulse"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "planting_lv",
+        "level": 1
+      },
+      {
+        "work_id": "gathering_lv",
+        "level": 1
+      },
+      {
+        "work_id": "transporting_lv",
+        "level": 1
+      }
+    ],
+    "possible_drops": {
+      "normal": [],
+      "boss": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "wind_cutter"
+    },
+    {
+      "level": 7,
+      "skill_id": "seed_machine_gun"
+    },
+    {
+      "level": 15,
+      "skill_id": "grass_tornado"
+    },
+    {
+      "level": 22,
+      "skill_id": "air_blade"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Verdant Egg",
+    "egg_type_id": "verdant_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Herbil/sprites/front-chroma.png",
+      "transparent": "pals/Herbil/sprites/front-transparent.png",
+      "front_96": "pals/Herbil/sprites/front-96.png",
+      "front_96_pal32": "pals/Herbil/sprites/front-96-pal32.png",
+      "front_64": "pals/Herbil/sprites/front-64.png",
+      "front_64_pal32": "pals/Herbil/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

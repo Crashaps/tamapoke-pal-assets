@@ -1,0 +1,157 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Vanwyrm_Cryst",
+  "source_page": "Vanwyrm_Cryst",
+  "name": "Vanwyrm Cryst",
+  "number": "064B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/4/42/Vanwyrm_Cryst.png/revision/latest/scale-to-width-down/268?cb=20240407184955",
+      "file": "pals/Vanwyrm Cryst/Vanwyrm_Cryst.png",
+      "alt": "Vanwyrm Cryst"
+    }
+  },
+  "elements": [
+    "ice",
+    "dark"
+  ],
+  "food": 5,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "bone",
+      "quantity": "1-2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "ice_organ",
+      "quantity": "2-3",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "sapphire",
+      "quantity": "1",
+      "chance_percent": 2
+    }
+  ],
+  "palpedia_entry": "The melodies of a flute made from the exoskeleton of a Vanwyrm Cryst are said to cross whole mountain ranges. In ages past, such flutes were used to signal victory in battle.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 120,
+          "min": 820,
+          "max": 1036
+        },
+        "defense": {
+          "growth": 95,
+          "min": 620,
+          "max": 791
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 120,
+          "min": 820,
+          "max": 1036
+        },
+        "defense": {
+          "growth": 95,
+          "min": 620,
+          "max": 791
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "aerial_marauder"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "cooling",
+        "level": 2
+      },
+      {
+        "work_id": "transporting",
+        "level": 3
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "air_cannon"
+    },
+    {
+      "level": 7,
+      "skill_id": "ice_missile"
+    },
+    {
+      "level": 15,
+      "skill_id": "icicle_cutter"
+    },
+    {
+      "level": 26,
+      "skill_id": "tempest_blizzard"
+    },
+    {
+      "level": 30,
+      "skill_id": "nightmare_ball"
+    },
+    {
+      "level": 40,
+      "skill_id": "blizzard_spike"
+    },
+    {
+      "level": 50,
+      "skill_id": "dark_laser"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Frozen Egg",
+    "egg_type_id": "frozen_egg"
+  }
+}

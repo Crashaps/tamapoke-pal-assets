@@ -1,0 +1,136 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Loupmoon_Cryst",
+  "source_page": "Loupmoon_Cryst",
+  "name": "Loupmoon Cryst",
+  "number": "056B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/b/b7/Loupmoon_Cryst.png/revision/latest/scale-to-width-down/268?cb=20241224130747",
+      "file": "pals/Loupmoon Cryst/Loupmoon_Cryst.png",
+      "alt": "Loupmoon Cryst"
+    }
+  },
+  "elements": [
+    "ice"
+  ],
+  "food": 3,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "bone",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "The horns on its head are made of a mysterious ice that never melts. Shaved ice made by breaking off a horn is truly exquisite, but both the one who tries it and Loupmoon Cryst end up with a headache.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 80,
+          "min": 4100,
+          "max": 5060
+        },
+        "attack": {
+          "growth": 105,
+          "min": 730,
+          "max": 919
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 80,
+          "min": 4100,
+          "max": 5060
+        },
+        "attack": {
+          "growth": 105,
+          "min": 730,
+          "max": 919
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 1.0,
+    "dragon": 0.66
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "missing_information"
+    ],
+    "work_suitability": [],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "ice_missile"
+    },
+    {
+      "level": 7,
+      "skill_id": "icicle_cutter"
+    },
+    {
+      "level": 40,
+      "skill_id": "icicle_line"
+    },
+    {
+      "level": 50,
+      "skill_id": "blizzard_spike"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Frozen Egg",
+    "egg_type_id": "frozen_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Loupmoon Cryst/sprites/front-chroma.png",
+      "transparent": "pals/Loupmoon Cryst/sprites/front-transparent.png",
+      "front_96": "pals/Loupmoon Cryst/sprites/front-96.png",
+      "front_96_pal32": "pals/Loupmoon Cryst/sprites/front-96-pal32.png",
+      "front_64": "pals/Loupmoon Cryst/sprites/front-64.png",
+      "front_64_pal32": "pals/Loupmoon Cryst/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

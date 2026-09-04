@@ -1,0 +1,110 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Boltmane",
+  "source_page": "Boltmane",
+  "name": "Boltmane",
+  "number": "???",
+  "group": "unknown",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/2/21/Boltmane.png/revision/latest/scale-to-width-down/268?cb=20240315065048",
+      "file": "pals/Boltmane/Boltmane.png",
+      "alt": "Boltmane"
+    }
+  },
+  "elements": [
+    "electric"
+  ],
+  "food": 5,
+  "gender_ratio": null,
+  "drops": [],
+  "palpedia_entry": null,
+  "availability": {},
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "attack": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "defense": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "attack": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "defense": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": "?",
+    "fire": "?",
+    "water": "?",
+    "grass": "?",
+    "electric": "?",
+    "ice": "?",
+    "ground": "?",
+    "dark": "?",
+    "dragon": "?"
+  },
+  "utility": {
+    "boltmane_is_able_to_be_ridden": [],
+    "work_suitability": [
+      {
+        "work_id": "kindling",
+        "level": 2
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [],
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Boltmane/sprites/front-chroma.png",
+      "transparent": "pals/Boltmane/sprites/front-transparent.png",
+      "front_96": "pals/Boltmane/sprites/front-96.png",
+      "front_96_pal32": "pals/Boltmane/sprites/front-96-pal32.png",
+      "front_64": "pals/Boltmane/sprites/front-64.png",
+      "front_64_pal32": "pals/Boltmane/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

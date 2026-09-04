@@ -1,0 +1,159 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Vanwyrm",
+  "source_page": "Vanwyrm",
+  "name": "Vanwyrm",
+  "number": "064",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/8/89/Vanwyrm.png/revision/latest/scale-to-width-down/268?cb=20240407184923",
+      "file": "pals/Vanwyrm/Vanwyrm.png",
+      "alt": "Vanwyrm"
+    }
+  },
+  "elements": [
+    "fire",
+    "dark"
+  ],
+  "food": 5,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "bone",
+      "quantity": "1-2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "ruby",
+      "quantity": "1-2",
+      "chance_percent": 1
+    },
+    {
+      "item_id": "gold_coin",
+      "quantity": "10-40",
+      "chance_percent": 10
+    }
+  ],
+  "palpedia_entry": "The melodies of a flute made from the exoskeleton of a Vanwyrm are said to cross whole mountain ranges. In ages past, such flutes were used to signal an attack.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 115,
+          "min": 790,
+          "max": 997
+        },
+        "defense": {
+          "growth": 90,
+          "min": 590,
+          "max": 752
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 90,
+          "min": 4500,
+          "max": 5580
+        },
+        "attack": {
+          "growth": 115,
+          "min": 790,
+          "max": 997
+        },
+        "defense": {
+          "growth": 90,
+          "min": 590,
+          "max": 752
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 1.5,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "air_cannon"
+    },
+    {
+      "level": 7,
+      "skill_id": "ignis_blast"
+    },
+    {
+      "level": 15,
+      "skill_id": "spirit_fire"
+    },
+    {
+      "level": 22,
+      "skill_id": "ignis_breath"
+    },
+    {
+      "level": 26,
+      "skill_id": "flame_breath"
+    },
+    {
+      "level": 30,
+      "skill_id": "nightmare_ball"
+    },
+    {
+      "level": 40,
+      "skill_id": "fire_ball"
+    },
+    {
+      "level": 50,
+      "skill_id": "dark_laser"
+    },
+    {
+      "level": 70,
+      "skill_id": "dark_whisp"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Scorching Egg",
+    "egg_type_id": "scorching_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Vanwyrm/sprites/front-chroma.png",
+      "transparent": "pals/Vanwyrm/sprites/front-transparent.png",
+      "front_96": "pals/Vanwyrm/sprites/front-96.png",
+      "front_96_pal32": "pals/Vanwyrm/sprites/front-96-pal32.png",
+      "front_64": "pals/Vanwyrm/sprites/front-64.png",
+      "front_64_pal32": "pals/Vanwyrm/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

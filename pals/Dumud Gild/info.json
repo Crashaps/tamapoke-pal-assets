@@ -1,0 +1,120 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Dumud_Gild",
+  "source_page": "Dumud_Gild",
+  "name": "Dumud Gild",
+  "number": "109B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/b/b1/Dumud_Gild.png/revision/latest/scale-to-width-down/268?cb=20250626005752",
+      "file": "pals/Dumud Gild/Dumud_Gild.png",
+      "alt": "Dumud Gild"
+    }
+  },
+  "elements": [
+    "ground",
+    "water"
+  ],
+  "food": 3,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "raw_dumud",
+      "quantity": "2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "high_quality_pal_oil",
+      "quantity": "1",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "gold_coin",
+      "quantity": "100-200",
+      "chance_percent": 50
+    }
+  ],
+  "palpedia_entry": "Its body reflects light with astounding clarity. Even more shocking, its reflexes are somehow even slower than Dumud .",
+  "availability": {
+    "Fishing": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 75,
+          "min": 550,
+          "max": 685
+        },
+        "defense": {
+          "growth": 100,
+          "min": 650,
+          "max": 830
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 75,
+          "min": 550,
+          "max": 685
+        },
+        "defense": {
+          "growth": 100,
+          "min": 650,
+          "max": 830
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 0.66,
+    "grass": 1.5,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 0.66,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_golden_harvest": [
+      "While in party, increases amount of Gold Coin dropped by enemies by +100%.",
+      "Sometimes drops High Quality Pal Oil when assigned to Ranch, with a small chance to drop Gold Coin. (Does Not Stack)"
+    ],
+    "work_suitability": [],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [],
+  "pal_egg": {
+    "text": "Large Rocky Egg",
+    "egg_type_id": "rocky_egg"
+  }
+}

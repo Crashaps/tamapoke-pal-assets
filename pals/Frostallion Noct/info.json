@@ -1,0 +1,163 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Frostallion_Noct",
+  "source_page": "Frostallion_Noct",
+  "name": "Frostallion Noct",
+  "number": "200B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/b/b7/Frostallion_Noct.png/revision/latest/scale-to-width-down/268?cb=20240320133624",
+      "file": "pals/Frostallion Noct/Frostallion_Noct.png",
+      "alt": "Frostallion Noct"
+    }
+  },
+  "elements": [
+    "dark"
+  ],
+  "food": 9,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "diamond",
+      "quantity": "1",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "large_pal_soul",
+      "quantity": "1-2",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Guardian deity of Palpagos Island, known as the Night Caller. In the past, when a calamity struck the land, it soared into the sky and sealed away the threat by casting the island into eternal darkness.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 140,
+          "min": 6500,
+          "max": 8180
+        },
+        "attack": {
+          "growth": 140,
+          "min": 940,
+          "max": 1192
+        },
+        "defense": {
+          "growth": 135,
+          "min": 860,
+          "max": 1103
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 140,
+          "min": 6500,
+          "max": 8180
+        },
+        "attack": {
+          "growth": 140,
+          "min": 940,
+          "max": 1192
+        },
+        "defense": {
+          "growth": 135,
+          "min": 860,
+          "max": 1103
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {
+    "as_a_legendary_pal_it_comes_with_the_legend_passive_skill": [],
+    "partner_skill_ids": [
+      "black_steed"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "gathering",
+        "level": 4
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "air_cannon"
+    },
+    {
+      "level": 7,
+      "skill_id": "dark_ball"
+    },
+    {
+      "level": 15,
+      "skill_id": "shadow_burst"
+    },
+    {
+      "level": 22,
+      "skill_id": "spirit_flame"
+    },
+    {
+      "level": 30,
+      "skill_id": "crystal_wing"
+    },
+    {
+      "level": 40,
+      "skill_id": "nightmare_ball"
+    },
+    {
+      "level": 50,
+      "skill_id": "dark_laser"
+    },
+    {
+      "level": 60,
+      "skill_id": "dark_whisp"
+    }
+  ],
+  "pal_egg": {
+    "text": "Huge Dark Egg",
+    "egg_type_id": "dark_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Frostallion Noct/sprites/front-chroma.png",
+      "transparent": "pals/Frostallion Noct/sprites/front-transparent.png",
+      "front_96": "pals/Frostallion Noct/sprites/front-96.png",
+      "front_96_pal32": "pals/Frostallion Noct/sprites/front-96-pal32.png",
+      "front_64": "pals/Frostallion Noct/sprites/front-64.png",
+      "front_64_pal32": "pals/Frostallion Noct/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

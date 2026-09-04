@@ -1,0 +1,171 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Paladius",
+  "source_page": "Paladius",
+  "name": "Paladius",
+  "number": "198",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/b/b8/Paladius.png/revision/latest/scale-to-width-down/268?cb=20240123200037",
+      "file": "pals/Paladius/Paladius.png",
+      "alt": "Paladius"
+    }
+  },
+  "elements": [
+    "neutral"
+  ],
+  "food": 9,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "hexolite",
+      "quantity": "10",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "diamond",
+      "quantity": "1",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "large_pal_soul",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Once one with Necromus . Its gleaming form is free of all negative emotions. However, a glimmer of hatred can still be seen deep within its eyes.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 130,
+          "min": 6100,
+          "max": 7660
+        },
+        "attack": {
+          "growth": 120,
+          "min": 820,
+          "max": 1036
+        },
+        "defense": {
+          "growth": 145,
+          "min": 920,
+          "max": 1181
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 130,
+          "min": 6100,
+          "max": 7660
+        },
+        "attack": {
+          "growth": 120,
+          "min": 820,
+          "max": 1036
+        },
+        "defense": {
+          "growth": 145,
+          "min": 920,
+          "max": 1181
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 1.5,
+    "dragon": 1.0
+  },
+  "utility": {
+    "as_a_legendary_pal_it_comes_with_the_legend_passive_skill_partner_skill": [
+      "Holy Winged Knight - You can ride on its back to move around. While riding, you can triple jump. (Requires Paladius Saddle → Unlocks at Lv. 49)"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "mining",
+        "level": 2
+      },
+      {
+        "work_id": "lumbering",
+        "level": 2
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "power_shot"
+    },
+    {
+      "level": 7,
+      "skill_id": "ice_missile"
+    },
+    {
+      "level": 15,
+      "skill_id": "iceberg"
+    },
+    {
+      "level": 22,
+      "skill_id": "power_bomb"
+    },
+    {
+      "level": 30,
+      "skill_id": "blizzard_spike"
+    },
+    {
+      "level": 40,
+      "skill_id": "spear_thrust"
+    },
+    {
+      "level": 50,
+      "skill_id": "pal_blast"
+    },
+    {
+      "level": 60,
+      "skill_id": "holy_burst"
+    }
+  ],
+  "pal_egg": {
+    "text": "Huge Common Egg",
+    "egg_type_id": "common_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Paladius/sprites/front-chroma.png",
+      "transparent": "pals/Paladius/sprites/front-transparent.png",
+      "front_96": "pals/Paladius/sprites/front-96.png",
+      "front_96_pal32": "pals/Paladius/sprites/front-96-pal32.png",
+      "front_64": "pals/Paladius/sprites/front-64.png",
+      "front_64_pal32": "pals/Paladius/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

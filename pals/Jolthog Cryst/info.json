@@ -1,0 +1,155 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Jolthog_Cryst",
+  "source_page": "Jolthog_Cryst",
+  "name": "Jolthog Cryst",
+  "number": "015B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/d/dc/Jolthog_Cryst.png/revision/latest?cb=20240630161719",
+      "file": "pals/Jolthog Cryst/Jolthog_Cryst.png",
+      "alt": "Jolthog Cryst"
+    }
+  },
+  "elements": [
+    "ice"
+  ],
+  "food": 1,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "ice_organ",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "It releases the cold air stored in its body when under attack. The frigid blast it radiates is cold enough to freeze the surrounding air and easily pierces through any attacker's body.",
+  "availability": {
+    "Wild Spawn": [
+      "Missing Information."
+    ],
+    "Dungeons": [
+      "Missing Information."
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 75,
+          "min": 550,
+          "max": 685
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 75,
+          "min": 550,
+          "max": 685
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 1.0,
+    "dragon": 0.66
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "cold_bomb"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "cooling",
+        "level": 1
+      }
+    ],
+    "possible_drops": {
+      "normal": [],
+      "boss": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "ice_missile"
+    },
+    {
+      "level": 7,
+      "skill_id": "power_shot"
+    },
+    {
+      "level": 15,
+      "skill_id": "iceberg"
+    },
+    {
+      "level": 22,
+      "skill_id": "power_bomb"
+    },
+    {
+      "level": 30,
+      "skill_id": "icicle_cutter"
+    },
+    {
+      "level": 50,
+      "skill_id": "blizzard_spike"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Frozen Egg",
+    "egg_type_id": "frozen_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Jolthog Cryst/sprites/front-chroma.png",
+      "transparent": "pals/Jolthog Cryst/sprites/front-transparent.png",
+      "front_96": "pals/Jolthog Cryst/sprites/front-96.png",
+      "front_96_pal32": "pals/Jolthog Cryst/sprites/front-96-pal32.png",
+      "front_64": "pals/Jolthog Cryst/sprites/front-64.png",
+      "front_64_pal32": "pals/Jolthog Cryst/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

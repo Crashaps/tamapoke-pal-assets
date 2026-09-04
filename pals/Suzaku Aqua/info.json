@@ -1,0 +1,155 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Suzaku_Aqua",
+  "source_page": "Suzaku_Aqua",
+  "name": "Suzaku Aqua",
+  "number": "122B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/2/22/Suzaku_Aqua.png/revision/latest/scale-to-width-down/268?cb=20240320131418",
+      "file": "pals/Suzaku Aqua/Suzaku_Aqua.png",
+      "alt": "Suzaku Aqua"
+    }
+  },
+  "elements": [
+    "water"
+  ],
+  "food": 7,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "aquatic_pal_fluids",
+      "quantity": "5",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "It was once believed to usher in the rainy season. Whenever there was a flood the previous year, people would relentlessly seek to cull its numbers, hoping to avert disaster in the coming year.",
+  "availability": {
+    "Wild Spawn": [
+      "Huge Damp Eggs find around Astral Mountains have high chance to grant this Pal.",
+      "During a Flying Wild Pal raid on a player base of sufficiently high level."
+    ],
+    "Dungeons": [
+      "As Alpha Pal."
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 125,
+          "min": 5900,
+          "max": 7400
+        },
+        "attack": {
+          "growth": 105,
+          "min": 730,
+          "max": 919
+        },
+        "defense": {
+          "growth": 105,
+          "min": 680,
+          "max": 869
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 125,
+          "min": 5900,
+          "max": 7400
+        },
+        "attack": {
+          "growth": 105,
+          "min": 730,
+          "max": 919
+        },
+        "defense": {
+          "growth": 105,
+          "min": 680,
+          "max": 869
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 0.66,
+    "grass": 1.0,
+    "electric": 1.5,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "water_suzaku_saddle": [
+      "Wings of Water - Can be ridden as a flying mount. Enhances Water attacks while mounted. (Requires Water Suzaku Saddle→ Unlocks at Lv. 43)"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "watering",
+        "level": 3
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "hydro_jet"
+    },
+    {
+      "level": 7,
+      "skill_id": "ice_missile"
+    },
+    {
+      "level": 15,
+      "skill_id": "aqua_gun"
+    },
+    {
+      "level": 30,
+      "skill_id": "aqua_burst"
+    },
+    {
+      "level": 40,
+      "skill_id": "blizzard_spike"
+    },
+    {
+      "level": 50,
+      "skill_id": "hydro_laser"
+    }
+  ],
+  "pal_egg": {
+    "text": "Huge Damp Egg",
+    "egg_type_id": "damp_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Suzaku Aqua/sprites/front-chroma.png",
+      "transparent": "pals/Suzaku Aqua/sprites/front-transparent.png",
+      "front_96": "pals/Suzaku Aqua/sprites/front-96.png",
+      "front_96_pal32": "pals/Suzaku Aqua/sprites/front-96-pal32.png",
+      "front_64": "pals/Suzaku Aqua/sprites/front-64.png",
+      "front_64_pal32": "pals/Suzaku Aqua/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

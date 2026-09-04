@@ -1,0 +1,2434 @@
+[
+  {
+    "name": "Lamball",
+    "number": "001",
+    "group": "regular",
+    "folder": "pals/Lamball",
+    "source_url": "https://palworld.fandom.com/wiki/Lamball",
+    "page_missing": false
+  },
+  {
+    "name": "Cattiva",
+    "number": "002",
+    "group": "regular",
+    "folder": "pals/Cattiva",
+    "source_url": "https://palworld.fandom.com/wiki/Cattiva",
+    "page_missing": false
+  },
+  {
+    "name": "Chikipi",
+    "number": "003",
+    "group": "regular",
+    "folder": "pals/Chikipi",
+    "source_url": "https://palworld.fandom.com/wiki/Chikipi",
+    "page_missing": false
+  },
+  {
+    "name": "Lifmunk",
+    "number": "004",
+    "group": "regular",
+    "folder": "pals/Lifmunk",
+    "source_url": "https://palworld.fandom.com/wiki/Lifmunk",
+    "page_missing": false
+  },
+  {
+    "name": "Fuack",
+    "number": "005",
+    "group": "regular",
+    "folder": "pals/Fuack",
+    "source_url": "https://palworld.fandom.com/wiki/Fuack",
+    "page_missing": false
+  },
+  {
+    "name": "Vixy",
+    "number": "006",
+    "group": "regular",
+    "folder": "pals/Vixy",
+    "source_url": "https://palworld.fandom.com/wiki/Vixy",
+    "page_missing": false
+  },
+  {
+    "name": "Celaray",
+    "number": "007",
+    "group": "regular",
+    "folder": "pals/Celaray",
+    "source_url": "https://palworld.fandom.com/wiki/Celaray",
+    "page_missing": false
+  },
+  {
+    "name": "Cremis",
+    "number": "008",
+    "group": "regular",
+    "folder": "pals/Cremis",
+    "source_url": "https://palworld.fandom.com/wiki/Cremis",
+    "page_missing": false
+  },
+  {
+    "name": "Croajiro",
+    "number": "009",
+    "group": "regular",
+    "folder": "pals/Croajiro",
+    "source_url": "https://palworld.fandom.com/wiki/Croajiro",
+    "page_missing": false
+  },
+  {
+    "name": "Herbil",
+    "number": "010",
+    "group": "regular",
+    "folder": "pals/Herbil",
+    "source_url": "https://palworld.fandom.com/wiki/Herbil",
+    "page_missing": false
+  },
+  {
+    "name": "Teafant",
+    "number": "011",
+    "group": "regular",
+    "folder": "pals/Teafant",
+    "source_url": "https://palworld.fandom.com/wiki/Teafant",
+    "page_missing": false
+  },
+  {
+    "name": "Gumoss",
+    "number": "012",
+    "group": "regular",
+    "folder": "pals/Gumoss",
+    "source_url": "https://palworld.fandom.com/wiki/Gumoss",
+    "page_missing": false
+  },
+  {
+    "name": "Pupperai",
+    "number": "013",
+    "group": "regular",
+    "folder": "pals/Pupperai",
+    "source_url": "https://palworld.fandom.com/wiki/Pupperai",
+    "page_missing": false
+  },
+  {
+    "name": "Clovee",
+    "number": "014",
+    "group": "regular",
+    "folder": "pals/Clovee",
+    "source_url": "https://palworld.fandom.com/wiki/Clovee",
+    "page_missing": false
+  },
+  {
+    "name": "Jolthog",
+    "number": "015",
+    "group": "regular",
+    "folder": "pals/Jolthog",
+    "source_url": "https://palworld.fandom.com/wiki/Jolthog",
+    "page_missing": false
+  },
+  {
+    "name": "Depresso",
+    "number": "016",
+    "group": "regular",
+    "folder": "pals/Depresso",
+    "source_url": "https://palworld.fandom.com/wiki/Depresso",
+    "page_missing": false
+  },
+  {
+    "name": "Pengullet",
+    "number": "017",
+    "group": "regular",
+    "folder": "pals/Pengullet",
+    "source_url": "https://palworld.fandom.com/wiki/Pengullet",
+    "page_missing": false
+  },
+  {
+    "name": "Penking",
+    "number": "018",
+    "group": "regular",
+    "folder": "pals/Penking",
+    "source_url": "https://palworld.fandom.com/wiki/Penking",
+    "page_missing": false
+  },
+  {
+    "name": "Hoocrates",
+    "number": "019",
+    "group": "regular",
+    "folder": "pals/Hoocrates",
+    "source_url": "https://palworld.fandom.com/wiki/Hoocrates",
+    "page_missing": false
+  },
+  {
+    "name": "Melpaca",
+    "number": "020",
+    "group": "regular",
+    "folder": "pals/Melpaca",
+    "source_url": "https://palworld.fandom.com/wiki/Melpaca",
+    "page_missing": false
+  },
+  {
+    "name": "Kingpaca",
+    "number": "021",
+    "group": "regular",
+    "folder": "pals/Kingpaca",
+    "source_url": "https://palworld.fandom.com/wiki/Kingpaca",
+    "page_missing": false
+  },
+  {
+    "name": "Daedream",
+    "number": "022",
+    "group": "regular",
+    "folder": "pals/Daedream",
+    "source_url": "https://palworld.fandom.com/wiki/Daedream",
+    "page_missing": false
+  },
+  {
+    "name": "Tanzee",
+    "number": "023",
+    "group": "regular",
+    "folder": "pals/Tanzee",
+    "source_url": "https://palworld.fandom.com/wiki/Tanzee",
+    "page_missing": false
+  },
+  {
+    "name": "Nox",
+    "number": "024",
+    "group": "regular",
+    "folder": "pals/Nox",
+    "source_url": "https://palworld.fandom.com/wiki/Nox",
+    "page_missing": false
+  },
+  {
+    "name": "Flambelle",
+    "number": "025",
+    "group": "regular",
+    "folder": "pals/Flambelle",
+    "source_url": "https://palworld.fandom.com/wiki/Flambelle",
+    "page_missing": false
+  },
+  {
+    "name": "Rooby",
+    "number": "026",
+    "group": "regular",
+    "folder": "pals/Rooby",
+    "source_url": "https://palworld.fandom.com/wiki/Rooby",
+    "page_missing": false
+  },
+  {
+    "name": "Mau",
+    "number": "027",
+    "group": "regular",
+    "folder": "pals/Mau",
+    "source_url": "https://palworld.fandom.com/wiki/Mau",
+    "page_missing": false
+  },
+  {
+    "name": "Mau Cryst",
+    "number": "027B",
+    "group": "regular",
+    "folder": "pals/Mau Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Mau_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Rushoar",
+    "number": "028",
+    "group": "regular",
+    "folder": "pals/Rushoar",
+    "source_url": "https://palworld.fandom.com/wiki/Rushoar",
+    "page_missing": false
+  },
+  {
+    "name": "Foxparks",
+    "number": "029",
+    "group": "regular",
+    "folder": "pals/Foxparks",
+    "source_url": "https://palworld.fandom.com/wiki/Foxparks",
+    "page_missing": false
+  },
+  {
+    "name": "Killamari",
+    "number": "030",
+    "group": "regular",
+    "folder": "pals/Killamari",
+    "source_url": "https://palworld.fandom.com/wiki/Killamari",
+    "page_missing": false
+  },
+  {
+    "name": "Fuddler",
+    "number": "031",
+    "group": "regular",
+    "folder": "pals/Fuddler",
+    "source_url": "https://palworld.fandom.com/wiki/Fuddler",
+    "page_missing": false
+  },
+  {
+    "name": "Eikthyrdeer",
+    "number": "032",
+    "group": "regular",
+    "folder": "pals/Eikthyrdeer",
+    "source_url": "https://palworld.fandom.com/wiki/Eikthyrdeer",
+    "page_missing": false
+  },
+  {
+    "name": "Direhowl",
+    "number": "033",
+    "group": "regular",
+    "folder": "pals/Direhowl",
+    "source_url": "https://palworld.fandom.com/wiki/Direhowl",
+    "page_missing": false
+  },
+  {
+    "name": "Caprity",
+    "number": "034",
+    "group": "regular",
+    "folder": "pals/Caprity",
+    "source_url": "https://palworld.fandom.com/wiki/Caprity",
+    "page_missing": false
+  },
+  {
+    "name": "Swee",
+    "number": "035",
+    "group": "regular",
+    "folder": "pals/Swee",
+    "source_url": "https://palworld.fandom.com/wiki/Swee",
+    "page_missing": false
+  },
+  {
+    "name": "Sweepa",
+    "number": "036",
+    "group": "regular",
+    "folder": "pals/Sweepa",
+    "source_url": "https://palworld.fandom.com/wiki/Sweepa",
+    "page_missing": false
+  },
+  {
+    "name": "Turtacle",
+    "number": "037",
+    "group": "regular",
+    "folder": "pals/Turtacle",
+    "source_url": "https://palworld.fandom.com/wiki/Turtacle",
+    "page_missing": false
+  },
+  {
+    "name": "Hangyu",
+    "number": "038",
+    "group": "regular",
+    "folder": "pals/Hangyu",
+    "source_url": "https://palworld.fandom.com/wiki/Hangyu",
+    "page_missing": false
+  },
+  {
+    "name": "Woolipop",
+    "number": "039",
+    "group": "regular",
+    "folder": "pals/Woolipop",
+    "source_url": "https://palworld.fandom.com/wiki/Woolipop",
+    "page_missing": false
+  },
+  {
+    "name": "Mozzarina",
+    "number": "040",
+    "group": "regular",
+    "folder": "pals/Mozzarina",
+    "source_url": "https://palworld.fandom.com/wiki/Mozzarina",
+    "page_missing": false
+  },
+  {
+    "name": "Azurobe",
+    "number": "041",
+    "group": "regular",
+    "folder": "pals/Azurobe",
+    "source_url": "https://palworld.fandom.com/wiki/Azurobe",
+    "page_missing": false
+  },
+  {
+    "name": "Sparkit",
+    "number": "042",
+    "group": "regular",
+    "folder": "pals/Sparkit",
+    "source_url": "https://palworld.fandom.com/wiki/Sparkit",
+    "page_missing": false
+  },
+  {
+    "name": "Kelpsea",
+    "number": "043",
+    "group": "regular",
+    "folder": "pals/Kelpsea",
+    "source_url": "https://palworld.fandom.com/wiki/Kelpsea",
+    "page_missing": false
+  },
+  {
+    "name": "Ribbuny",
+    "number": "044",
+    "group": "regular",
+    "folder": "pals/Ribbuny",
+    "source_url": "https://palworld.fandom.com/wiki/Ribbuny",
+    "page_missing": false
+  },
+  {
+    "name": "Jelliette",
+    "number": "045",
+    "group": "regular",
+    "folder": "pals/Jelliette",
+    "source_url": "https://palworld.fandom.com/wiki/Jelliette",
+    "page_missing": false
+  },
+  {
+    "name": "Jellroy",
+    "number": "046",
+    "group": "regular",
+    "folder": "pals/Jellroy",
+    "source_url": "https://palworld.fandom.com/wiki/Jellroy",
+    "page_missing": false
+  },
+  {
+    "name": "Amione",
+    "number": "047",
+    "group": "regular",
+    "folder": "pals/Amione",
+    "source_url": "https://palworld.fandom.com/wiki/Amione",
+    "page_missing": false
+  },
+  {
+    "name": "Gloopie",
+    "number": "048",
+    "group": "regular",
+    "folder": "pals/Gloopie",
+    "source_url": "https://palworld.fandom.com/wiki/Gloopie",
+    "page_missing": false
+  },
+  {
+    "name": "Galeclaw",
+    "number": "049",
+    "group": "regular",
+    "folder": "pals/Galeclaw",
+    "source_url": "https://palworld.fandom.com/wiki/Galeclaw",
+    "page_missing": false
+  },
+  {
+    "name": "Wispaw",
+    "number": "050",
+    "group": "regular",
+    "folder": "pals/Wispaw",
+    "source_url": "https://palworld.fandom.com/wiki/Wispaw",
+    "page_missing": false
+  },
+  {
+    "name": "Nitewing",
+    "number": "051",
+    "group": "regular",
+    "folder": "pals/Nitewing",
+    "source_url": "https://palworld.fandom.com/wiki/Nitewing",
+    "page_missing": false
+  },
+  {
+    "name": "Tombat",
+    "number": "052",
+    "group": "regular",
+    "folder": "pals/Tombat",
+    "source_url": "https://palworld.fandom.com/wiki/Tombat",
+    "page_missing": false
+  },
+  {
+    "name": "Tocotoco",
+    "number": "053",
+    "group": "regular",
+    "folder": "pals/Tocotoco",
+    "source_url": "https://palworld.fandom.com/wiki/Tocotoco",
+    "page_missing": false
+  },
+  {
+    "name": "Univolt",
+    "number": "054",
+    "group": "regular",
+    "folder": "pals/Univolt",
+    "source_url": "https://palworld.fandom.com/wiki/Univolt",
+    "page_missing": false
+  },
+  {
+    "name": "Gobfin",
+    "number": "055",
+    "group": "regular",
+    "folder": "pals/Gobfin",
+    "source_url": "https://palworld.fandom.com/wiki/Gobfin",
+    "page_missing": false
+  },
+  {
+    "name": "Loupmoon",
+    "number": "056",
+    "group": "regular",
+    "folder": "pals/Loupmoon",
+    "source_url": "https://palworld.fandom.com/wiki/Loupmoon",
+    "page_missing": false
+  },
+  {
+    "name": "Cawgnito",
+    "number": "057",
+    "group": "regular",
+    "folder": "pals/Cawgnito",
+    "source_url": "https://palworld.fandom.com/wiki/Cawgnito",
+    "page_missing": false
+  },
+  {
+    "name": "Arsox",
+    "number": "058",
+    "group": "regular",
+    "folder": "pals/Arsox",
+    "source_url": "https://palworld.fandom.com/wiki/Arsox",
+    "page_missing": false
+  },
+  {
+    "name": "Muffly",
+    "number": "059",
+    "group": "regular",
+    "folder": "pals/Muffly",
+    "source_url": "https://palworld.fandom.com/wiki/Muffly",
+    "page_missing": false
+  },
+  {
+    "name": "Bristla",
+    "number": "060",
+    "group": "regular",
+    "folder": "pals/Bristla",
+    "source_url": "https://palworld.fandom.com/wiki/Bristla",
+    "page_missing": false
+  },
+  {
+    "name": "Cinnamoth",
+    "number": "061",
+    "group": "regular",
+    "folder": "pals/Cinnamoth",
+    "source_url": "https://palworld.fandom.com/wiki/Cinnamoth",
+    "page_missing": false
+  },
+  {
+    "name": "Puffolt",
+    "number": "062",
+    "group": "regular",
+    "folder": "pals/Puffolt",
+    "source_url": "https://palworld.fandom.com/wiki/Puffolt",
+    "page_missing": false
+  },
+  {
+    "name": "Elphidran",
+    "number": "063",
+    "group": "regular",
+    "folder": "pals/Elphidran",
+    "source_url": "https://palworld.fandom.com/wiki/Elphidran",
+    "page_missing": false
+  },
+  {
+    "name": "Vanwyrm",
+    "number": "064",
+    "group": "regular",
+    "folder": "pals/Vanwyrm",
+    "source_url": "https://palworld.fandom.com/wiki/Vanwyrm",
+    "page_missing": false
+  },
+  {
+    "name": "Felbat",
+    "number": "065",
+    "group": "regular",
+    "folder": "pals/Felbat",
+    "source_url": "https://palworld.fandom.com/wiki/Felbat",
+    "page_missing": false
+  },
+  {
+    "name": "Vaelet",
+    "number": "066",
+    "group": "regular",
+    "folder": "pals/Vaelet",
+    "source_url": "https://palworld.fandom.com/wiki/Vaelet",
+    "page_missing": false
+  },
+  {
+    "name": "Beegarde",
+    "number": "067",
+    "group": "regular",
+    "folder": "pals/Beegarde",
+    "source_url": "https://palworld.fandom.com/wiki/Beegarde",
+    "page_missing": false
+  },
+  {
+    "name": "Elizabee",
+    "number": "068",
+    "group": "regular",
+    "folder": "pals/Elizabee",
+    "source_url": "https://palworld.fandom.com/wiki/Elizabee",
+    "page_missing": false
+  },
+  {
+    "name": "Lovander",
+    "number": "069",
+    "group": "regular",
+    "folder": "pals/Lovander",
+    "source_url": "https://palworld.fandom.com/wiki/Lovander",
+    "page_missing": false
+  },
+  {
+    "name": "Grintale",
+    "number": "070",
+    "group": "regular",
+    "folder": "pals/Grintale",
+    "source_url": "https://palworld.fandom.com/wiki/Grintale",
+    "page_missing": false
+  },
+  {
+    "name": "Tarantriss",
+    "number": "071",
+    "group": "regular",
+    "folder": "pals/Tarantriss",
+    "source_url": "https://palworld.fandom.com/wiki/Tarantriss",
+    "page_missing": false
+  },
+  {
+    "name": "Polapup",
+    "number": "072",
+    "group": "regular",
+    "folder": "pals/Polapup",
+    "source_url": "https://palworld.fandom.com/wiki/Polapup",
+    "page_missing": false
+  },
+  {
+    "name": "Leezpunk",
+    "number": "073",
+    "group": "regular",
+    "folder": "pals/Leezpunk",
+    "source_url": "https://palworld.fandom.com/wiki/Leezpunk",
+    "page_missing": false
+  },
+  {
+    "name": "Gorirat",
+    "number": "074",
+    "group": "regular",
+    "folder": "pals/Gorirat",
+    "source_url": "https://palworld.fandom.com/wiki/Gorirat",
+    "page_missing": false
+  },
+  {
+    "name": "Surfent",
+    "number": "075",
+    "group": "regular",
+    "folder": "pals/Surfent",
+    "source_url": "https://palworld.fandom.com/wiki/Surfent",
+    "page_missing": false
+  },
+  {
+    "name": "Robinquill",
+    "number": "076",
+    "group": "regular",
+    "folder": "pals/Robinquill",
+    "source_url": "https://palworld.fandom.com/wiki/Robinquill",
+    "page_missing": false
+  },
+  {
+    "name": "Flopie",
+    "number": "077",
+    "group": "regular",
+    "folder": "pals/Flopie",
+    "source_url": "https://palworld.fandom.com/wiki/Flopie",
+    "page_missing": false
+  },
+  {
+    "name": "Wixen",
+    "number": "078",
+    "group": "regular",
+    "folder": "pals/Wixen",
+    "source_url": "https://palworld.fandom.com/wiki/Wixen",
+    "page_missing": false
+  },
+  {
+    "name": "Wixen Noct",
+    "number": "078B",
+    "group": "regular",
+    "folder": "pals/Wixen Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Wixen_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Katress",
+    "number": "079",
+    "group": "regular",
+    "folder": "pals/Katress",
+    "source_url": "https://palworld.fandom.com/wiki/Katress",
+    "page_missing": false
+  },
+  {
+    "name": "Helzephyr",
+    "number": "080",
+    "group": "regular",
+    "folder": "pals/Helzephyr",
+    "source_url": "https://palworld.fandom.com/wiki/Helzephyr",
+    "page_missing": false
+  },
+  {
+    "name": "Elgrove",
+    "number": "081",
+    "group": "regular",
+    "folder": "pals/Elgrove",
+    "source_url": "https://palworld.fandom.com/wiki/Elgrove",
+    "page_missing": false
+  },
+  {
+    "name": "Lunaris",
+    "number": "082",
+    "group": "regular",
+    "folder": "pals/Lunaris",
+    "source_url": "https://palworld.fandom.com/wiki/Lunaris",
+    "page_missing": false
+  },
+  {
+    "name": "Fenglope",
+    "number": "083",
+    "group": "regular",
+    "folder": "pals/Fenglope",
+    "source_url": "https://palworld.fandom.com/wiki/Fenglope",
+    "page_missing": false
+  },
+  {
+    "name": "Dinossom",
+    "number": "084",
+    "group": "regular",
+    "folder": "pals/Dinossom",
+    "source_url": "https://palworld.fandom.com/wiki/Dinossom",
+    "page_missing": false
+  },
+  {
+    "name": "Bushi",
+    "number": "085",
+    "group": "regular",
+    "folder": "pals/Bushi",
+    "source_url": "https://palworld.fandom.com/wiki/Bushi",
+    "page_missing": false
+  },
+  {
+    "name": "Munchill",
+    "number": "086",
+    "group": "regular",
+    "folder": "pals/Munchill",
+    "source_url": "https://palworld.fandom.com/wiki/Munchill",
+    "page_missing": false
+  },
+  {
+    "name": "Mammorest",
+    "number": "087",
+    "group": "regular",
+    "folder": "pals/Mammorest",
+    "source_url": "https://palworld.fandom.com/wiki/Mammorest",
+    "page_missing": false
+  },
+  {
+    "name": "Finsider",
+    "number": "088",
+    "group": "regular",
+    "folder": "pals/Finsider",
+    "source_url": "https://palworld.fandom.com/wiki/Finsider",
+    "page_missing": false
+  },
+  {
+    "name": "Petallia",
+    "number": "089",
+    "group": "regular",
+    "folder": "pals/Petallia",
+    "source_url": "https://palworld.fandom.com/wiki/Petallia",
+    "page_missing": false
+  },
+  {
+    "name": "Leafan",
+    "number": "090",
+    "group": "regular",
+    "folder": "pals/Leafan",
+    "source_url": "https://palworld.fandom.com/wiki/Leafan",
+    "page_missing": false
+  },
+  {
+    "name": "Incineram",
+    "number": "091",
+    "group": "regular",
+    "folder": "pals/Incineram",
+    "source_url": "https://palworld.fandom.com/wiki/Incineram",
+    "page_missing": false
+  },
+  {
+    "name": "Dazzi",
+    "number": "092",
+    "group": "regular",
+    "folder": "pals/Dazzi",
+    "source_url": "https://palworld.fandom.com/wiki/Dazzi",
+    "page_missing": false
+  },
+  {
+    "name": "Pyrin",
+    "number": "093",
+    "group": "regular",
+    "folder": "pals/Pyrin",
+    "source_url": "https://palworld.fandom.com/wiki/Pyrin",
+    "page_missing": false
+  },
+  {
+    "name": "Relaxaurus",
+    "number": "094",
+    "group": "regular",
+    "folder": "pals/Relaxaurus",
+    "source_url": "https://palworld.fandom.com/wiki/Relaxaurus",
+    "page_missing": false
+  },
+  {
+    "name": "Foxcicle",
+    "number": "095",
+    "group": "regular",
+    "folder": "pals/Foxcicle",
+    "source_url": "https://palworld.fandom.com/wiki/Foxcicle",
+    "page_missing": false
+  },
+  {
+    "name": "Beakon",
+    "number": "096",
+    "group": "regular",
+    "folder": "pals/Beakon",
+    "source_url": "https://palworld.fandom.com/wiki/Beakon",
+    "page_missing": false
+  },
+  {
+    "name": "Ghangler",
+    "number": "097",
+    "group": "regular",
+    "folder": "pals/Ghangler",
+    "source_url": "https://palworld.fandom.com/wiki/Ghangler",
+    "page_missing": false
+  },
+  {
+    "name": "Rayhound",
+    "number": "098",
+    "group": "regular",
+    "folder": "pals/Rayhound",
+    "source_url": "https://palworld.fandom.com/wiki/Rayhound",
+    "page_missing": false
+  },
+  {
+    "name": "Menasting",
+    "number": "099",
+    "group": "regular",
+    "folder": "pals/Menasting",
+    "source_url": "https://palworld.fandom.com/wiki/Menasting",
+    "page_missing": false
+  },
+  {
+    "name": "Needoll",
+    "number": "100",
+    "group": "regular",
+    "folder": "pals/Needoll",
+    "source_url": "https://palworld.fandom.com/wiki/Needoll",
+    "page_missing": false
+  },
+  {
+    "name": "Reindrix",
+    "number": "101",
+    "group": "regular",
+    "folder": "pals/Reindrix",
+    "source_url": "https://palworld.fandom.com/wiki/Reindrix",
+    "page_missing": false
+  },
+  {
+    "name": "Mossanda",
+    "number": "102",
+    "group": "regular",
+    "folder": "pals/Mossanda",
+    "source_url": "https://palworld.fandom.com/wiki/Mossanda",
+    "page_missing": false
+  },
+  {
+    "name": "Chillet",
+    "number": "103B",
+    "group": "regular",
+    "folder": "pals/Chillet",
+    "source_url": "https://palworld.fandom.com/wiki/Chillet",
+    "page_missing": false
+  },
+  {
+    "name": "Ragnahawk",
+    "number": "104",
+    "group": "regular",
+    "folder": "pals/Ragnahawk",
+    "source_url": "https://palworld.fandom.com/wiki/Ragnahawk",
+    "page_missing": false
+  },
+  {
+    "name": "Moldron",
+    "number": "105",
+    "group": "regular",
+    "folder": "pals/Moldron",
+    "source_url": "https://palworld.fandom.com/wiki/Moldron",
+    "page_missing": false
+  },
+  {
+    "name": "Palumba",
+    "number": "106",
+    "group": "regular",
+    "folder": "pals/Palumba",
+    "source_url": "https://palworld.fandom.com/wiki/Palumba",
+    "page_missing": false
+  },
+  {
+    "name": "Digtoise",
+    "number": "107",
+    "group": "regular",
+    "folder": "pals/Digtoise",
+    "source_url": "https://palworld.fandom.com/wiki/Digtoise",
+    "page_missing": false
+  },
+  {
+    "name": "Broncherry",
+    "number": "108",
+    "group": "regular",
+    "folder": "pals/Broncherry",
+    "source_url": "https://palworld.fandom.com/wiki/Broncherry",
+    "page_missing": false
+  },
+  {
+    "name": "Dumud",
+    "number": "109",
+    "group": "regular",
+    "folder": "pals/Dumud",
+    "source_url": "https://palworld.fandom.com/wiki/Dumud",
+    "page_missing": false
+  },
+  {
+    "name": "Braloha",
+    "number": "110",
+    "group": "regular",
+    "folder": "pals/Braloha",
+    "source_url": "https://palworld.fandom.com/wiki/Braloha",
+    "page_missing": false
+  },
+  {
+    "name": "Kitsun",
+    "number": "111",
+    "group": "regular",
+    "folder": "pals/Kitsun",
+    "source_url": "https://palworld.fandom.com/wiki/Kitsun",
+    "page_missing": false
+  },
+  {
+    "name": "Blazehowl",
+    "number": "112",
+    "group": "regular",
+    "folder": "pals/Blazehowl",
+    "source_url": "https://palworld.fandom.com/wiki/Blazehowl",
+    "page_missing": false
+  },
+  {
+    "name": "Warsect",
+    "number": "113",
+    "group": "regular",
+    "folder": "pals/Warsect",
+    "source_url": "https://palworld.fandom.com/wiki/Warsect",
+    "page_missing": false
+  },
+  {
+    "name": "Frostplume",
+    "number": "114",
+    "group": "regular",
+    "folder": "pals/Frostplume",
+    "source_url": "https://palworld.fandom.com/wiki/Frostplume",
+    "page_missing": false
+  },
+  {
+    "name": "Majex",
+    "number": "115",
+    "group": "regular",
+    "folder": "pals/Majex",
+    "source_url": "https://palworld.fandom.com/wiki/Majex",
+    "page_missing": false
+  },
+  {
+    "name": "Sibelyx",
+    "number": "116",
+    "group": "regular",
+    "folder": "pals/Sibelyx",
+    "source_url": "https://palworld.fandom.com/wiki/Sibelyx",
+    "page_missing": false
+  },
+  {
+    "name": "Maraith",
+    "number": "117",
+    "group": "regular",
+    "folder": "pals/Maraith",
+    "source_url": "https://palworld.fandom.com/wiki/Maraith",
+    "page_missing": false
+  },
+  {
+    "name": "Shroomer",
+    "number": "118",
+    "group": "regular",
+    "folder": "pals/Shroomer",
+    "source_url": "https://palworld.fandom.com/wiki/Shroomer",
+    "page_missing": false
+  },
+  {
+    "name": "Icelyn",
+    "number": "119",
+    "group": "regular",
+    "folder": "pals/Icelyn",
+    "source_url": "https://palworld.fandom.com/wiki/Icelyn",
+    "page_missing": false
+  },
+  {
+    "name": "Gildra",
+    "number": "120",
+    "group": "regular",
+    "folder": "pals/Gildra",
+    "source_url": "https://palworld.fandom.com/wiki/Gildra",
+    "page_missing": false
+  },
+  {
+    "name": "Jormuntide",
+    "number": "121",
+    "group": "regular",
+    "folder": "pals/Jormuntide",
+    "source_url": "https://palworld.fandom.com/wiki/Jormuntide",
+    "page_missing": false
+  },
+  {
+    "name": "Suzaku",
+    "number": "122",
+    "group": "regular",
+    "folder": "pals/Suzaku",
+    "source_url": "https://palworld.fandom.com/wiki/Suzaku",
+    "page_missing": false
+  },
+  {
+    "name": "Dazemu",
+    "number": "123",
+    "group": "regular",
+    "folder": "pals/Dazemu",
+    "source_url": "https://palworld.fandom.com/wiki/Dazemu",
+    "page_missing": false
+  },
+  {
+    "name": "Quivern",
+    "number": "124",
+    "group": "regular",
+    "folder": "pals/Quivern",
+    "source_url": "https://palworld.fandom.com/wiki/Quivern",
+    "page_missing": false
+  },
+  {
+    "name": "Lullu",
+    "number": "125",
+    "group": "regular",
+    "folder": "pals/Lullu",
+    "source_url": "https://palworld.fandom.com/wiki/Lullu",
+    "page_missing": false
+  },
+  {
+    "name": "Kikit",
+    "number": "126",
+    "group": "regular",
+    "folder": "pals/Kikit",
+    "source_url": "https://palworld.fandom.com/wiki/Kikit",
+    "page_missing": false
+  },
+  {
+    "name": "Yakumo",
+    "number": "127",
+    "group": "regular",
+    "folder": "pals/Yakumo",
+    "source_url": "https://palworld.fandom.com/wiki/Yakumo",
+    "page_missing": false
+  },
+  {
+    "name": "Skutlass",
+    "number": "128",
+    "group": "regular",
+    "folder": "pals/Skutlass",
+    "source_url": "https://palworld.fandom.com/wiki/Skutlass",
+    "page_missing": false
+  },
+  {
+    "name": "Reptyro",
+    "number": "129",
+    "group": "regular",
+    "folder": "pals/Reptyro",
+    "source_url": "https://palworld.fandom.com/wiki/Reptyro",
+    "page_missing": false
+  },
+  {
+    "name": "Starryon",
+    "number": "130",
+    "group": "regular",
+    "folder": "pals/Starryon",
+    "source_url": "https://palworld.fandom.com/wiki/Starryon",
+    "page_missing": false
+  },
+  {
+    "name": "Pierdon",
+    "number": "131",
+    "group": "regular",
+    "folder": "pals/Pierdon",
+    "source_url": "https://palworld.fandom.com/wiki/Pierdon",
+    "page_missing": false
+  },
+  {
+    "name": "Cryolinx",
+    "number": "132",
+    "group": "regular",
+    "folder": "pals/Cryolinx",
+    "source_url": "https://palworld.fandom.com/wiki/Cryolinx",
+    "page_missing": false
+  },
+  {
+    "name": "Snugloo",
+    "number": "133",
+    "group": "regular",
+    "folder": "pals/Snugloo",
+    "source_url": "https://palworld.fandom.com/wiki/Snugloo",
+    "page_missing": false
+  },
+  {
+    "name": "Wumpo",
+    "number": "134",
+    "group": "regular",
+    "folder": "pals/Wumpo",
+    "source_url": "https://palworld.fandom.com/wiki/Wumpo",
+    "page_missing": false
+  },
+  {
+    "name": "Sootseer",
+    "number": "135",
+    "group": "regular",
+    "folder": "pals/Sootseer",
+    "source_url": "https://palworld.fandom.com/wiki/Sootseer",
+    "page_missing": false
+  },
+  {
+    "name": "Carnibora",
+    "number": "136",
+    "group": "regular",
+    "folder": "pals/Carnibora",
+    "source_url": "https://palworld.fandom.com/wiki/Carnibora",
+    "page_missing": false
+  },
+  {
+    "name": "Blazamut",
+    "number": "137",
+    "group": "regular",
+    "folder": "pals/Blazamut",
+    "source_url": "https://palworld.fandom.com/wiki/Blazamut",
+    "page_missing": false
+  },
+  {
+    "name": "Dualith",
+    "number": "138",
+    "group": "regular",
+    "folder": "pals/Dualith",
+    "source_url": "https://palworld.fandom.com/wiki/Dualith",
+    "page_missing": false
+  },
+  {
+    "name": "Anubis",
+    "number": "139",
+    "group": "regular",
+    "folder": "pals/Anubis",
+    "source_url": "https://palworld.fandom.com/wiki/Anubis",
+    "page_missing": false
+  },
+  {
+    "name": "Sekhmet",
+    "number": "140",
+    "group": "regular",
+    "folder": "pals/Sekhmet",
+    "source_url": "https://palworld.fandom.com/wiki/Sekhmet",
+    "page_missing": false
+  },
+  {
+    "name": "Prixter",
+    "number": "141",
+    "group": "regular",
+    "folder": "pals/Prixter",
+    "source_url": "https://palworld.fandom.com/wiki/Prixter",
+    "page_missing": false
+  },
+  {
+    "name": "Tetroise",
+    "number": "142",
+    "group": "regular",
+    "folder": "pals/Tetroise",
+    "source_url": "https://palworld.fandom.com/wiki/Tetroise",
+    "page_missing": false
+  },
+  {
+    "name": "Nyafia",
+    "number": "143",
+    "group": "regular",
+    "folder": "pals/Nyafia",
+    "source_url": "https://palworld.fandom.com/wiki/Nyafia",
+    "page_missing": false
+  },
+  {
+    "name": "Mimog",
+    "number": "144",
+    "group": "regular",
+    "folder": "pals/Mimog",
+    "source_url": "https://palworld.fandom.com/wiki/Mimog",
+    "page_missing": false
+  },
+  {
+    "name": "Xenovader",
+    "number": "145",
+    "group": "regular",
+    "folder": "pals/Xenovader",
+    "source_url": "https://palworld.fandom.com/wiki/Xenovader",
+    "page_missing": false
+  },
+  {
+    "name": "Xenogard",
+    "number": "146",
+    "group": "regular",
+    "folder": "pals/Xenogard",
+    "source_url": "https://palworld.fandom.com/wiki/Xenogard",
+    "page_missing": false
+  },
+  {
+    "name": "Prunelia",
+    "number": "147",
+    "group": "regular",
+    "folder": "pals/Prunelia",
+    "source_url": "https://palworld.fandom.com/wiki/Prunelia",
+    "page_missing": false
+  },
+  {
+    "name": "Nitemary",
+    "number": "148",
+    "group": "regular",
+    "folder": "pals/Nitemary",
+    "source_url": "https://palworld.fandom.com/wiki/Nitemary",
+    "page_missing": false
+  },
+  {
+    "name": "Smokie",
+    "number": "149",
+    "group": "regular",
+    "folder": "pals/Smokie",
+    "source_url": "https://palworld.fandom.com/wiki/Smokie",
+    "page_missing": false
+  },
+  {
+    "name": "Omascul",
+    "number": "150",
+    "group": "regular",
+    "folder": "pals/Omascul",
+    "source_url": "https://palworld.fandom.com/wiki/Omascul",
+    "page_missing": false
+  },
+  {
+    "name": "Whalaska",
+    "number": "151",
+    "group": "regular",
+    "folder": "pals/Whalaska",
+    "source_url": "https://palworld.fandom.com/wiki/Whalaska",
+    "page_missing": false
+  },
+  {
+    "name": "Verdash",
+    "number": "152",
+    "group": "regular",
+    "folder": "pals/Verdash",
+    "source_url": "https://palworld.fandom.com/wiki/Verdash",
+    "page_missing": false
+  },
+  {
+    "name": "Splatterina",
+    "number": "153",
+    "group": "regular",
+    "folder": "pals/Splatterina",
+    "source_url": "https://palworld.fandom.com/wiki/Splatterina",
+    "page_missing": false
+  },
+  {
+    "name": "Gildane",
+    "number": "154",
+    "group": "regular",
+    "folder": "pals/Gildane",
+    "source_url": "https://palworld.fandom.com/wiki/Gildane",
+    "page_missing": false
+  },
+  {
+    "name": "Dogen",
+    "number": "155",
+    "group": "regular",
+    "folder": "pals/Dogen",
+    "source_url": "https://palworld.fandom.com/wiki/Dogen",
+    "page_missing": false
+  },
+  {
+    "name": "Bulldosu",
+    "number": "156",
+    "group": "regular",
+    "folder": "pals/Bulldosu",
+    "source_url": "https://palworld.fandom.com/wiki/Bulldosu",
+    "page_missing": false
+  },
+  {
+    "name": "Celesdir",
+    "number": "157",
+    "group": "regular",
+    "folder": "pals/Celesdir",
+    "source_url": "https://palworld.fandom.com/wiki/Celesdir",
+    "page_missing": false
+  },
+  {
+    "name": "Astegon",
+    "number": "158",
+    "group": "regular",
+    "folder": "pals/Astegon",
+    "source_url": "https://palworld.fandom.com/wiki/Astegon",
+    "page_missing": false
+  },
+  {
+    "name": "Knocklem",
+    "number": "159",
+    "group": "regular",
+    "folder": "pals/Knocklem",
+    "source_url": "https://palworld.fandom.com/wiki/Knocklem",
+    "page_missing": false
+  },
+  {
+    "name": "Silvegis",
+    "number": "160",
+    "group": "regular",
+    "folder": "pals/Silvegis",
+    "source_url": "https://palworld.fandom.com/wiki/Silvegis",
+    "page_missing": false
+  },
+  {
+    "name": "Azurmane",
+    "number": "161",
+    "group": "regular",
+    "folder": "pals/Azurmane",
+    "source_url": "https://palworld.fandom.com/wiki/Azurmane",
+    "page_missing": false
+  },
+  {
+    "name": "Valentail",
+    "number": "162",
+    "group": "regular",
+    "folder": "pals/Valentail",
+    "source_url": "https://palworld.fandom.com/wiki/Valentail",
+    "page_missing": false
+  },
+  {
+    "name": "Snock",
+    "number": "163",
+    "group": "regular",
+    "folder": "pals/Snock",
+    "source_url": "https://palworld.fandom.com/wiki/Snock",
+    "page_missing": false
+  },
+  {
+    "name": "Souffline",
+    "number": "164",
+    "group": "regular",
+    "folder": "pals/Souffline",
+    "source_url": "https://palworld.fandom.com/wiki/Souffline",
+    "page_missing": false
+  },
+  {
+    "name": "Lapiron",
+    "number": "165",
+    "group": "regular",
+    "folder": "pals/Lapiron",
+    "source_url": "https://palworld.fandom.com/wiki/Lapiron",
+    "page_missing": false
+  },
+  {
+    "name": "Hoodle",
+    "number": "166",
+    "group": "regular",
+    "folder": "pals/Hoodle",
+    "source_url": "https://palworld.fandom.com/wiki/Hoodle",
+    "page_missing": false
+  },
+  {
+    "name": "Slowatt",
+    "number": "167",
+    "group": "regular",
+    "folder": "pals/Slowatt",
+    "source_url": "https://palworld.fandom.com/wiki/Slowatt",
+    "page_missing": false
+  },
+  {
+    "name": "Bakemi",
+    "number": "168",
+    "group": "regular",
+    "folder": "pals/Bakemi",
+    "source_url": "https://palworld.fandom.com/wiki/Bakemi",
+    "page_missing": false
+  },
+  {
+    "name": "Solmora",
+    "number": "169",
+    "group": "regular",
+    "folder": "pals/Solmora",
+    "source_url": "https://palworld.fandom.com/wiki/Solmora",
+    "page_missing": false
+  },
+  {
+    "name": "Lapure",
+    "number": "170",
+    "group": "regular",
+    "folder": "pals/Lapure",
+    "source_url": "https://palworld.fandom.com/wiki/Lapure",
+    "page_missing": false
+  },
+  {
+    "name": "Eidrolon",
+    "number": "171",
+    "group": "regular",
+    "folder": "pals/Eidrolon",
+    "source_url": "https://palworld.fandom.com/wiki/Eidrolon",
+    "page_missing": false
+  },
+  {
+    "name": "Dynamoff",
+    "number": "172",
+    "group": "regular",
+    "folder": "pals/Dynamoff",
+    "source_url": "https://palworld.fandom.com/wiki/Dynamoff",
+    "page_missing": false
+  },
+  {
+    "name": "Tropicaw",
+    "number": "173",
+    "group": "regular",
+    "folder": "pals/Tropicaw",
+    "source_url": "https://palworld.fandom.com/wiki/Tropicaw",
+    "page_missing": false
+  },
+  {
+    "name": "Flaracle",
+    "number": "174",
+    "group": "regular",
+    "folder": "pals/Flaracle",
+    "source_url": "https://palworld.fandom.com/wiki/Flaracle",
+    "page_missing": false
+  },
+  {
+    "name": "Ophydia",
+    "number": "175",
+    "group": "regular",
+    "folder": "pals/Ophydia",
+    "source_url": "https://palworld.fandom.com/wiki/Ophydia",
+    "page_missing": false
+  },
+  {
+    "name": "Dupin",
+    "number": "176",
+    "group": "regular",
+    "folder": "pals/Dupin",
+    "source_url": "https://palworld.fandom.com/wiki/Dupin",
+    "page_missing": false
+  },
+  {
+    "name": "Roujay",
+    "number": "177",
+    "group": "regular",
+    "folder": "pals/Roujay",
+    "source_url": "https://palworld.fandom.com/wiki/Roujay",
+    "page_missing": false
+  },
+  {
+    "name": "Venusa",
+    "number": "178",
+    "group": "regular",
+    "folder": "pals/Venusa",
+    "source_url": "https://palworld.fandom.com/wiki/Venusa",
+    "page_missing": false
+  },
+  {
+    "name": "Mycora",
+    "number": "179",
+    "group": "regular",
+    "folder": "pals/Mycora",
+    "source_url": "https://palworld.fandom.com/wiki/Mycora",
+    "page_missing": false
+  },
+  {
+    "name": "Loomen",
+    "number": "180",
+    "group": "regular",
+    "folder": "pals/Loomen",
+    "source_url": "https://palworld.fandom.com/wiki/Loomen",
+    "page_missing": false
+  },
+  {
+    "name": "Wistella",
+    "number": "181",
+    "group": "regular",
+    "folder": "pals/Wistella",
+    "source_url": "https://palworld.fandom.com/wiki/Wistella",
+    "page_missing": false
+  },
+  {
+    "name": "Solenne",
+    "number": "182",
+    "group": "regular",
+    "folder": "pals/Solenne",
+    "source_url": "https://palworld.fandom.com/wiki/Solenne",
+    "page_missing": false
+  },
+  {
+    "name": "Renjishi",
+    "number": "183",
+    "group": "regular",
+    "folder": "pals/Renjishi",
+    "source_url": "https://palworld.fandom.com/wiki/Renjishi",
+    "page_missing": false
+  },
+  {
+    "name": "Aegidron",
+    "number": "184",
+    "group": "regular",
+    "folder": "pals/Aegidron",
+    "source_url": "https://palworld.fandom.com/wiki/Aegidron",
+    "page_missing": false
+  },
+  {
+    "name": "Grizzbolt",
+    "number": "185",
+    "group": "regular",
+    "folder": "pals/Grizzbolt",
+    "source_url": "https://palworld.fandom.com/wiki/Grizzbolt",
+    "page_missing": false
+  },
+  {
+    "name": "Lyleen",
+    "number": "186",
+    "group": "regular",
+    "folder": "pals/Lyleen",
+    "source_url": "https://palworld.fandom.com/wiki/Lyleen",
+    "page_missing": false
+  },
+  {
+    "name": "Orserk",
+    "number": "187",
+    "group": "regular",
+    "folder": "pals/Orserk",
+    "source_url": "https://palworld.fandom.com/wiki/Orserk",
+    "page_missing": false
+  },
+  {
+    "name": "Faleris",
+    "number": "188",
+    "group": "regular",
+    "folder": "pals/Faleris",
+    "source_url": "https://palworld.fandom.com/wiki/Faleris",
+    "page_missing": false
+  },
+  {
+    "name": "Shadowbeak",
+    "number": "189",
+    "group": "regular",
+    "folder": "pals/Shadowbeak",
+    "source_url": "https://palworld.fandom.com/wiki/Shadowbeak",
+    "page_missing": false
+  },
+  {
+    "name": "Selyne",
+    "number": "190",
+    "group": "regular",
+    "folder": "pals/Selyne",
+    "source_url": "https://palworld.fandom.com/wiki/Selyne",
+    "page_missing": false
+  },
+  {
+    "name": "Bastigor",
+    "number": "191",
+    "group": "regular",
+    "folder": "pals/Bastigor",
+    "source_url": "https://palworld.fandom.com/wiki/Bastigor",
+    "page_missing": false
+  },
+  {
+    "name": "Shaolong",
+    "number": "192",
+    "group": "regular",
+    "folder": "pals/Shaolong",
+    "source_url": "https://palworld.fandom.com/wiki/Shaolong",
+    "page_missing": false
+  },
+  {
+    "name": "Silvance",
+    "number": "193",
+    "group": "regular",
+    "folder": "pals/Silvance",
+    "source_url": "https://palworld.fandom.com/wiki/Silvance",
+    "page_missing": false
+  },
+  {
+    "name": "Dandilord",
+    "number": "194",
+    "group": "regular",
+    "folder": "pals/Dandilord",
+    "source_url": "https://palworld.fandom.com/wiki/Dandilord",
+    "page_missing": false
+  },
+  {
+    "name": "Bellanoir",
+    "number": "195",
+    "group": "regular",
+    "folder": "pals/Bellanoir",
+    "source_url": "https://palworld.fandom.com/wiki/Bellanoir",
+    "page_missing": false
+  },
+  {
+    "name": "Xenolord",
+    "number": "196",
+    "group": "regular",
+    "folder": "pals/Xenolord",
+    "source_url": "https://palworld.fandom.com/wiki/Xenolord",
+    "page_missing": false
+  },
+  {
+    "name": "Hartalis",
+    "number": "197",
+    "group": "regular",
+    "folder": "pals/Hartalis",
+    "source_url": "https://palworld.fandom.com/wiki/Hartalis",
+    "page_missing": false
+  },
+  {
+    "name": "Paladius",
+    "number": "198",
+    "group": "regular",
+    "folder": "pals/Paladius",
+    "source_url": "https://palworld.fandom.com/wiki/Paladius",
+    "page_missing": false
+  },
+  {
+    "name": "Necromus",
+    "number": "199",
+    "group": "regular",
+    "folder": "pals/Necromus",
+    "source_url": "https://palworld.fandom.com/wiki/Necromus",
+    "page_missing": false
+  },
+  {
+    "name": "Frostallion",
+    "number": "200",
+    "group": "regular",
+    "folder": "pals/Frostallion",
+    "source_url": "https://palworld.fandom.com/wiki/Frostallion",
+    "page_missing": false
+  },
+  {
+    "name": "Neptilius",
+    "number": "201",
+    "group": "regular",
+    "folder": "pals/Neptilius",
+    "source_url": "https://palworld.fandom.com/wiki/Neptilius",
+    "page_missing": false
+  },
+  {
+    "name": "Jetragon",
+    "number": "202",
+    "group": "regular",
+    "folder": "pals/Jetragon",
+    "source_url": "https://palworld.fandom.com/wiki/Jetragon",
+    "page_missing": false
+  },
+  {
+    "name": "Panthalus",
+    "number": "203",
+    "group": "regular",
+    "folder": "pals/Panthalus",
+    "source_url": "https://palworld.fandom.com/wiki/Panthalus",
+    "page_missing": false
+  },
+  {
+    "name": "Astralym",
+    "number": "204",
+    "group": "regular",
+    "folder": "pals/Astralym",
+    "source_url": "https://palworld.fandom.com/wiki/Astralym",
+    "page_missing": false
+  },
+  {
+    "name": "Fuack Ignis",
+    "number": "005B",
+    "group": "variants",
+    "folder": "pals/Fuack Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Fuack_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Celaray Lux",
+    "number": "007B",
+    "group": "variants",
+    "folder": "pals/Celaray Lux",
+    "source_url": "https://palworld.fandom.com/wiki/Celaray_Lux",
+    "page_missing": false
+  },
+  {
+    "name": "Croajiro Noct",
+    "number": "009B",
+    "group": "variants",
+    "folder": "pals/Croajiro Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Croajiro_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Jolthog Cryst",
+    "number": "015B",
+    "group": "variants",
+    "folder": "pals/Jolthog Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Jolthog_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Pengullet Lux",
+    "number": "017B",
+    "group": "variants",
+    "folder": "pals/Pengullet Lux",
+    "source_url": "https://palworld.fandom.com/wiki/Pengullet_Lux",
+    "page_missing": false
+  },
+  {
+    "name": "Penking Lux",
+    "number": "018B",
+    "group": "variants",
+    "folder": "pals/Penking Lux",
+    "source_url": "https://palworld.fandom.com/wiki/Penking_Lux",
+    "page_missing": false
+  },
+  {
+    "name": "Kingpaca Cryst",
+    "number": "021B",
+    "group": "variants",
+    "folder": "pals/Kingpaca Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Kingpaca_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Tanzee Ignis",
+    "number": "023B",
+    "group": "variants",
+    "folder": "pals/Tanzee Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Tanzee_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Foxparks Cryst",
+    "number": "029B",
+    "group": "variants",
+    "folder": "pals/Foxparks Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Foxparks_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Killamari Primo",
+    "number": "030B",
+    "group": "variants",
+    "folder": "pals/Killamari Primo",
+    "source_url": "https://palworld.fandom.com/wiki/Killamari_Primo",
+    "page_missing": false
+  },
+  {
+    "name": "Eikthyrdeer Terra",
+    "number": "032B",
+    "group": "variants",
+    "folder": "pals/Eikthyrdeer Terra",
+    "source_url": "https://palworld.fandom.com/wiki/Eikthyrdeer_Terra",
+    "page_missing": false
+  },
+  {
+    "name": "Caprity Noct",
+    "number": "034B",
+    "group": "variants",
+    "folder": "pals/Caprity Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Caprity_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Turtacle Terra",
+    "number": "037B",
+    "group": "variants",
+    "folder": "pals/Turtacle Terra",
+    "source_url": "https://palworld.fandom.com/wiki/Turtacle_Terra",
+    "page_missing": false
+  },
+  {
+    "name": "Hangyu Cryst",
+    "number": "038B",
+    "group": "variants",
+    "folder": "pals/Hangyu Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Hangyu_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Woolipop Terra",
+    "number": "039B",
+    "group": "variants",
+    "folder": "pals/Woolipop Terra",
+    "source_url": "https://palworld.fandom.com/wiki/Woolipop_Terra",
+    "page_missing": false
+  },
+  {
+    "name": "Azurobe Cryst",
+    "number": "041B",
+    "group": "variants",
+    "folder": "pals/Azurobe Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Azurobe_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Kelpsea Ignis",
+    "number": "043B",
+    "group": "variants",
+    "folder": "pals/Kelpsea Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Kelpsea_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Ribbuny Botan",
+    "number": "044B",
+    "group": "variants",
+    "folder": "pals/Ribbuny Botan",
+    "source_url": "https://palworld.fandom.com/wiki/Ribbuny_Botan",
+    "page_missing": false
+  },
+  {
+    "name": "Gloopie Primo",
+    "number": "048B",
+    "group": "variants",
+    "folder": "pals/Gloopie Primo",
+    "source_url": "https://palworld.fandom.com/wiki/Gloopie_Primo",
+    "page_missing": false
+  },
+  {
+    "name": "Univolt Cryst",
+    "number": "054B",
+    "group": "variants",
+    "folder": "pals/Univolt Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Univolt_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Gobfin Ignis",
+    "number": "055B",
+    "group": "variants",
+    "folder": "pals/Gobfin Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Gobfin_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Loupmoon Cryst",
+    "number": "056B",
+    "group": "variants",
+    "folder": "pals/Loupmoon Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Loupmoon_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Elphidran Aqua",
+    "number": "063B",
+    "group": "variants",
+    "folder": "pals/Elphidran Aqua",
+    "source_url": "https://palworld.fandom.com/wiki/Elphidran_Aqua",
+    "page_missing": false
+  },
+  {
+    "name": "Vanwyrm Cryst",
+    "number": "064B",
+    "group": "variants",
+    "folder": "pals/Vanwyrm Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Vanwyrm_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Polapup Terra",
+    "number": "072B",
+    "group": "variants",
+    "folder": "pals/Polapup Terra",
+    "source_url": "https://palworld.fandom.com/wiki/Polapup_Terra",
+    "page_missing": false
+  },
+  {
+    "name": "Leezpunk Ignis",
+    "number": "073B",
+    "group": "variants",
+    "folder": "pals/Leezpunk Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Leezpunk_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Gorirat Terra",
+    "number": "074B",
+    "group": "variants",
+    "folder": "pals/Gorirat Terra",
+    "source_url": "https://palworld.fandom.com/wiki/Gorirat_Terra",
+    "page_missing": false
+  },
+  {
+    "name": "Surfent Terra",
+    "number": "075B",
+    "group": "variants",
+    "folder": "pals/Surfent Terra",
+    "source_url": "https://palworld.fandom.com/wiki/Surfent_Terra",
+    "page_missing": false
+  },
+  {
+    "name": "Robinquill Terra",
+    "number": "076B",
+    "group": "variants",
+    "folder": "pals/Robinquill Terra",
+    "source_url": "https://palworld.fandom.com/wiki/Robinquill_Terra",
+    "page_missing": false
+  },
+  {
+    "name": "Katress Ignis",
+    "number": "079B",
+    "group": "variants",
+    "folder": "pals/Katress Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Katress_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Helzephyr Lux",
+    "number": "080B",
+    "group": "variants",
+    "folder": "pals/Helzephyr Lux",
+    "source_url": "https://palworld.fandom.com/wiki/Helzephyr_Lux",
+    "page_missing": false
+  },
+  {
+    "name": "Elgrove Cryst",
+    "number": "081B",
+    "group": "variants",
+    "folder": "pals/Elgrove Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Elgrove_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Fenglope Lux",
+    "number": "083B",
+    "group": "variants",
+    "folder": "pals/Fenglope Lux",
+    "source_url": "https://palworld.fandom.com/wiki/Fenglope_Lux",
+    "page_missing": false
+  },
+  {
+    "name": "Dinossom Lux",
+    "number": "084B",
+    "group": "variants",
+    "folder": "pals/Dinossom Lux",
+    "source_url": "https://palworld.fandom.com/wiki/Dinossom_Lux",
+    "page_missing": false
+  },
+  {
+    "name": "Bushi Noct",
+    "number": "085B",
+    "group": "variants",
+    "folder": "pals/Bushi Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Bushi_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Mammorest Cryst",
+    "number": "087B",
+    "group": "variants",
+    "folder": "pals/Mammorest Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Mammorest_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Finsider Ignis",
+    "number": "088B",
+    "group": "variants",
+    "folder": "pals/Finsider Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Finsider_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Petallia Ignis",
+    "number": "089B",
+    "group": "variants",
+    "folder": "pals/Petallia Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Petallia_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Incineram Noct",
+    "number": "091B",
+    "group": "variants",
+    "folder": "pals/Incineram Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Incineram_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Dazzi Noct",
+    "number": "092B",
+    "group": "variants",
+    "folder": "pals/Dazzi Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Dazzi_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Pyrin Noct",
+    "number": "093B",
+    "group": "variants",
+    "folder": "pals/Pyrin Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Pyrin_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Relaxaurus Lux",
+    "number": "094B",
+    "group": "variants",
+    "folder": "pals/Relaxaurus Lux",
+    "source_url": "https://palworld.fandom.com/wiki/Relaxaurus_Lux",
+    "page_missing": false
+  },
+  {
+    "name": "Beakon Cryst",
+    "number": "096B",
+    "group": "variants",
+    "folder": "pals/Beakon Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Beakon_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Ghangler Ignis",
+    "number": "097B",
+    "group": "variants",
+    "folder": "pals/Ghangler Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Ghangler_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Rayhound Cryst",
+    "number": "098B",
+    "group": "variants",
+    "folder": "pals/Rayhound Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Rayhound_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Menasting Terra",
+    "number": "099B",
+    "group": "variants",
+    "folder": "pals/Menasting Terra",
+    "source_url": "https://palworld.fandom.com/wiki/Menasting_Terra",
+    "page_missing": false
+  },
+  {
+    "name": "Needoll Noct",
+    "number": "100B",
+    "group": "variants",
+    "folder": "pals/Needoll Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Needoll_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Mossanda Lux",
+    "number": "102B",
+    "group": "variants",
+    "folder": "pals/Mossanda Lux",
+    "source_url": "https://palworld.fandom.com/wiki/Mossanda_Lux",
+    "page_missing": false
+  },
+  {
+    "name": "Chillet Ignis",
+    "number": "103B",
+    "group": "variants",
+    "folder": "pals/Chillet Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Chillet_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Moldron Cryst",
+    "number": "105B",
+    "group": "variants",
+    "folder": "pals/Moldron Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Moldron_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Broncherry Aqua",
+    "number": "108B",
+    "group": "variants",
+    "folder": "pals/Broncherry Aqua",
+    "source_url": "https://palworld.fandom.com/wiki/Broncherry_Aqua",
+    "page_missing": false
+  },
+  {
+    "name": "Dumud Gild",
+    "number": "109B",
+    "group": "variants",
+    "folder": "pals/Dumud Gild",
+    "source_url": "https://palworld.fandom.com/wiki/Dumud_Gild",
+    "page_missing": false
+  },
+  {
+    "name": "Kitsun Noct",
+    "number": "111B",
+    "group": "variants",
+    "folder": "pals/Kitsun Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Kitsun_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Blazehowl Noct",
+    "number": "112B",
+    "group": "variants",
+    "folder": "pals/Blazehowl Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Blazehowl_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Warsect Terra",
+    "number": "113B",
+    "group": "variants",
+    "folder": "pals/Warsect Terra",
+    "source_url": "https://palworld.fandom.com/wiki/Warsect_Terra",
+    "page_missing": false
+  },
+  {
+    "name": "Sibelyx Primo",
+    "number": "116B",
+    "group": "variants",
+    "folder": "pals/Sibelyx Primo",
+    "source_url": "https://palworld.fandom.com/wiki/Sibelyx_Primo",
+    "page_missing": false
+  },
+  {
+    "name": "Shroomer Noct",
+    "number": "118B",
+    "group": "variants",
+    "folder": "pals/Shroomer Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Shroomer_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Jormuntide Ignis",
+    "number": "121B",
+    "group": "variants",
+    "folder": "pals/Jormuntide Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Jormuntide_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Suzaku Aqua",
+    "number": "122B",
+    "group": "variants",
+    "folder": "pals/Suzaku Aqua",
+    "source_url": "https://palworld.fandom.com/wiki/Suzaku_Aqua",
+    "page_missing": false
+  },
+  {
+    "name": "Quivern Botan",
+    "number": "124B",
+    "group": "variants",
+    "folder": "pals/Quivern Botan",
+    "source_url": "https://palworld.fandom.com/wiki/Quivern_Botan",
+    "page_missing": false
+  },
+  {
+    "name": "Skutlass Ignis",
+    "number": "128B",
+    "group": "variants",
+    "folder": "pals/Skutlass Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Skutlass_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Reptyro Cryst",
+    "number": "129B",
+    "group": "variants",
+    "folder": "pals/Reptyro Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Reptyro_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Starryon Primo",
+    "number": "130B",
+    "group": "variants",
+    "folder": "pals/Starryon Primo",
+    "source_url": "https://palworld.fandom.com/wiki/Starryon_Primo",
+    "page_missing": false
+  },
+  {
+    "name": "Pierdon Cryst",
+    "number": "131B",
+    "group": "variants",
+    "folder": "pals/Pierdon Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Pierdon_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Cryolinx Terra",
+    "number": "132B",
+    "group": "variants",
+    "folder": "pals/Cryolinx Terra",
+    "source_url": "https://palworld.fandom.com/wiki/Cryolinx_Terra",
+    "page_missing": false
+  },
+  {
+    "name": "Wumpo Botan",
+    "number": "134B",
+    "group": "variants",
+    "folder": "pals/Wumpo Botan",
+    "source_url": "https://palworld.fandom.com/wiki/Wumpo_Botan",
+    "page_missing": false
+  },
+  {
+    "name": "Blazamut Ryu",
+    "number": "137B",
+    "group": "variants",
+    "folder": "pals/Blazamut Ryu",
+    "source_url": "https://palworld.fandom.com/wiki/Blazamut_Ryu",
+    "page_missing": false
+  },
+  {
+    "name": "Dualith Noct",
+    "number": "138B",
+    "group": "variants",
+    "folder": "pals/Dualith Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Dualith_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Prixter Lux",
+    "number": "141B",
+    "group": "variants",
+    "folder": "pals/Prixter Lux",
+    "source_url": "https://palworld.fandom.com/wiki/Prixter_Lux",
+    "page_missing": false
+  },
+  {
+    "name": "Tetroise Primo",
+    "number": "142B",
+    "group": "variants",
+    "folder": "pals/Tetroise Primo",
+    "source_url": "https://palworld.fandom.com/wiki/Tetroise_Primo",
+    "page_missing": false
+  },
+  {
+    "name": "Nitemary Botan",
+    "number": "148B",
+    "group": "variants",
+    "folder": "pals/Nitemary Botan",
+    "source_url": "https://palworld.fandom.com/wiki/Nitemary_Botan",
+    "page_missing": false
+  },
+  {
+    "name": "Smokie Cryst",
+    "number": "149B",
+    "group": "variants",
+    "folder": "pals/Smokie Cryst",
+    "source_url": "https://palworld.fandom.com/wiki/Smokie_Cryst",
+    "page_missing": false
+  },
+  {
+    "name": "Whalaska Ignis",
+    "number": "151B",
+    "group": "variants",
+    "folder": "pals/Whalaska Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Whalaska_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Celesdir Noct",
+    "number": "157B",
+    "group": "variants",
+    "folder": "pals/Celesdir Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Celesdir_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Knocklem Ignis",
+    "number": "159B",
+    "group": "variants",
+    "folder": "pals/Knocklem Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Knocklem_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Snock Lux",
+    "number": "163B",
+    "group": "variants",
+    "folder": "pals/Snock Lux",
+    "source_url": "https://palworld.fandom.com/wiki/Snock_Lux",
+    "page_missing": false
+  },
+  {
+    "name": "Solmora Lux",
+    "number": "169B",
+    "group": "variants",
+    "folder": "pals/Solmora Lux",
+    "source_url": "https://palworld.fandom.com/wiki/Solmora_Lux",
+    "page_missing": false
+  },
+  {
+    "name": "Eidrolon Ignis",
+    "number": "171B",
+    "group": "variants",
+    "folder": "pals/Eidrolon Ignis",
+    "source_url": "https://palworld.fandom.com/wiki/Eidrolon_Ignis",
+    "page_missing": false
+  },
+  {
+    "name": "Lyleen Noct",
+    "number": "186B",
+    "group": "variants",
+    "folder": "pals/Lyleen Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Lyleen_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Faleris Aqua",
+    "number": "188B",
+    "group": "variants",
+    "folder": "pals/Faleris Aqua",
+    "source_url": "https://palworld.fandom.com/wiki/Faleris_Aqua",
+    "page_missing": false
+  },
+  {
+    "name": "Bellanoir Libero",
+    "number": "195B",
+    "group": "variants",
+    "folder": "pals/Bellanoir Libero",
+    "source_url": "https://palworld.fandom.com/wiki/Bellanoir_Libero",
+    "page_missing": false
+  },
+  {
+    "name": "Frostallion Noct",
+    "number": "200B",
+    "group": "variants",
+    "folder": "pals/Frostallion Noct",
+    "source_url": "https://palworld.fandom.com/wiki/Frostallion_Noct",
+    "page_missing": false
+  },
+  {
+    "name": "Green Slime",
+    "number": "ToT",
+    "group": "crossover",
+    "folder": "pals/Green Slime",
+    "source_url": "https://palworld.fandom.com/wiki/Green_Slime",
+    "page_missing": false
+  },
+  {
+    "name": "Blue Slime",
+    "number": "ToT",
+    "group": "crossover",
+    "folder": "pals/Blue Slime",
+    "source_url": "https://palworld.fandom.com/wiki/Blue_Slime",
+    "page_missing": true
+  },
+  {
+    "name": "Red Slime",
+    "number": "ToT",
+    "group": "crossover",
+    "folder": "pals/Red Slime",
+    "source_url": "https://palworld.fandom.com/wiki/Red_Slime",
+    "page_missing": true
+  },
+  {
+    "name": "Purple Slime",
+    "number": "ToT",
+    "group": "crossover",
+    "folder": "pals/Purple Slime",
+    "source_url": "https://palworld.fandom.com/wiki/Purple_Slime",
+    "page_missing": true
+  },
+  {
+    "name": "Illuminant Slime",
+    "number": "ToT",
+    "group": "crossover",
+    "folder": "pals/Illuminant Slime",
+    "source_url": "https://palworld.fandom.com/wiki/Illuminant_Slime",
+    "page_missing": true
+  },
+  {
+    "name": "Rainbow Slime",
+    "number": "ToT",
+    "group": "crossover",
+    "folder": "pals/Rainbow Slime",
+    "source_url": "https://palworld.fandom.com/wiki/Rainbow_Slime",
+    "page_missing": true
+  },
+  {
+    "name": "Enchanted Sword",
+    "number": "ToT",
+    "group": "crossover",
+    "folder": "pals/Enchanted Sword",
+    "source_url": "https://palworld.fandom.com/wiki/Enchanted_Sword",
+    "page_missing": true
+  },
+  {
+    "name": "Cave Bat",
+    "number": "ToT",
+    "group": "crossover",
+    "folder": "pals/Cave Bat",
+    "source_url": "https://palworld.fandom.com/wiki/Cave_Bat",
+    "page_missing": true
+  },
+  {
+    "name": "Illuminant Bat",
+    "number": "ToT",
+    "group": "crossover",
+    "folder": "pals/Illuminant Bat",
+    "source_url": "https://palworld.fandom.com/wiki/Illuminant_Bat",
+    "page_missing": true
+  },
+  {
+    "name": "Demon Eye",
+    "number": "ToT",
+    "group": "crossover",
+    "folder": "pals/Demon Eye",
+    "source_url": "https://palworld.fandom.com/wiki/Demon_Eye",
+    "page_missing": true
+  },
+  {
+    "name": "Eye of Cthulhu",
+    "number": "ToT",
+    "group": "crossover",
+    "folder": "pals/Eye of Cthulhu",
+    "source_url": "https://palworld.fandom.com/wiki/Eye_of_Cthulhu",
+    "page_missing": true
+  },
+  {
+    "name": "Dragostrophe",
+    "number": "???",
+    "group": "unknown",
+    "folder": "pals/Dragostrophe",
+    "source_url": "https://palworld.fandom.com/wiki/Dragostrophe",
+    "page_missing": false
+  },
+  {
+    "name": "Boltmane",
+    "number": "???",
+    "group": "unknown",
+    "folder": "pals/Boltmane",
+    "source_url": "https://palworld.fandom.com/wiki/Boltmane",
+    "page_missing": false
+  },
+  {
+    "name": "Dark Mutant",
+    "number": "???",
+    "group": "unknown",
+    "folder": "pals/Dark Mutant",
+    "source_url": "https://palworld.fandom.com/wiki/Dark_Mutant",
+    "page_missing": false
+  },
+  {
+    "name": "Feathered Dragon",
+    "number": "???",
+    "group": "unknown",
+    "folder": "pals/Feathered Dragon",
+    "source_url": "https://palworld.fandom.com/wiki/Feathered_Dragon",
+    "page_missing": false
+  },
+  {
+    "name": "Cyan Wolf Cub",
+    "number": "???",
+    "group": "unknown",
+    "folder": "pals/Cyan Wolf Cub",
+    "source_url": "https://palworld.fandom.com/wiki/Cyan_Wolf_Cub",
+    "page_missing": false
+  }
+]

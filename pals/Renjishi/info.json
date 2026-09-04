@@ -1,0 +1,149 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Renjishi",
+  "source_page": "Renjishi",
+  "name": "Renjishi",
+  "number": "183",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/5/57/Renjishi.png/revision/latest/scale-to-width-down/268?cb=20260718020307",
+      "file": "pals/Renjishi/Renjishi.png",
+      "alt": "Renjishi"
+    }
+  },
+  "elements": [
+    "fire"
+  ],
+  "food": 8,
+  "gender_ratio": "60% / 40%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "2-3",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "flame_organ",
+      "quantity": "2-3",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "At a glance, its movements appear exaggerated and full of openings. Strangely, however, any opponents become overwhelmed, and become unable to look away, as if transfixed.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 120,
+          "min": 820,
+          "max": 1036
+        },
+        "defense": {
+          "growth": 100,
+          "min": 650,
+          "max": 830
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 120,
+          "min": 820,
+          "max": 1036
+        },
+        "defense": {
+          "growth": 100,
+          "min": 650,
+          "max": 830
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 1.5,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "ignis_blast"
+    },
+    {
+      "level": 7,
+      "skill_id": "spirit_fire"
+    },
+    {
+      "level": 15,
+      "skill_id": "ignis_breath"
+    },
+    {
+      "level": 22,
+      "skill_id": "flame_wall"
+    },
+    {
+      "level": 30,
+      "skill_id": "flame_funnel"
+    },
+    {
+      "level": 40,
+      "skill_id": "volcanic_rain"
+    },
+    {
+      "level": 50,
+      "skill_id": "ignis_rage"
+    },
+    {
+      "level": 70,
+      "skill_id": "fire_ball"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Scorching Egg",
+    "egg_type_id": "scorching_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Renjishi/sprites/front-chroma.png",
+      "transparent": "pals/Renjishi/sprites/front-transparent.png",
+      "front_96": "pals/Renjishi/sprites/front-96.png",
+      "front_96_pal32": "pals/Renjishi/sprites/front-96-pal32.png",
+      "front_64": "pals/Renjishi/sprites/front-64.png",
+      "front_64_pal32": "pals/Renjishi/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

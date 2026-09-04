@@ -1,0 +1,155 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Ribbuny_Botan",
+  "source_page": "Ribbuny_Botan",
+  "name": "Ribbuny Botan",
+  "number": "044B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/8/85/Ribbuny_Botan.png/revision/latest?cb=20241224130232",
+      "file": "pals/Ribbuny Botan/Ribbuny_Botan.png",
+      "alt": "Ribbuny Botan"
+    }
+  },
+  "elements": [
+    "grass"
+  ],
+  "food": 1,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "leather",
+      "quantity": "1",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "ribbuny_ribbon",
+      "quantity": "1",
+      "chance_percent": 50
+    },
+    {
+      "item_id": "carrot_seeds",
+      "quantity": "1",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "carrot",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Always wears a cheerful smile. Sometimes, thanks to Cattiva 's pranks, they end up tangled in tentacles and have to fight their way out! Even in tough situations, they keep smiling cheerfully.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 80,
+          "min": 4100,
+          "max": 5060
+        },
+        "attack": {
+          "growth": 65,
+          "min": 490,
+          "max": 607
+        },
+        "defense": {
+          "growth": 70,
+          "min": 470,
+          "max": 596
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 80,
+          "min": 4100,
+          "max": 5060
+        },
+        "attack": {
+          "growth": 65,
+          "min": 490,
+          "max": 607
+        },
+        "defense": {
+          "growth": 70,
+          "min": 470,
+          "max": 596
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 0.66,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "while_in_party_improves_the_player_s_and_pals_grass_damage_to_enemy_weak_points_by_25_increases_efficiency_by_200_when_working_at_a_weapon_workbench_weapon_assembly_line_or_other_related_facilities"
+    ],
+    "work_suitability": [],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "wind_cutter"
+    },
+    {
+      "level": 15,
+      "skill_id": "seed_machine_gun"
+    },
+    {
+      "level": 22,
+      "skill_id": "seed_mine"
+    },
+    {
+      "level": 40,
+      "skill_id": "circle_vine"
+    },
+    {
+      "level": 50,
+      "skill_id": "solar_blast"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Verdant Egg",
+    "egg_type_id": "verdant_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Ribbuny Botan/sprites/front-chroma.png",
+      "transparent": "pals/Ribbuny Botan/sprites/front-transparent.png",
+      "front_96": "pals/Ribbuny Botan/sprites/front-96.png",
+      "front_96_pal32": "pals/Ribbuny Botan/sprites/front-96-pal32.png",
+      "front_64": "pals/Ribbuny Botan/sprites/front-64.png",
+      "front_64_pal32": "pals/Ribbuny Botan/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

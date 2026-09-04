@@ -1,0 +1,8 @@
+﻿Use case: stylized-concept
+Asset type: front-facing pixel-art game creature sprite for TamaPoke-style pet customization
+Input images: Image 1 is the visual reference for the creature's body shape, facial features, colors, proportions, and recognizable silhouette.
+Primary request: Create a single front-perspective pixel-art sprite version of Lamball, suitable for a Tamagotchi-style handheld game.
+Style/medium: crisp 2D pixel art sprite, limited palette, readable at small size, clean dark outline, no anti-aliased blur.
+Composition/framing: full body centered, front-facing standing pose, square canvas, generous padding around all sides.
+Scene/backdrop: perfectly flat solid #00ff00 chroma-key background for background removal.
+Constraints: keep the subject fully separated from the background; no text; no watermark; no shadow; no floor plane; no gradients or texture in the background; do not use #00ff00 anywhere in the subject.

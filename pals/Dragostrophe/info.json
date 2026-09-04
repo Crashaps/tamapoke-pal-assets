@@ -1,0 +1,113 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Dragostrophe",
+  "source_page": "Dragostrophe",
+  "name": "Dragostrophe",
+  "number": "???",
+  "group": "unknown",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5e/Dragostrophe.png/revision/latest/scale-to-width-down/268?cb=20240315084432",
+      "file": "pals/Dragostrophe/Dragostrophe.png",
+      "alt": "Dragostrophe"
+    }
+  },
+  "elements": [
+    "dragon",
+    "dark"
+  ],
+  "food": 8,
+  "gender_ratio": null,
+  "drops": [],
+  "palpedia_entry": null,
+  "availability": {},
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "attack": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "defense": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "attack": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        },
+        "defense": {
+          "growth": "???",
+          "min": "???",
+          "max": "???"
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": "?",
+    "fire": "?",
+    "water": "?",
+    "grass": "?",
+    "electric": "?",
+    "ice": "?",
+    "ground": "?",
+    "dark": "?",
+    "dragon": "?"
+  },
+  "utility": {
+    "the_black_winged_shooter_1": [
+      "Allows the player to ride and fly on it."
+    ],
+    "work_suitability": [
+      {
+        "work_id": "transporting",
+        "level": 3
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [],
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Dragostrophe/sprites/front-chroma.png",
+      "transparent": "pals/Dragostrophe/sprites/front-transparent.png",
+      "front_96": "pals/Dragostrophe/sprites/front-96.png",
+      "front_96_pal32": "pals/Dragostrophe/sprites/front-96-pal32.png",
+      "front_64": "pals/Dragostrophe/sprites/front-64.png",
+      "front_64_pal32": "pals/Dragostrophe/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

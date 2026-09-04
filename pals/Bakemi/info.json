@@ -1,0 +1,154 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Bakemi",
+  "source_page": "Bakemi",
+  "name": "Bakemi",
+  "number": "168",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/6/69/Bakemi.png/revision/latest/scale-to-width-down/268?cb=20260718015835",
+      "file": "pals/Bakemi/Bakemi.png",
+      "alt": "Bakemi"
+    }
+  },
+  "elements": [
+    "dark"
+  ],
+  "food": 5,
+  "gender_ratio": "40% / 60%",
+  "drops": [
+    {
+      "item_id": "cloth",
+      "quantity": "1-2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "horn",
+      "quantity": "2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "small_pal_soul",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "It lives entirely for the thrill of the scare, but is utterly un-frightening. As most cannot help but indulge it with feigned surprise for its cuteness, Bakemi now leaves a trail of smiles in its wake.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 85,
+          "min": 610,
+          "max": 763
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 85,
+          "min": 610,
+          "max": 763
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.0,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "dark_ball"
+    },
+    {
+      "level": 7,
+      "skill_id": "shadow_burst"
+    },
+    {
+      "level": 15,
+      "skill_id": "spirit_flame"
+    },
+    {
+      "level": 22,
+      "skill_id": "nightmare_ball"
+    },
+    {
+      "level": 30,
+      "skill_id": "apocalypse"
+    },
+    {
+      "level": 40,
+      "skill_id": "dark_laser"
+    },
+    {
+      "level": 50,
+      "skill_id": "fire_ball"
+    },
+    {
+      "level": 70,
+      "skill_id": "dark_whisp"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Dark Egg",
+    "egg_type_id": "dark_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Bakemi/sprites/front-chroma.png",
+      "transparent": "pals/Bakemi/sprites/front-transparent.png",
+      "front_96": "pals/Bakemi/sprites/front-96.png",
+      "front_96_pal32": "pals/Bakemi/sprites/front-96-pal32.png",
+      "front_64": "pals/Bakemi/sprites/front-64.png",
+      "front_64_pal32": "pals/Bakemi/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

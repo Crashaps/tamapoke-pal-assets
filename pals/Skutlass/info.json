@@ -1,0 +1,139 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Skutlass",
+  "source_page": "Skutlass",
+  "name": "Skutlass",
+  "number": "128",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/d/d4/Skutlass.png/revision/latest/scale-to-width-down/268?cb=20260718020354",
+      "file": "pals/Skutlass/Skutlass.png",
+      "alt": "Skutlass"
+    }
+  },
+  "elements": [
+    "water"
+  ],
+  "food": 5,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "skutlass_sashimi",
+      "quantity": "1-2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "aquatic_pal_fluids",
+      "quantity": "1-2",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "A bizarre species which temporarily separates its body and uses its bones to slice through enemies, at the risk of perishing itself upon taking too long. While unconfirmed, older individuals are said to deliberately stay separated in order to trigger their survival instincts and prolong their lifespans.",
+  "availability": {},
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 100,
+          "min": 700,
+          "max": 880
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 100,
+          "min": 700,
+          "max": 880
+        },
+        "defense": {
+          "growth": 80,
+          "min": 530,
+          "max": 674
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": "?",
+    "fire": "?",
+    "water": "?",
+    "grass": "?",
+    "electric": "?",
+    "ice": "?",
+    "ground": "?",
+    "dark": "?",
+    "dragon": "?"
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "currently_not_known"
+    ],
+    "work_suitability": [],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "hydro_jet"
+    },
+    {
+      "level": 7,
+      "skill_id": "bubble_blast"
+    },
+    {
+      "level": 15,
+      "skill_id": "splash"
+    },
+    {
+      "level": 40,
+      "skill_id": "hydro_laser"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Damp Egg",
+    "egg_type_id": "damp_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Skutlass/sprites/front-chroma.png",
+      "transparent": "pals/Skutlass/sprites/front-transparent.png",
+      "front_96": "pals/Skutlass/sprites/front-96.png",
+      "front_96_pal32": "pals/Skutlass/sprites/front-96-pal32.png",
+      "front_64": "pals/Skutlass/sprites/front-64.png",
+      "front_64_pal32": "pals/Skutlass/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

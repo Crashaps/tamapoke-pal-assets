@@ -1,0 +1,40 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Enchanted_Sword",
+  "source_page": "Enchanted_Sword",
+  "name": "Enchanted Sword",
+  "number": "ToT",
+  "group": "crossover",
+  "page_missing": true,
+  "page_error": "{'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://palworld.fandom.com/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+  "images": {
+    "palpedia_thumbnail": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/6/64/Enchanted_Sword_menu.png/revision/latest/scale-to-width-down/40?cb=20250625080429",
+      "file": "pals/Enchanted Sword/Enchanted_Sword_menu.png",
+      "alt": "Enchanted Sword menu"
+    }
+  },
+  "elements": [
+    "neutral"
+  ],
+  "food": null,
+  "gender_ratio": null,
+  "drops": [],
+  "palpedia_entry": null,
+  "availability": {},
+  "pal_eggs": [],
+  "stats": {},
+  "elemental_effectiveness": {},
+  "utility": {},
+  "active_skills": [],
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Enchanted Sword/sprites/front-chroma.png",
+      "transparent": "pals/Enchanted Sword/sprites/front-transparent.png",
+      "front_96": "pals/Enchanted Sword/sprites/front-96.png",
+      "front_96_pal32": "pals/Enchanted Sword/sprites/front-96-pal32.png",
+      "front_64": "pals/Enchanted Sword/sprites/front-64.png",
+      "front_64_pal32": "pals/Enchanted Sword/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Sootseer",
+  "source_page": "Sootseer",
+  "name": "Sootseer",
+  "number": "135",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/f/f0/Sootseer.png/revision/latest/scale-to-width-down/268?cb=20240709092226",
+      "file": "pals/Sootseer/Sootseer.png",
+      "alt": "Sootseer"
+    }
+  },
+  "elements": [
+    "dark",
+    "fire"
+  ],
+  "food": 7,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "medium_pal_soul",
+      "quantity": "1-2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "bone",
+      "quantity": "1-2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "crude_oil",
+      "quantity": "1",
+      "chance_percent": 50
+    }
+  ],
+  "palpedia_entry": "It was once believed that as the world approached its end, the flame would weaken. Doomsayers would repeatedly rejoice when the flame began to weaken, but in the end, it turned out to be a prank by Sootseer. At least, for now.",
+  "availability": {
+    "Wild Spawn": [
+      "Found at night in the graveyard area of Sakurajima."
+    ],
+    "Dungeons": [
+      "Can be encountered in certain dungeons in Sakurajima as Alpha Boss."
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 125,
+          "min": 850,
+          "max": 1075
+        },
+        "defense": {
+          "growth": 90,
+          "min": 590,
+          "max": 752
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 125,
+          "min": 850,
+          "max": 1075
+        },
+        "defense": {
+          "growth": 90,
+          "min": 590,
+          "max": 752
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 1.5,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {
+    "farming_produce": [
+      "Bone x1"
+    ]
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "ignis_blast"
+    },
+    {
+      "level": 7,
+      "skill_id": "dark_ball"
+    },
+    {
+      "level": 15,
+      "skill_id": "spirit_fire"
+    },
+    {
+      "level": 22,
+      "skill_id": "spirit_flame"
+    },
+    {
+      "level": 30,
+      "skill_id": "nightmare_ball"
+    },
+    {
+      "level": 40,
+      "skill_id": "flame_funnel"
+    },
+    {
+      "level": 50,
+      "skill_id": "volcanic_rain"
+    },
+    {
+      "level": 70,
+      "skill_id": "dark_whisp"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Dark Egg",
+    "egg_type_id": "dark_egg"
+  }
+}

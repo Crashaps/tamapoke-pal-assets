@@ -1,0 +1,171 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Kelpsea_Ignis",
+  "source_page": "Kelpsea_Ignis",
+  "name": "Kelpsea Ignis",
+  "number": "043B",
+  "group": "variants",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/d/d7/Kelpsea_Ignis.png/revision/latest/scale-to-width-down/267?cb=20240407190924",
+      "file": "pals/Kelpsea Ignis/Kelpsea_Ignis.png",
+      "alt": "Kelpsea Ignis"
+    }
+  },
+  "elements": [
+    "fire"
+  ],
+  "food": 1,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "raw_kelpsea",
+      "quantity": "1",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "flame_organ",
+      "quantity": "1",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "Its personality changes depending on the temperature of the water it was born into. Kelpsea born in warm waters generally have a passionate, motivated personality.",
+  "availability": {
+    "Wild Spawn": [
+      "Missing Information"
+    ]
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 70,
+          "min": 520,
+          "max": 646
+        },
+        "defense": {
+          "growth": 70,
+          "min": 470,
+          "max": 596
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 70,
+          "min": 3700,
+          "max": 4540
+        },
+        "attack": {
+          "growth": 70,
+          "min": 520,
+          "max": 646
+        },
+        "defense": {
+          "growth": 70,
+          "min": 470,
+          "max": 596
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 0.66,
+    "water": 1.5,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 0.66,
+    "ground": 1.0,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "lava_spout"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "kindling",
+        "level": 1
+      },
+      {
+        "work_id": "farming",
+        "level": 1
+      }
+    ],
+    "possible_drops": {
+      "normal": []
+    },
+    "farming_produce_item_ids": [
+      "flame_organ"
+    ]
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "ignis_blast"
+    },
+    {
+      "level": 7,
+      "skill_id": "dragon_cannon"
+    },
+    {
+      "level": 15,
+      "skill_id": "spirit_fire"
+    },
+    {
+      "level": 22,
+      "skill_id": "flare_arrow"
+    },
+    {
+      "level": 30,
+      "skill_id": "dragon_burst"
+    },
+    {
+      "level": 40,
+      "skill_id": "ignis_breath"
+    },
+    {
+      "level": 50,
+      "skill_id": "fire_ball"
+    },
+    {
+      "level": 70,
+      "skill_id": "dragon_meteor"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Scorching Egg",
+    "egg_type_id": "scorching_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Kelpsea Ignis/sprites/front-chroma.png",
+      "transparent": "pals/Kelpsea Ignis/sprites/front-transparent.png",
+      "front_96": "pals/Kelpsea Ignis/sprites/front-96.png",
+      "front_96_pal32": "pals/Kelpsea Ignis/sprites/front-96-pal32.png",
+      "front_64": "pals/Kelpsea Ignis/sprites/front-64.png",
+      "front_64_pal32": "pals/Kelpsea Ignis/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

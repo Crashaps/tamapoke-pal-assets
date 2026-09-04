@@ -1,0 +1,142 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Gildra",
+  "source_page": "Gildra",
+  "name": "Gildra",
+  "number": "120",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/a/ae/Gildra.png/revision/latest/scale-to-width-down/268?cb=20260718020021",
+      "file": "pals/Gildra/Gildra.png",
+      "alt": "Gildra"
+    }
+  },
+  "elements": [
+    "dark",
+    "ground"
+  ],
+  "food": 6,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "cloth",
+      "quantity": "2-3",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "leather",
+      "quantity": "2-3",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "The golden, bandage-like organs covering its body are highly elastic. However, they are prone to tearing under extremely dry conditions, so daily moisture checks are absolutely essential.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 120,
+          "min": 820,
+          "max": 1036
+        },
+        "defense": {
+          "growth": 105,
+          "min": 680,
+          "max": 869
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 105,
+          "min": 5100,
+          "max": 6360
+        },
+        "attack": {
+          "growth": 120,
+          "min": 820,
+          "max": 1036
+        },
+        "defense": {
+          "growth": 105,
+          "min": 680,
+          "max": 869
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.0,
+    "water": 1.0,
+    "grass": 1.5,
+    "electric": 0.66,
+    "ice": 1.0,
+    "ground": 0.66,
+    "dark": 0.66,
+    "dragon": 1.5
+  },
+  "utility": {},
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "dark_ball"
+    },
+    {
+      "level": 7,
+      "skill_id": "spirit_flame"
+    },
+    {
+      "level": 15,
+      "skill_id": "sand_tornado"
+    },
+    {
+      "level": 22,
+      "skill_id": "nightmare_ball"
+    },
+    {
+      "level": 30,
+      "skill_id": "sand_twister"
+    },
+    {
+      "level": 50,
+      "skill_id": "dark_whisp"
+    }
+  ],
+  "pal_egg": {
+    "text": "Large Dark Egg",
+    "egg_type_id": "dark_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Gildra/sprites/front-chroma.png",
+      "transparent": "pals/Gildra/sprites/front-transparent.png",
+      "front_96": "pals/Gildra/sprites/front-96.png",
+      "front_96_pal32": "pals/Gildra/sprites/front-96-pal32.png",
+      "front_64": "pals/Gildra/sprites/front-64.png",
+      "front_64_pal32": "pals/Gildra/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}

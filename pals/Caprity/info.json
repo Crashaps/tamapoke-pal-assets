@@ -1,0 +1,163 @@
+{
+  "source_url": "https://palworld.fandom.com/wiki/Caprity",
+  "source_page": "Caprity",
+  "name": "Caprity",
+  "number": "034",
+  "group": "regular",
+  "images": {
+    "pal": {
+      "source_url": "https://static.wikia.nocookie.net/palworld/images/5/5f/Caprity.png/revision/latest/scale-to-width-down/268?cb=20240407182626",
+      "file": "pals/Caprity/Caprity.png",
+      "alt": "Caprity"
+    }
+  },
+  "elements": [
+    "grass"
+  ],
+  "food": 2,
+  "gender_ratio": "50% / 50%",
+  "drops": [
+    {
+      "item_id": "caprity_meat",
+      "quantity": "2",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "red_berries",
+      "quantity": "2-4",
+      "chance_percent": 100
+    },
+    {
+      "item_id": "horn",
+      "quantity": "1-2",
+      "chance_percent": 100
+    }
+  ],
+  "palpedia_entry": "The shrub on this pal's back produces berries as long as it is properly fed. It offers these berries to potential mates, and if the flavor is to their liking, romance blossoms.",
+  "availability": {
+    "Wild Spawn": []
+  },
+  "pal_eggs": [],
+  "stats": {
+    "lv80_hidden": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv80)",
+        "Max (Lv80)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 100,
+          "min": 4900,
+          "max": 6100
+        },
+        "attack": {
+          "growth": 70,
+          "min": 520,
+          "max": 646
+        },
+        "defense": {
+          "growth": 90,
+          "min": 590,
+          "max": 752
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills , Pal Condensing nor Trust in mind."
+    },
+    "lv65_visible": {
+      "columns": [
+        "Stat Growth",
+        "Min (Lv65)",
+        "Max (Lv65)"
+      ],
+      "rows": {
+        "hp": {
+          "growth": 100,
+          "min": 4900,
+          "max": 6100
+        },
+        "attack": {
+          "growth": 70,
+          "min": 520,
+          "max": 646
+        },
+        "defense": {
+          "growth": 90,
+          "min": 590,
+          "max": 752
+        }
+      },
+      "note": "Minimum and Maximum stats are calculated without Passive Skills in mind."
+    }
+  },
+  "elemental_effectiveness": {
+    "neutral": 1.0,
+    "fire": 1.5,
+    "water": 1.0,
+    "grass": 0.66,
+    "electric": 1.0,
+    "ice": 1.0,
+    "ground": 0.66,
+    "dark": 1.0,
+    "dragon": 1.0
+  },
+  "utility": {
+    "partner_skill_ids": [
+      "berry_picker"
+    ],
+    "work_suitability": [
+      {
+        "work_id": "planting",
+        "level": 2
+      },
+      {
+        "work_id": "farming",
+        "level": 1
+      }
+    ],
+    "possible_drops": {
+      "other": []
+    }
+  },
+  "active_skills": [
+    {
+      "level": 1,
+      "skill_id": "wind_cutter"
+    },
+    {
+      "level": 7,
+      "skill_id": "air_cannon"
+    },
+    {
+      "level": 22,
+      "skill_id": "power_shot"
+    },
+    {
+      "level": 30,
+      "skill_id": "grass_tornado"
+    },
+    {
+      "level": 40,
+      "skill_id": "spine_vine"
+    },
+    {
+      "level": 50,
+      "skill_id": "solar_blast"
+    }
+  ],
+  "pal_egg": {
+    "text": "Small Verdant Egg",
+    "egg_type_id": "verdant_egg"
+  },
+  "generated_sprites": {
+    "front_pixel_art": {
+      "source_chroma": "pals/Caprity/sprites/front-chroma.png",
+      "transparent": "pals/Caprity/sprites/front-transparent.png",
+      "front_96": "pals/Caprity/sprites/front-96.png",
+      "front_96_pal32": "pals/Caprity/sprites/front-96-pal32.png",
+      "front_64": "pals/Caprity/sprites/front-64.png",
+      "front_64_pal32": "pals/Caprity/sprites/front-64-pal32.png",
+      "tool": "image_gen built-in + local chroma-key post-processing"
+    }
+  }
+}
