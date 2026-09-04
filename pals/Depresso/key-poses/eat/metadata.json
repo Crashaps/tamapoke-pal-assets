@@ -1,0 +1,16 @@
+{
+  "pal": "Depresso",
+  "key_pose": "eat",
+  "tool": "image_gen.imagegen",
+  "source_generated_image": "C:\\Users\\Crash\\.codex\\generated_images\\019f9e2c-a32d-77a0-87ab-85afa91df8bc\\call_XY6ycugOtF4HcW6lXZRpfp2z.png",
+  "references": [
+    "pals/Depresso/Depresso.png",
+    "pals/Depresso/sprites/front-96.png"
+  ],
+  "outputs": {
+    "source": "source.png",
+    "pose_96": "pose-96.png",
+    "pose_64": "pose-64.png"
+  },
+  "status": "accepted_key_pose_input"
+}
