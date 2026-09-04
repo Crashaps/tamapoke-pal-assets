@@ -1,0 +1,14 @@
+{
+  "pal": "Lifmunk",
+  "key_pose": "mood-pose",
+  "tool": "mcp__pixellab.edit_image_pixen",
+  "job_id": "00780e0a-c2b1-4428-98b1-a5c4a90b9f10",
+  "source_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lifmunk/sprites/front-96.png",
+  "outputs": {
+    "source": "source.png",
+    "pose_96": "pose-96.png",
+    "pose_64": "pose-64.png"
+  },
+  "status": "accepted_key_pose_input",
+  "note": "Built-in imagegen was tried first for sleep-rest and blocked by output moderation; PixelLab Pixen edit was used for Lifmunk key poses."
+}
