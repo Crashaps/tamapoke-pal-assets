@@ -1,14 +1,11 @@
 {
   "pal": "Lamball",
-  "key_pose": "eat",
-  "tool": "mcp__pixellab.edit_image_pixen",
-  "job_id": "58416d9b-c086-4c70-9118-3ca0e967f8d0",
-  "source_front_image_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
-  "outputs": {
-    "source": "source.png",
-    "pose_96": "pose-96.png",
-    "pose_64": "pose-64.png"
-  },
+  "action": "eat",
+  "tool": "image_gen.imagegen + tools/prepare_sprite_input.py",
+  "source_generated_image": "C:\\Users\\Crash\\.codex\\generated_images\\019f9e2c-a32d-77a0-87ab-85afa91df8bc\\call_fGiAxZSyErUdosvdnIRGlSp0.png",
+  "source": "pals/Lamball/key-poses/eat/source.png",
+  "pose_96": "pals/Lamball/key-poses/eat/pose-96.png",
+  "pose_64": "pals/Lamball/key-poses/eat/pose-64.png",
   "status": "accepted_key_pose_input",
-  "note": "Clean Lamball eating key pose generated with PixelLab Pixen edit after rejecting imagegen output with extra limbs."
+  "note": "Corrects previous no-arm/no-food eat loop. Background checkerboard was edge-removed before crop-and-fit."
 }
