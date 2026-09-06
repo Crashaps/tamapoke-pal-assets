@@ -1,0 +1,11 @@
+{
+  "pal": "Lunaris",
+  "action": "eat",
+  "tool": "image_gen.imagegen",
+  "source_generated_image": "C:\\Users\\Crash\\.codex\\generated_images\\019f9e2c-a32d-77a0-87ab-85afa91df8bc\\call_JwzQPg8hrzyrvx2PDzXBlBpF.png",
+  "source": "pals/Lunaris/key-poses/eat/source.png",
+  "pose_96": "pals/Lunaris/key-poses/eat/pose-96.png",
+  "pose_64": "pals/Lunaris/key-poses/eat/pose-64.png",
+  "status": "accepted_first_pass",
+  "note": "Generated for floating/hovering Lunaris MVP animation input."
+}
