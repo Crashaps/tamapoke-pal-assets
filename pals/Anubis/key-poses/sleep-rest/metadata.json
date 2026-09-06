@@ -1,0 +1,10 @@
+{
+  "pal": "Anubis",
+  "action": "sleep-rest",
+  "tool": "image_gen.imagegen",
+  "source_generated_image": "C:\\Users\\Crash\\.codex\\generated_images\\019f9e2c-a32d-77a0-87ab-85afa91df8bc\\call_lrnuC3QTArTj5AnbtbVCovd8.png",
+  "source": "pals/Anubis/key-poses/sleep-rest/source.png",
+  "pose_96": "pals/Anubis/key-poses/sleep-rest/pose-96.png",
+  "pose_64": "pals/Anubis/key-poses/sleep-rest/pose-64.png",
+  "status": "accepted_first_pass"
+}
