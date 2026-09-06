@@ -1,0 +1,674 @@
+[
+  {
+    "pal": "Anubis",
+    "action": "idle",
+    "source": "sprites/front-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Anubis/pixellab-inputs/qa-redo/idle-96.png",
+    "public_path": "pals/Anubis/pixellab-inputs/qa-redo/idle-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Anubis/pixellab-inputs/qa-redo/idle-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Anubis\\pixellab-inputs\\qa-redo\\idle-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        17,
+        2,
+        78,
+        94
+      ],
+      "bbox_size": [
+        61,
+        92
+      ],
+      "occupancy": 0.6089,
+      "width_fill": 0.6354,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.6354,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Anubis",
+    "action": "walk",
+    "source": "sprites/front-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Anubis/pixellab-inputs/qa-redo/walk-96.png",
+    "public_path": "pals/Anubis/pixellab-inputs/qa-redo/walk-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Anubis/pixellab-inputs/qa-redo/walk-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Anubis\\pixellab-inputs\\qa-redo\\walk-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        17,
+        2,
+        78,
+        94
+      ],
+      "bbox_size": [
+        61,
+        92
+      ],
+      "occupancy": 0.6089,
+      "width_fill": 0.6354,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.6354,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Anubis",
+    "action": "sleep-rest",
+    "source": "key-poses/sleep-rest/pose-96.png",
+    "anchor": "center",
+    "local_path": "pals/Anubis/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "public_path": "pals/Anubis/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Anubis/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Anubis\\pixellab-inputs\\qa-redo\\sleep-rest-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        16,
+        2,
+        80,
+        93
+      ],
+      "bbox_size": [
+        64,
+        91
+      ],
+      "occupancy": 0.6319,
+      "width_fill": 0.6667,
+      "height_fill": 0.9479,
+      "dominant_fit": 0.9479,
+      "minor_fit": 0.6667,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Anubis",
+    "action": "eat",
+    "source": "key-poses/eat/pose-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Anubis/pixellab-inputs/qa-redo/eat-96.png",
+    "public_path": "pals/Anubis/pixellab-inputs/qa-redo/eat-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Anubis/pixellab-inputs/qa-redo/eat-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Anubis\\pixellab-inputs\\qa-redo\\eat-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        19,
+        2,
+        76,
+        94
+      ],
+      "bbox_size": [
+        57,
+        92
+      ],
+      "occupancy": 0.569,
+      "width_fill": 0.5938,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.5938,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Anubis",
+    "action": "mood-hurt",
+    "source": "key-poses/mood-hurt/pose-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Anubis/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "public_path": "pals/Anubis/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Anubis/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Anubis\\pixellab-inputs\\qa-redo\\mood-hurt-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        21,
+        2,
+        74,
+        94
+      ],
+      "bbox_size": [
+        53,
+        92
+      ],
+      "occupancy": 0.5291,
+      "width_fill": 0.5521,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.5521,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Depresso",
+    "action": "idle",
+    "source": "sprites/front-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Depresso/pixellab-inputs/qa-redo/idle-96.png",
+    "public_path": "pals/Depresso/pixellab-inputs/qa-redo/idle-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Depresso/pixellab-inputs/qa-redo/idle-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Depresso\\pixellab-inputs\\qa-redo\\idle-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        16,
+        2,
+        79,
+        94
+      ],
+      "bbox_size": [
+        63,
+        92
+      ],
+      "occupancy": 0.6289,
+      "width_fill": 0.6562,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.6562,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Depresso",
+    "action": "walk",
+    "source": "sprites/front-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Depresso/pixellab-inputs/qa-redo/walk-96.png",
+    "public_path": "pals/Depresso/pixellab-inputs/qa-redo/walk-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Depresso/pixellab-inputs/qa-redo/walk-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Depresso\\pixellab-inputs\\qa-redo\\walk-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        16,
+        2,
+        79,
+        94
+      ],
+      "bbox_size": [
+        63,
+        92
+      ],
+      "occupancy": 0.6289,
+      "width_fill": 0.6562,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.6562,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Depresso",
+    "action": "sleep-rest",
+    "source": "key-poses/sleep-rest/pose-96.png",
+    "anchor": "center",
+    "local_path": "pals/Depresso/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "public_path": "pals/Depresso/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Depresso/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Depresso\\pixellab-inputs\\qa-redo\\sleep-rest-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        9,
+        2,
+        87,
+        94
+      ],
+      "bbox_size": [
+        78,
+        92
+      ],
+      "occupancy": 0.7786,
+      "width_fill": 0.8125,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.8125,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Depresso",
+    "action": "eat",
+    "source": "key-poses/eat/pose-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Depresso/pixellab-inputs/qa-redo/eat-96.png",
+    "public_path": "pals/Depresso/pixellab-inputs/qa-redo/eat-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Depresso/pixellab-inputs/qa-redo/eat-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Depresso\\pixellab-inputs\\qa-redo\\eat-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        12,
+        2,
+        84,
+        94
+      ],
+      "bbox_size": [
+        72,
+        92
+      ],
+      "occupancy": 0.7188,
+      "width_fill": 0.75,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.75,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Depresso",
+    "action": "mood-hurt",
+    "source": "key-poses/mood-hurt/pose-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Depresso/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "public_path": "pals/Depresso/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Depresso/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Depresso\\pixellab-inputs\\qa-redo\\mood-hurt-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        13,
+        2,
+        83,
+        93
+      ],
+      "bbox_size": [
+        70,
+        91
+      ],
+      "occupancy": 0.6912,
+      "width_fill": 0.7292,
+      "height_fill": 0.9479,
+      "dominant_fit": 0.9479,
+      "minor_fit": 0.7292,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Lamball",
+    "action": "idle",
+    "source": "sprites/front-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Lamball/pixellab-inputs/qa-redo/idle-96.png",
+    "public_path": "pals/Lamball/pixellab-inputs/qa-redo/idle-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/pixellab-inputs/qa-redo/idle-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Lamball\\pixellab-inputs\\qa-redo\\idle-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        2,
+        2,
+        94,
+        94
+      ],
+      "bbox_size": [
+        92,
+        92
+      ],
+      "occupancy": 0.9184,
+      "width_fill": 0.9583,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.9583,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Lamball",
+    "action": "sleep-rest",
+    "source": "key-poses/sleep-rest/pose-96.png",
+    "anchor": "center",
+    "local_path": "pals/Lamball/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "public_path": "pals/Lamball/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Lamball\\pixellab-inputs\\qa-redo\\sleep-rest-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        2,
+        7,
+        94,
+        89
+      ],
+      "bbox_size": [
+        92,
+        82
+      ],
+      "occupancy": 0.8186,
+      "width_fill": 0.9583,
+      "height_fill": 0.8542,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.8542,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Lamball",
+    "action": "mood-hurt",
+    "source": "key-poses/mood-hurt/pose-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Lamball/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "public_path": "pals/Lamball/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Lamball\\pixellab-inputs\\qa-redo\\mood-hurt-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        2,
+        3,
+        94,
+        94
+      ],
+      "bbox_size": [
+        92,
+        91
+      ],
+      "occupancy": 0.9084,
+      "width_fill": 0.9583,
+      "height_fill": 0.9479,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.9479,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Lifmunk",
+    "action": "idle",
+    "source": "sprites/front-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Lifmunk/pixellab-inputs/qa-redo/idle-96.png",
+    "public_path": "pals/Lifmunk/pixellab-inputs/qa-redo/idle-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lifmunk/pixellab-inputs/qa-redo/idle-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Lifmunk\\pixellab-inputs\\qa-redo\\idle-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        11,
+        2,
+        85,
+        94
+      ],
+      "bbox_size": [
+        74,
+        92
+      ],
+      "occupancy": 0.7387,
+      "width_fill": 0.7708,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.7708,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Lifmunk",
+    "action": "sleep-rest",
+    "source": "key-poses/sleep-rest/pose-96.png",
+    "anchor": "center",
+    "local_path": "pals/Lifmunk/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "public_path": "pals/Lifmunk/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lifmunk/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Lifmunk\\pixellab-inputs\\qa-redo\\sleep-rest-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        7,
+        2,
+        88,
+        94
+      ],
+      "bbox_size": [
+        81,
+        92
+      ],
+      "occupancy": 0.8086,
+      "width_fill": 0.8438,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.8438,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Lifmunk",
+    "action": "eat",
+    "source": "key-poses/eat/pose-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Lifmunk/pixellab-inputs/qa-redo/eat-96.png",
+    "public_path": "pals/Lifmunk/pixellab-inputs/qa-redo/eat-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lifmunk/pixellab-inputs/qa-redo/eat-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Lifmunk\\pixellab-inputs\\qa-redo\\eat-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        10,
+        2,
+        85,
+        94
+      ],
+      "bbox_size": [
+        75,
+        92
+      ],
+      "occupancy": 0.7487,
+      "width_fill": 0.7812,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.7812,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Lifmunk",
+    "action": "mood-pose",
+    "source": "key-poses/mood-pose/pose-96.png",
+    "anchor": "bottom",
+    "local_path": "pals/Lifmunk/pixellab-inputs/qa-redo/mood-pose-96.png",
+    "public_path": "pals/Lifmunk/pixellab-inputs/qa-redo/mood-pose-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lifmunk/pixellab-inputs/qa-redo/mood-pose-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Lifmunk\\pixellab-inputs\\qa-redo\\mood-pose-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        13,
+        2,
+        82,
+        94
+      ],
+      "bbox_size": [
+        69,
+        92
+      ],
+      "occupancy": 0.6888,
+      "width_fill": 0.7188,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.7188,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Lunaris",
+    "action": "idle",
+    "source": "sprites/front-96.png",
+    "anchor": "center",
+    "local_path": "pals/Lunaris/pixellab-inputs/qa-redo/idle-96.png",
+    "public_path": "pals/Lunaris/pixellab-inputs/qa-redo/idle-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lunaris/pixellab-inputs/qa-redo/idle-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Lunaris\\pixellab-inputs\\qa-redo\\idle-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        17,
+        2,
+        79,
+        94
+      ],
+      "bbox_size": [
+        62,
+        92
+      ],
+      "occupancy": 0.6189,
+      "width_fill": 0.6458,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.6458,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Lunaris",
+    "action": "sleep-rest",
+    "source": "key-poses/sleep-rest/pose-96.png",
+    "anchor": "center",
+    "local_path": "pals/Lunaris/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "public_path": "pals/Lunaris/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lunaris/pixellab-inputs/qa-redo/sleep-rest-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Lunaris\\pixellab-inputs\\qa-redo\\sleep-rest-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        17,
+        2,
+        79,
+        94
+      ],
+      "bbox_size": [
+        62,
+        92
+      ],
+      "occupancy": 0.6189,
+      "width_fill": 0.6458,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.6458,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Lunaris",
+    "action": "eat",
+    "source": "key-poses/eat/pose-96.png",
+    "anchor": "center",
+    "local_path": "pals/Lunaris/pixellab-inputs/qa-redo/eat-96.png",
+    "public_path": "pals/Lunaris/pixellab-inputs/qa-redo/eat-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lunaris/pixellab-inputs/qa-redo/eat-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Lunaris\\pixellab-inputs\\qa-redo\\eat-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        17,
+        2,
+        78,
+        94
+      ],
+      "bbox_size": [
+        61,
+        92
+      ],
+      "occupancy": 0.6089,
+      "width_fill": 0.6354,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.6354,
+      "fit_status": "pass"
+    }
+  },
+  {
+    "pal": "Lunaris",
+    "action": "mood-hurt",
+    "source": "key-poses/mood-hurt/pose-96.png",
+    "anchor": "center",
+    "local_path": "pals/Lunaris/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "public_path": "pals/Lunaris/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "raw_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lunaris/pixellab-inputs/qa-redo/mood-hurt-96.png",
+    "bounds": {
+      "file": "D:\\Code\\TamaPoke\\pals\\Lunaris\\pixellab-inputs\\qa-redo\\mood-hurt-96.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "bbox": [
+        18,
+        2,
+        78,
+        94
+      ],
+      "bbox_size": [
+        60,
+        92
+      ],
+      "occupancy": 0.599,
+      "width_fill": 0.625,
+      "height_fill": 0.9583,
+      "dominant_fit": 0.9583,
+      "minor_fit": 0.625,
+      "fit_status": "pass"
+    }
+  }
+]
