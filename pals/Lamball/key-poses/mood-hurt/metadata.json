@@ -1,0 +1,14 @@
+{
+  "pal": "Lamball",
+  "key_pose": "mood-hurt",
+  "tool": "image_gen.imagegen",
+  "job_id": null,
+  "source_front_image_url": "https://raw.githubusercontent.com/Crashaps/tamapoke-pal-assets/main/pals/Lamball/sprites/front-96.png",
+  "outputs": {
+    "source": "source.png",
+    "pose_96": "pose-96.png",
+    "pose_64": "pose-64.png"
+  },
+  "status": "accepted_key_pose_input",
+  "note": "Lamball sad/hurt key pose generated with original Lamball and front-96 references."
+}
